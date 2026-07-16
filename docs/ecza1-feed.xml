@@ -8,7 +8,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -24,7 +24,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -40,7 +40,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -56,7 +56,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -72,7 +72,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -88,7 +88,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0630 ]]></miat>
 <miattr><![CDATA[ Haziran 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -100,11 +100,11 @@
 <sku><![CDATA[ 8680702301081 ]]></sku>
 <name><![CDATA[ Alesta Sağlık Sambucus C Vitamini 1000 mg Zink 20 Efervesan Tablet ]]></name>
 <quantity><![CDATA[ 8 ]]></quantity>
-<price><![CDATA[ 88.43 ]]></price>
+<price><![CDATA[ 88.41 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -116,11 +116,11 @@
 <sku><![CDATA[ 8594060892191 ]]></sku>
 <name><![CDATA[ Altermed %9 Panthenol Forte Sprey 150 ml ]]></name>
 <quantity><![CDATA[ 9 ]]></quantity>
-<price><![CDATA[ 149.13 ]]></price>
+<price><![CDATA[ 149.12 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -136,7 +136,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -152,7 +152,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -168,7 +168,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -184,7 +184,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -196,11 +196,11 @@
 <sku><![CDATA[ 8680702300411 ]]></sku>
 <name><![CDATA[ Apexis Drops Mentol Okaliptus Aromalı Pastil 16'lı ]]></name>
 <quantity><![CDATA[ 18 ]]></quantity>
-<price><![CDATA[ 38.9 ]]></price>
+<price><![CDATA[ 38.88 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -216,7 +216,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -232,7 +232,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -244,11 +244,11 @@
 <sku><![CDATA[ 8680702301111 ]]></sku>
 <name><![CDATA[ Apexis Magnesium Quintuple 30 Tablet ]]></name>
 <quantity><![CDATA[ 18 ]]></quantity>
-<price><![CDATA[ 190.95 ]]></price>
+<price><![CDATA[ 190.93 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -264,7 +264,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -280,7 +280,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -296,7 +296,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -308,11 +308,11 @@
 <sku><![CDATA[ 8680038005738 ]]></sku>
 <name><![CDATA[ Apexis Omega-3 30 Kapsül ]]></name>
 <quantity><![CDATA[ 31 ]]></quantity>
-<price><![CDATA[ 211.84 ]]></price>
+<price><![CDATA[ 211.82 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -324,11 +324,11 @@
 <sku><![CDATA[ 8680038005745 ]]></sku>
 <name><![CDATA[ Apexis Omega-3 50 Kapsül ]]></name>
 <quantity><![CDATA[ 33 ]]></quantity>
-<price><![CDATA[ 286.02 ]]></price>
+<price><![CDATA[ 285.91 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -340,11 +340,11 @@
 <sku><![CDATA[ 8680702301050 ]]></sku>
 <name><![CDATA[ Apexis Vitamin C 1000 + Propolis + Zinc 20 Efervesan Tablet ]]></name>
 <quantity><![CDATA[ 16 ]]></quantity>
-<price><![CDATA[ 98.32 ]]></price>
+<price><![CDATA[ 98.3 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -356,11 +356,11 @@
 <sku><![CDATA[ 8680702301012 ]]></sku>
 <name><![CDATA[ Apexis Vitamin C 1000 mg 20 Efervesan Tablet ]]></name>
 <quantity><![CDATA[ 53 ]]></quantity>
-<price><![CDATA[ 98.64 ]]></price>
+<price><![CDATA[ 98.62 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -376,7 +376,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -392,7 +392,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -408,7 +408,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0227 ]]></miat>
 <miattr><![CDATA[ Şubat 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -424,7 +424,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -440,7 +440,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -456,7 +456,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
 <miattr><![CDATA[ Aralık 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -472,7 +472,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -488,7 +488,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0327 ]]></miat>
 <miattr><![CDATA[ Mart 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -504,7 +504,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -520,7 +520,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -536,7 +536,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -552,7 +552,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0227 ]]></miat>
 <miattr><![CDATA[ Şubat 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -568,7 +568,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -584,7 +584,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -596,11 +596,11 @@
 <sku><![CDATA[ 5010724003558 ]]></sku>
 <name><![CDATA[ Arm & Hammer Advance Gum Care Diş Macunu 75 ml ]]></name>
 <quantity><![CDATA[ 48 ]]></quantity>
-<price><![CDATA[ 156.95 ]]></price>
+<price><![CDATA[ 156.93 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -616,7 +616,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -632,7 +632,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -648,7 +648,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1126 ]]></miat>
 <miattr><![CDATA[ Kasım 2026 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -664,7 +664,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -680,7 +680,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1126 ]]></miat>
 <miattr><![CDATA[ Kasım 2026 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -692,11 +692,11 @@
 <sku><![CDATA[ 8699546578085 ]]></sku>
 <name><![CDATA[ Aspinatura Vişne ve Limon Öksürük Şurubu 120 ml ]]></name>
 <quantity><![CDATA[ 99 ]]></quantity>
-<price><![CDATA[ 191.53 ]]></price>
+<price><![CDATA[ 191.52 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -712,7 +712,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -728,7 +728,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -744,7 +744,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -760,7 +760,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -776,7 +776,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -792,7 +792,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -808,7 +808,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -824,7 +824,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -840,7 +840,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -856,7 +856,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -872,7 +872,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -888,7 +888,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -900,11 +900,11 @@
 <sku><![CDATA[ 5999880412018 ]]></sku>
 <name><![CDATA[ Baby-Vac Burun Aspiratörü ]]></name>
 <quantity><![CDATA[ 94 ]]></quantity>
-<price><![CDATA[ 591.25 ]]></price>
+<price><![CDATA[ 591.24 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -920,7 +920,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -936,7 +936,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -948,11 +948,11 @@
 <sku><![CDATA[ 8690555514460 ]]></sku>
 <name><![CDATA[ Banat Acrobat Junior Ağız Bakım Seti ]]></name>
 <quantity><![CDATA[ 549 ]]></quantity>
-<price><![CDATA[ 180.99 ]]></price>
+<price><![CDATA[ 180.88 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -968,7 +968,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -984,7 +984,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1000,7 +1000,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1016,7 +1016,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1032,7 +1032,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1048,7 +1048,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1060,11 +1060,11 @@
 <sku><![CDATA[ 8690555510011 ]]></sku>
 <name><![CDATA[ Banat Diş Fırçası Compact Medium ]]></name>
 <quantity><![CDATA[ 274 ]]></quantity>
-<price><![CDATA[ 23.96 ]]></price>
+<price><![CDATA[ 23.94 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1080,7 +1080,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1096,7 +1096,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1112,7 +1112,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1128,7 +1128,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1144,7 +1144,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1160,7 +1160,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1176,7 +1176,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1192,7 +1192,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1208,7 +1208,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1224,7 +1224,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1240,7 +1240,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1256,7 +1256,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1272,7 +1272,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1288,7 +1288,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1304,7 +1304,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1320,7 +1320,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1336,7 +1336,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1352,7 +1352,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1030 ]]></miat>
 <miattr><![CDATA[ Ekim 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1368,7 +1368,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0630 ]]></miat>
 <miattr><![CDATA[ Haziran 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1384,7 +1384,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0630 ]]></miat>
 <miattr><![CDATA[ Haziran 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1400,7 +1400,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1412,11 +1412,11 @@
 <sku><![CDATA[ 8680512600343 ]]></sku>
 <name><![CDATA[ Biobaby Atocare Kuru ve Atopik Ciltler İçin Krem 100 ml ]]></name>
 <quantity><![CDATA[ 64 ]]></quantity>
-<price><![CDATA[ 183.02 ]]></price>
+<price><![CDATA[ 182.91 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1432,7 +1432,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1448,7 +1448,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1464,7 +1464,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1480,7 +1480,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1496,7 +1496,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1512,7 +1512,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1528,7 +1528,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1544,7 +1544,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1560,7 +1560,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0528 ]]></miat>
 <miattr><![CDATA[ Mayıs 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1576,7 +1576,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1592,7 +1592,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1604,11 +1604,11 @@
 <sku><![CDATA[ 8680512632542 ]]></sku>
 <name><![CDATA[ Bioxcin Collagen %5 Kırışıklık Karşıtı Sıkılaştırıcı Serum 30 ml ]]></name>
 <quantity><![CDATA[ 102 ]]></quantity>
-<price><![CDATA[ 460.23 ]]></price>
+<price><![CDATA[ 460.21 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1620,11 +1620,11 @@
 <sku><![CDATA[ 8699956000930 ]]></sku>
 <name><![CDATA[ Bitex Bit Spreyi 100 ml + Şampuan 150 ml - Çelik Tarak Hediyeli ]]></name>
 <quantity><![CDATA[ 500 ]]></quantity>
-<price><![CDATA[ 101.47 ]]></price>
+<price><![CDATA[ 101.46 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1640,7 +1640,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1656,7 +1656,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1672,7 +1672,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1688,7 +1688,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1704,7 +1704,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1126 ]]></miat>
 <miattr><![CDATA[ Kasım 2026 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1720,7 +1720,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1732,11 +1732,11 @@
 <sku><![CDATA[ 8697842621610 ]]></sku>
 <name><![CDATA[ Bote Lip Balm - Kiraz ]]></name>
 <quantity><![CDATA[ 212 ]]></quantity>
-<price><![CDATA[ 29.15 ]]></price>
+<price><![CDATA[ 29.13 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1752,7 +1752,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1768,7 +1768,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1784,7 +1784,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1800,7 +1800,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1816,7 +1816,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1832,7 +1832,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1848,7 +1848,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1864,7 +1864,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1880,7 +1880,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1892,11 +1892,11 @@
 <sku><![CDATA[ 3337875597357 ]]></sku>
 <name><![CDATA[ Cerave Foaming Cleanser 473 ml ]]></name>
 <quantity><![CDATA[ 81 ]]></quantity>
-<price><![CDATA[ 770.55 ]]></price>
+<price><![CDATA[ 770.54 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1912,7 +1912,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1928,7 +1928,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1944,7 +1944,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1960,7 +1960,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1976,7 +1976,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -1992,7 +1992,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2008,7 +2008,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2020,11 +2020,11 @@
 <sku><![CDATA[ 3337875905633 ]]></sku>
 <name><![CDATA[ Cerave Nemlendirici Losyon Refill 473 ml ]]></name>
 <quantity><![CDATA[ 140 ]]></quantity>
-<price><![CDATA[ 913.86 ]]></price>
+<price><![CDATA[ 913.85 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2040,7 +2040,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2056,7 +2056,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2072,7 +2072,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2088,7 +2088,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2100,11 +2100,11 @@
 <sku><![CDATA[ 8684266110615 ]]></sku>
 <name><![CDATA[ Clades Citronella Yağı 20 ml ]]></name>
 <quantity><![CDATA[ 8 ]]></quantity>
-<price><![CDATA[ 52.24 ]]></price>
+<price><![CDATA[ 52.13 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2116,11 +2116,11 @@
 <sku><![CDATA[ 8684266110707 ]]></sku>
 <name><![CDATA[ Clades Mavi Anemon Yağı 20 ml ]]></name>
 <quantity><![CDATA[ 9 ]]></quantity>
-<price><![CDATA[ 53.56 ]]></price>
+<price><![CDATA[ 53.45 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2136,7 +2136,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2152,7 +2152,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2168,7 +2168,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2184,7 +2184,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2200,7 +2200,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2216,7 +2216,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2232,7 +2232,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2248,7 +2248,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2260,11 +2260,11 @@
 <sku><![CDATA[ 8697595870426 ]]></sku>
 <name><![CDATA[ Cosakondrin MSM 60 Tablet ]]></name>
 <quantity><![CDATA[ 215 ]]></quantity>
-<price><![CDATA[ 484.98 ]]></price>
+<price><![CDATA[ 484.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2280,7 +2280,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2296,7 +2296,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2308,11 +2308,11 @@
 <sku><![CDATA[ 8690605066239 ]]></sku>
 <name><![CDATA[ Dalin Bebek Yağı Sprey 200 ml ]]></name>
 <quantity><![CDATA[ 62 ]]></quantity>
-<price><![CDATA[ 124.91 ]]></price>
+<price><![CDATA[ 124.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2324,11 +2324,11 @@
 <sku><![CDATA[ 8690605081874 ]]></sku>
 <name><![CDATA[ Dalin Limon Çiçeği Bebek Kolonyası 100 ml ]]></name>
 <quantity><![CDATA[ 387 ]]></quantity>
-<price><![CDATA[ 53.04 ]]></price>
+<price><![CDATA[ 53.03 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0930 ]]></miat>
 <miattr><![CDATA[ Eylül 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2344,7 +2344,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0127 ]]></miat>
 <miattr><![CDATA[ Ocak 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2360,7 +2360,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2376,7 +2376,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2392,7 +2392,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0127 ]]></miat>
 <miattr><![CDATA[ Ocak 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2408,7 +2408,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2424,7 +2424,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2440,7 +2440,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2456,7 +2456,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2472,7 +2472,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2488,7 +2488,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2500,11 +2500,11 @@
 <sku><![CDATA[ 8697796003005 ]]></sku>
 <name><![CDATA[ Dermoskin Be Bright Liposomal Vitamin C Complex Serum 30 ml ]]></name>
 <quantity><![CDATA[ 21 ]]></quantity>
-<price><![CDATA[ 993.52 ]]></price>
+<price><![CDATA[ 993.51 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2516,11 +2516,11 @@
 <sku><![CDATA[ 8697796001018 ]]></sku>
 <name><![CDATA[ Dermoskin Be Bright Pigmentyl Güneş Kremi SPF50+ 75 ml - İkili Kofre ]]></name>
 <quantity><![CDATA[ 60 ]]></quantity>
-<price><![CDATA[ 671.75 ]]></price>
+<price><![CDATA[ 671.74 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2536,7 +2536,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2552,7 +2552,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2568,7 +2568,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2580,11 +2580,11 @@
 <sku><![CDATA[ 8690927512759 ]]></sku>
 <name><![CDATA[ Difaş Nano Soft Diş Fırçası Yumuşak ]]></name>
 <quantity><![CDATA[ 132 ]]></quantity>
-<price><![CDATA[ 72.15 ]]></price>
+<price><![CDATA[ 72.14 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2596,11 +2596,11 @@
 <sku><![CDATA[ 8690927512742 ]]></sku>
 <name><![CDATA[ Difaş Nano Wave Diş Fırçası Orta Sert ]]></name>
 <quantity><![CDATA[ 32 ]]></quantity>
-<price><![CDATA[ 72.14 ]]></price>
+<price><![CDATA[ 72.13 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2616,7 +2616,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2632,7 +2632,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2648,7 +2648,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
 <miattr><![CDATA[ Aralık 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2664,7 +2664,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0327 ]]></miat>
 <miattr><![CDATA[ Mart 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2680,7 +2680,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2696,7 +2696,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2712,7 +2712,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0730 ]]></miat>
 <miattr><![CDATA[ Temmuz 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2728,7 +2728,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1129 ]]></miat>
 <miattr><![CDATA[ Kasım 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2740,11 +2740,11 @@
 <sku><![CDATA[ 5052197057911 ]]></sku>
 <name><![CDATA[ Durex Prezervatif Klasik Ince 10'lu ]]></name>
 <quantity><![CDATA[ 35 ]]></quantity>
-<price><![CDATA[ 113.97 ]]></price>
+<price><![CDATA[ 113.96 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0530 ]]></miat>
 <miattr><![CDATA[ Mayıs 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2756,11 +2756,11 @@
 <sku><![CDATA[ 5052197060980 ]]></sku>
 <name><![CDATA[ Durex Prezervatif Slim Fit Uyum 10'lu ]]></name>
 <quantity><![CDATA[ 43 ]]></quantity>
-<price><![CDATA[ 114.32 ]]></price>
+<price><![CDATA[ 114.31 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0130 ]]></miat>
 <miattr><![CDATA[ Ocak 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2776,7 +2776,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2792,7 +2792,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2808,7 +2808,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2824,7 +2824,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2840,7 +2840,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2856,7 +2856,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2872,7 +2872,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2888,7 +2888,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2904,7 +2904,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2920,7 +2920,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2936,7 +2936,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2952,7 +2952,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2968,7 +2968,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -2984,7 +2984,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3000,7 +3000,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3016,7 +3016,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3032,7 +3032,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3048,7 +3048,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3064,7 +3064,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0427 ]]></miat>
 <miattr><![CDATA[ Nisan 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3080,7 +3080,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3096,7 +3096,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3112,7 +3112,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3124,11 +3124,11 @@
 <sku><![CDATA[ 8691685024454 ]]></sku>
 <name><![CDATA[ Eyüp Sabri Tuncer Doğal Nane Özlü Diş Macunu 90 ml ]]></name>
 <quantity><![CDATA[ 11 ]]></quantity>
-<price><![CDATA[ 139.42 ]]></price>
+<price><![CDATA[ 139.41 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3140,11 +3140,11 @@
 <sku><![CDATA[ 8693203014275 ]]></sku>
 <name><![CDATA[ Fe Tırnak Makası Büyük ]]></name>
 <quantity><![CDATA[ 455 ]]></quantity>
-<price><![CDATA[ 74.19 ]]></price>
+<price><![CDATA[ 74.18 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3160,7 +3160,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3176,7 +3176,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3192,7 +3192,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3204,11 +3204,11 @@
 <sku><![CDATA[ 5012616267130 ]]></sku>
 <name><![CDATA[ Firefly Marvel Spider-Man Çürük Önleyici Diş Macunu 75 ml ]]></name>
 <quantity><![CDATA[ 16 ]]></quantity>
-<price><![CDATA[ 221.13 ]]></price>
+<price><![CDATA[ 221.11 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3224,7 +3224,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3240,7 +3240,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3256,7 +3256,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3272,7 +3272,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3288,7 +3288,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3304,7 +3304,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3320,7 +3320,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3336,7 +3336,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3348,11 +3348,11 @@
 <sku><![CDATA[ 8684382998081 ]]></sku>
 <name><![CDATA[ Fortune Fix Esnek Flaster 2.5 cm x 5 m ]]></name>
 <quantity><![CDATA[ 144 ]]></quantity>
-<price><![CDATA[ 33.01 ]]></price>
+<price><![CDATA[ 32.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0630 ]]></miat>
 <miattr><![CDATA[ Haziran 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3368,7 +3368,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1226 ]]></miat>
 <miattr><![CDATA[ Aralık 2026 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3384,7 +3384,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3400,7 +3400,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3416,7 +3416,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3432,7 +3432,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0327 ]]></miat>
 <miattr><![CDATA[ Mart 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3448,7 +3448,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3464,7 +3464,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3480,7 +3480,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3496,7 +3496,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3512,7 +3512,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3528,7 +3528,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
 <miattr><![CDATA[ Aralık 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3544,7 +3544,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3560,7 +3560,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3576,7 +3576,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3592,7 +3592,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3608,7 +3608,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3624,7 +3624,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3640,7 +3640,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3656,7 +3656,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3672,7 +3672,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3688,7 +3688,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3704,7 +3704,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3720,7 +3720,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3736,7 +3736,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3752,7 +3752,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1026 ]]></miat>
 <miattr><![CDATA[ Ekim 2026 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3768,7 +3768,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3784,7 +3784,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3800,7 +3800,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3816,7 +3816,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0127 ]]></miat>
 <miattr><![CDATA[ Ocak 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3832,7 +3832,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3848,7 +3848,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3864,7 +3864,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3880,7 +3880,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3896,7 +3896,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3912,7 +3912,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3928,7 +3928,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3944,7 +3944,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3960,7 +3960,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3976,7 +3976,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0427 ]]></miat>
 <miattr><![CDATA[ Nisan 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -3992,7 +3992,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0427 ]]></miat>
 <miattr><![CDATA[ Nisan 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4004,11 +4004,11 @@
 <sku><![CDATA[ 8683229606578 ]]></sku>
 <name><![CDATA[ Jellia Kayxganlaşhtpırıcı Jel Pure Naturel 100 ml ]]></name>
 <quantity><![CDATA[ 26 ]]></quantity>
-<price><![CDATA[ 118.99 ]]></price>
+<price><![CDATA[ 118.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0427 ]]></miat>
 <miattr><![CDATA[ Nisan 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4024,7 +4024,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4040,7 +4040,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4056,7 +4056,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1130 ]]></miat>
 <miattr><![CDATA[ Kasım 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4072,7 +4072,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4088,7 +4088,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4104,7 +4104,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4120,7 +4120,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4136,7 +4136,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4152,7 +4152,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4168,7 +4168,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4184,7 +4184,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4196,11 +4196,11 @@
 <sku><![CDATA[ 8684468262259 ]]></sku>
 <name><![CDATA[ Jenbol Kinesiology Tape Ağrı Bandı 5 cm x 5 m - Sarı ]]></name>
 <quantity><![CDATA[ 47 ]]></quantity>
-<price><![CDATA[ 89.58 ]]></price>
+<price><![CDATA[ 89.56 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4216,7 +4216,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4232,7 +4232,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4248,7 +4248,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4264,7 +4264,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4280,7 +4280,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4296,7 +4296,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4312,7 +4312,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4324,11 +4324,11 @@
 <sku><![CDATA[ 5029053534794 ]]></sku>
 <name><![CDATA[ Kotex Tampon Mini 16'lı ]]></name>
 <quantity><![CDATA[ 13 ]]></quantity>
-<price><![CDATA[ 120.23 ]]></price>
+<price><![CDATA[ 120.12 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4344,7 +4344,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4360,7 +4360,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4372,11 +4372,11 @@
 <sku><![CDATA[ 3337875696838 ]]></sku>
 <name><![CDATA[ La Roche Posay Anthelios Invisible Shaka Spray SPF50+ 200 ml ]]></name>
 <quantity><![CDATA[ 8 ]]></quantity>
-<price><![CDATA[ 1447.52 ]]></price>
+<price><![CDATA[ 1447.51 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4392,7 +4392,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0529 ]]></miat>
 <miattr><![CDATA[ Mayıs 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4408,7 +4408,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4424,7 +4424,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4436,11 +4436,11 @@
 <sku><![CDATA[ 3337875920742 ]]></sku>
 <name><![CDATA[ La Roche Posay Effaclar A.Z. Gel Krem 40 ml ]]></name>
 <quantity><![CDATA[ 56 ]]></quantity>
-<price><![CDATA[ 1323.5 ]]></price>
+<price><![CDATA[ 1323.49 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4456,7 +4456,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4472,7 +4472,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4488,7 +4488,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4504,7 +4504,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4520,7 +4520,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4532,11 +4532,11 @@
 <sku><![CDATA[ 3337875694469 ]]></sku>
 <name><![CDATA[ La Roche Posay Retinol Serum 30 ml ]]></name>
 <quantity><![CDATA[ 37 ]]></quantity>
-<price><![CDATA[ 2329.78 ]]></price>
+<price><![CDATA[ 2329.77 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4552,7 +4552,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4564,11 +4564,11 @@
 <sku><![CDATA[ 8699708151767 ]]></sku>
 <name><![CDATA[ Lacmix 60 Kapsül ]]></name>
 <quantity><![CDATA[ 43 ]]></quantity>
-<price><![CDATA[ 1084.54 ]]></price>
+<price><![CDATA[ 1084.53 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4584,7 +4584,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0327 ]]></miat>
 <miattr><![CDATA[ Mart 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4600,7 +4600,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4616,7 +4616,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0530 ]]></miat>
 <miattr><![CDATA[ Mayıs 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4632,7 +4632,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4648,7 +4648,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4664,7 +4664,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4680,7 +4680,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4696,7 +4696,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4712,7 +4712,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0127 ]]></miat>
 <miattr><![CDATA[ Ocak 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4728,7 +4728,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4740,11 +4740,11 @@
 <sku><![CDATA[ 8680133001833 ]]></sku>
 <name><![CDATA[ Magnimore Magnesium L-Threonate 60 Kapsül ]]></name>
 <quantity><![CDATA[ 48 ]]></quantity>
-<price><![CDATA[ 823.85 ]]></price>
+<price><![CDATA[ 823.84 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4760,7 +4760,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4776,7 +4776,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4792,7 +4792,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0327 ]]></miat>
 <miattr><![CDATA[ Mart 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4804,11 +4804,11 @@
 <sku><![CDATA[ 8683391101666 ]]></sku>
 <name><![CDATA[ Miroculous Kız Uğur Böceği Lipcare 5 gr ]]></name>
 <quantity><![CDATA[ 41 ]]></quantity>
-<price><![CDATA[ 46.49 ]]></price>
+<price><![CDATA[ 46.38 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4824,7 +4824,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4840,7 +4840,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4856,7 +4856,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4872,7 +4872,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4888,7 +4888,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4904,7 +4904,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4920,7 +4920,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4936,7 +4936,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4952,7 +4952,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4968,7 +4968,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -4984,7 +4984,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1030 ]]></miat>
 <miattr><![CDATA[ Ekim 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5000,7 +5000,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5016,7 +5016,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5032,7 +5032,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5048,7 +5048,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5060,11 +5060,11 @@
 <sku><![CDATA[ 8682257731740 ]]></sku>
 <name><![CDATA[ Move&Flex Kinesiology Bandı Kırmızı ]]></name>
 <quantity><![CDATA[ 29 ]]></quantity>
-<price><![CDATA[ 109.09 ]]></price>
+<price><![CDATA[ 109.07 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5080,7 +5080,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5096,7 +5096,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5112,7 +5112,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5128,7 +5128,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5144,7 +5144,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5160,7 +5160,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5176,7 +5176,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5192,7 +5192,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5208,7 +5208,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5224,7 +5224,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5240,7 +5240,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5256,7 +5256,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5272,7 +5272,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5288,7 +5288,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5304,7 +5304,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5320,7 +5320,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5336,7 +5336,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5348,11 +5348,11 @@
 <sku><![CDATA[ 8680645530210 ]]></sku>
 <name><![CDATA[ NBT Life Berliv Lipozamal Berberin 60 Kapsül ]]></name>
 <quantity><![CDATA[ 96 ]]></quantity>
-<price><![CDATA[ 977.72 ]]></price>
+<price><![CDATA[ 977.71 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0529 ]]></miat>
 <miattr><![CDATA[ Mayıs 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5368,7 +5368,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0327 ]]></miat>
 <miattr><![CDATA[ Mart 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5384,7 +5384,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5396,11 +5396,11 @@
 <sku><![CDATA[ 8680645530371 ]]></sku>
 <name><![CDATA[ NBT Life Magnezyum Bisglisinat ve Sitrat 60 Kapsül ]]></name>
 <quantity><![CDATA[ 15 ]]></quantity>
-<price><![CDATA[ 487.52 ]]></price>
+<price><![CDATA[ 487.51 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5416,7 +5416,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5432,7 +5432,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5448,7 +5448,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5464,7 +5464,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5480,7 +5480,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5496,7 +5496,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5508,11 +5508,11 @@
 <sku><![CDATA[ 8850029036564 ]]></sku>
 <name><![CDATA[ Nivea Body Super10 Aydınlık Vücut Serumu 170 ml ]]></name>
 <quantity><![CDATA[ 28 ]]></quantity>
-<price><![CDATA[ 186.71 ]]></price>
+<price><![CDATA[ 186.7 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5524,11 +5524,11 @@
 <sku><![CDATA[ 8850029043364 ]]></sku>
 <name><![CDATA[ Nivea Body Super10 Gençlik Işıltısı Vücut Serumu 170 ml ]]></name>
 <quantity><![CDATA[ 34 ]]></quantity>
-<price><![CDATA[ 186.72 ]]></price>
+<price><![CDATA[ 186.71 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5544,7 +5544,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5560,7 +5560,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5576,7 +5576,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5588,11 +5588,11 @@
 <sku><![CDATA[ 4006000176628 ]]></sku>
 <name><![CDATA[ Nivea Derma Control Defend Ekstra Konfor Roll-On 50 ml ]]></name>
 <quantity><![CDATA[ 29 ]]></quantity>
-<price><![CDATA[ 164.79 ]]></price>
+<price><![CDATA[ 164.78 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5608,7 +5608,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5624,7 +5624,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5640,7 +5640,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5656,7 +5656,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5672,7 +5672,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5688,7 +5688,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5704,7 +5704,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5720,7 +5720,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5736,7 +5736,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5752,7 +5752,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5768,7 +5768,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0629 ]]></miat>
 <miattr><![CDATA[ Haziran 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5784,7 +5784,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5800,7 +5800,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5816,7 +5816,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5832,7 +5832,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5844,11 +5844,11 @@
 <sku><![CDATA[ 8697595872871 ]]></sku>
 <name><![CDATA[ Ocean B Complex 50 Kapsül ]]></name>
 <quantity><![CDATA[ 256 ]]></quantity>
-<price><![CDATA[ 359.99 ]]></price>
+<price><![CDATA[ 359.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5864,7 +5864,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
 <miattr><![CDATA[ Aralık 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5876,11 +5876,11 @@
 <sku><![CDATA[ 850081345053 ]]></sku>
 <name><![CDATA[ Ocean Colflex 30 Saşe ]]></name>
 <quantity><![CDATA[ 8 ]]></quantity>
-<price><![CDATA[ 1195.73 ]]></price>
+<price><![CDATA[ 1195.72 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5896,7 +5896,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5912,7 +5912,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5928,7 +5928,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5944,7 +5944,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5956,11 +5956,11 @@
 <sku><![CDATA[ 8697595871201 ]]></sku>
 <name><![CDATA[ Ocean MK-7 100 mcg Vitamin K2 30 Kapsül ]]></name>
 <quantity><![CDATA[ 125 ]]></quantity>
-<price><![CDATA[ 344.6 ]]></price>
+<price><![CDATA[ 344.59 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5976,7 +5976,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -5992,7 +5992,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6008,7 +6008,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6024,7 +6024,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6040,7 +6040,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6056,7 +6056,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6072,7 +6072,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6088,7 +6088,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6104,7 +6104,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6120,7 +6120,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6136,7 +6136,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
 <miattr><![CDATA[ Aralık 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6152,7 +6152,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0127 ]]></miat>
 <miattr><![CDATA[ Ocak 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6168,7 +6168,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6184,7 +6184,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6200,7 +6200,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6216,7 +6216,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6232,7 +6232,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6248,7 +6248,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6264,7 +6264,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0130 ]]></miat>
 <miattr><![CDATA[ Ocak 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6280,7 +6280,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6296,7 +6296,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6312,7 +6312,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6328,7 +6328,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6344,7 +6344,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6360,7 +6360,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6376,7 +6376,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6392,7 +6392,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6408,7 +6408,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6420,11 +6420,11 @@
 <sku><![CDATA[ 3014260846923 ]]></sku>
 <name><![CDATA[ Oral-B Pro Expert Frozen 8 Yaş+ Diş Fırçası ]]></name>
 <quantity><![CDATA[ 10 ]]></quantity>
-<price><![CDATA[ 110.12 ]]></price>
+<price><![CDATA[ 110.1 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6440,7 +6440,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6456,7 +6456,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6472,7 +6472,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6488,7 +6488,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6504,7 +6504,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6520,7 +6520,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6536,7 +6536,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6552,7 +6552,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6568,7 +6568,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6584,7 +6584,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6600,7 +6600,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6616,7 +6616,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6632,7 +6632,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6648,7 +6648,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6664,7 +6664,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6680,7 +6680,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6696,7 +6696,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0327 ]]></miat>
 <miattr><![CDATA[ Mart 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6712,7 +6712,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6728,7 +6728,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6744,7 +6744,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6760,7 +6760,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6776,7 +6776,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6788,11 +6788,11 @@
 <sku><![CDATA[ 8699037121059 ]]></sku>
 <name><![CDATA[ Prodoctor Erken Gebelik Testi ]]></name>
 <quantity><![CDATA[ 1340 ]]></quantity>
-<price><![CDATA[ 42.01 ]]></price>
+<price><![CDATA[ 37.12 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6808,7 +6808,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6824,7 +6824,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6840,7 +6840,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6856,7 +6856,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6868,11 +6868,11 @@
 <sku><![CDATA[ 7391899856957 ]]></sku>
 <name><![CDATA[ Renu Advanced Çok Amaçlı Lens Solüsyonu 100 ml ]]></name>
 <quantity><![CDATA[ 83 ]]></quantity>
-<price><![CDATA[ 236.19 ]]></price>
+<price><![CDATA[ 236.18 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6888,7 +6888,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
 <miattr><![CDATA[ Aralık 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6904,7 +6904,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0830 ]]></miat>
 <miattr><![CDATA[ Ağustos 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6920,7 +6920,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6936,7 +6936,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6952,7 +6952,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6968,7 +6968,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -6984,7 +6984,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7000,7 +7000,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7016,7 +7016,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7032,7 +7032,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7048,7 +7048,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7064,7 +7064,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7080,7 +7080,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7096,7 +7096,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7112,7 +7112,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7128,7 +7128,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7144,7 +7144,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7160,7 +7160,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7176,7 +7176,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7188,11 +7188,11 @@
 <sku><![CDATA[ 4607034478506 ]]></sku>
 <name><![CDATA[ Rocs Kids 4-7 Yaş Ahududu-Çilek Diş Macunu 35 ml ]]></name>
 <quantity><![CDATA[ 572 ]]></quantity>
-<price><![CDATA[ 195.67 ]]></price>
+<price><![CDATA[ 195.65 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7208,7 +7208,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7224,7 +7224,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7240,7 +7240,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7256,7 +7256,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7268,11 +7268,11 @@
 <sku><![CDATA[ 4607152730524m ]]></sku>
 <name><![CDATA[ Rocs Pro 5940 Ultra Soft Diş Fırçası - Mor ]]></name>
 <quantity><![CDATA[ 247 ]]></quantity>
-<price><![CDATA[ 240.93 ]]></price>
+<price><![CDATA[ 240.92 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7288,7 +7288,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7304,7 +7304,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7320,7 +7320,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7336,7 +7336,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7352,7 +7352,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7364,11 +7364,11 @@
 <sku><![CDATA[ 4607034476762 ]]></sku>
 <name><![CDATA[ Rocs Ultra Beyazlatıcı Diş Macunu 75 ml ]]></name>
 <quantity><![CDATA[ 28 ]]></quantity>
-<price><![CDATA[ 274.94 ]]></price>
+<price><![CDATA[ 274.93 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7380,11 +7380,11 @@
 <sku><![CDATA[ 4607034472429 ]]></sku>
 <name><![CDATA[ Rocs Uno Hızlı Beyazlatıcı Diş Macunu 74 gr ]]></name>
 <quantity><![CDATA[ 20 ]]></quantity>
-<price><![CDATA[ 219.78 ]]></price>
+<price><![CDATA[ 219.77 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7400,7 +7400,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1129 ]]></miat>
 <miattr><![CDATA[ Kasım 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7416,7 +7416,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0330 ]]></miat>
 <miattr><![CDATA[ Mart 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7432,7 +7432,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7444,11 +7444,11 @@
 <sku><![CDATA[ 8699592822712 ]]></sku>
 <name><![CDATA[ Roll Bant Yara Bandı Dinozorlar 12'li ]]></name>
 <quantity><![CDATA[ 119 ]]></quantity>
-<price><![CDATA[ 40.82 ]]></price>
+<price><![CDATA[ 40.81 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7464,7 +7464,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7476,11 +7476,11 @@
 <sku><![CDATA[ 8699592806798 ]]></sku>
 <name><![CDATA[ Roll Flex Steril Hidrofil Gazlı Bez 30x80 cm ]]></name>
 <quantity><![CDATA[ 1126 ]]></quantity>
-<price><![CDATA[ 15.8 ]]></price>
+<price><![CDATA[ 18.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7496,7 +7496,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0528 ]]></miat>
 <miattr><![CDATA[ Mayıs 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7512,7 +7512,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0529 ]]></miat>
 <miattr><![CDATA[ Mayıs 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7528,7 +7528,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7544,7 +7544,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7560,7 +7560,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7576,7 +7576,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7592,7 +7592,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7608,7 +7608,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7624,7 +7624,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7640,7 +7640,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7656,7 +7656,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7668,11 +7668,11 @@
 <sku><![CDATA[ 7613287407788 ]]></sku>
 <name><![CDATA[ SMA Comfort 3 Devam Sütü 400 gr ]]></name>
 <quantity><![CDATA[ 56 ]]></quantity>
-<price><![CDATA[ 623.68 ]]></price>
+<price><![CDATA[ 623.62 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7684,11 +7684,11 @@
 <sku><![CDATA[ 8445290935120 ]]></sku>
 <name><![CDATA[ SMA Optipro Probiyotik 2 400 gr ]]></name>
 <quantity><![CDATA[ 111 ]]></quantity>
-<price><![CDATA[ 502 ]]></price>
+<price><![CDATA[ 501.94 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7704,7 +7704,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7720,7 +7720,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7736,7 +7736,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0231 ]]></miat>
 <miattr><![CDATA[ Şubat 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7748,11 +7748,11 @@
 <sku><![CDATA[ 8699278060131 ]]></sku>
 <name><![CDATA[ Solante Actinica Sun Care Losyon SPF50 150 ml ]]></name>
 <quantity><![CDATA[ 29 ]]></quantity>
-<price><![CDATA[ 1199.7 ]]></price>
+<price><![CDATA[ 1199.69 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0231 ]]></miat>
 <miattr><![CDATA[ Şubat 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7764,11 +7764,11 @@
 <sku><![CDATA[ 8699278480021 ]]></sku>
 <name><![CDATA[ Solante Atopica Losyon SPF50 150 ml ]]></name>
 <quantity><![CDATA[ 52 ]]></quantity>
-<price><![CDATA[ 1199.37 ]]></price>
+<price><![CDATA[ 1199.36 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0431 ]]></miat>
 <miattr><![CDATA[ Nisan 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7784,7 +7784,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0231 ]]></miat>
 <miattr><![CDATA[ Şubat 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7800,7 +7800,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0530 ]]></miat>
 <miattr><![CDATA[ Mayıs 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7812,11 +7812,11 @@
 <sku><![CDATA[ 8699278480083 ]]></sku>
 <name><![CDATA[ Solante Pigmenta Tinted Sun Care Lotion SPF50+ 150 ml ]]></name>
 <quantity><![CDATA[ 353 ]]></quantity>
-<price><![CDATA[ 1085.73 ]]></price>
+<price><![CDATA[ 1085.72 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0231 ]]></miat>
 <miattr><![CDATA[ Şubat 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7832,7 +7832,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0431 ]]></miat>
 <miattr><![CDATA[ Nisan 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7848,7 +7848,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0331 ]]></miat>
 <miattr><![CDATA[ Mart 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7864,7 +7864,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7880,7 +7880,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7896,7 +7896,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7912,7 +7912,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7928,7 +7928,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7944,7 +7944,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7960,7 +7960,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7976,7 +7976,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -7992,7 +7992,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8008,7 +8008,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8024,7 +8024,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8040,7 +8040,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8056,7 +8056,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8072,7 +8072,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8088,7 +8088,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8104,7 +8104,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8120,7 +8120,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8136,7 +8136,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8152,7 +8152,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8168,7 +8168,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8184,7 +8184,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8200,7 +8200,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8216,7 +8216,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8232,7 +8232,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8248,7 +8248,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8264,7 +8264,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8280,7 +8280,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0130 ]]></miat>
 <miattr><![CDATA[ Ocak 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8296,7 +8296,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8312,7 +8312,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0331 ]]></miat>
 <miattr><![CDATA[ Mart 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8328,7 +8328,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8344,7 +8344,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0331 ]]></miat>
 <miattr><![CDATA[ Mart 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8360,7 +8360,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8376,7 +8376,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8392,7 +8392,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8408,7 +8408,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8424,7 +8424,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8440,7 +8440,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8456,7 +8456,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8472,7 +8472,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0331 ]]></miat>
 <miattr><![CDATA[ Mart 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8488,7 +8488,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8504,7 +8504,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0631 ]]></miat>
 <miattr><![CDATA[ Haziran 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8520,7 +8520,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8536,7 +8536,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8552,7 +8552,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8568,7 +8568,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8584,7 +8584,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8600,7 +8600,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8616,7 +8616,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0331 ]]></miat>
 <miattr><![CDATA[ Mart 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8632,7 +8632,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8648,7 +8648,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8664,7 +8664,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8680,7 +8680,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8696,7 +8696,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0331 ]]></miat>
 <miattr><![CDATA[ Mart 2031 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8712,7 +8712,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8728,7 +8728,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8744,7 +8744,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8760,7 +8760,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8776,7 +8776,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8792,7 +8792,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8808,7 +8808,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8824,7 +8824,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
 <miattr><![CDATA[ Aralık 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8840,7 +8840,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0227 ]]></miat>
 <miattr><![CDATA[ Şubat 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8856,7 +8856,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8872,7 +8872,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8888,7 +8888,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8904,7 +8904,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8920,7 +8920,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8936,7 +8936,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8952,7 +8952,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8968,7 +8968,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -8984,7 +8984,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
 <miattr><![CDATA[ Aralık 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9000,7 +9000,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9016,7 +9016,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9032,7 +9032,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9048,7 +9048,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9064,7 +9064,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9080,7 +9080,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9092,11 +9092,11 @@
 <sku><![CDATA[ 8690570555691 ]]></sku>
 <name><![CDATA[ Veet Bacak ve Vücut Bölgesi İçin Professional Tüy Dökücü Krem 100 ml ]]></name>
 <quantity><![CDATA[ 56 ]]></quantity>
-<price><![CDATA[ 209.72 ]]></price>
+<price><![CDATA[ 209.71 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9112,7 +9112,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9128,7 +9128,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9140,11 +9140,11 @@
 <sku><![CDATA[ 8690570555639 ]]></sku>
 <name><![CDATA[ Veet Professional Ağda Bandı Normal 12'li ]]></name>
 <quantity><![CDATA[ 12 ]]></quantity>
-<price><![CDATA[ 199.31 ]]></price>
+<price><![CDATA[ 199.3 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9160,7 +9160,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9176,7 +9176,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9192,7 +9192,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9208,7 +9208,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9224,7 +9224,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9236,11 +9236,11 @@
 <sku><![CDATA[ 8683229900614 ]]></sku>
 <name><![CDATA[ Venatura Biotin 5000 mcg 30 Tablet ]]></name>
 <quantity><![CDATA[ 251 ]]></quantity>
-<price><![CDATA[ 169.81 ]]></price>
+<price><![CDATA[ 169.8 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9256,7 +9256,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9272,7 +9272,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9288,7 +9288,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9304,7 +9304,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9316,11 +9316,11 @@
 <sku><![CDATA[ 8680131757671 ]]></sku>
 <name><![CDATA[ Venatura Çinko Asetat 30 Pastil ]]></name>
 <quantity><![CDATA[ 9 ]]></quantity>
-<price><![CDATA[ 189.39 ]]></price>
+<price><![CDATA[ 189.38 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9336,7 +9336,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0529 ]]></miat>
 <miattr><![CDATA[ Mayıs 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9352,7 +9352,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9368,7 +9368,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9380,11 +9380,11 @@
 <sku><![CDATA[ 8683229900515 ]]></sku>
 <name><![CDATA[ Venatura Demir 90 Kapsül ]]></name>
 <quantity><![CDATA[ 104 ]]></quantity>
-<price><![CDATA[ 274.92 ]]></price>
+<price><![CDATA[ 274.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9400,7 +9400,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9412,11 +9412,11 @@
 <sku><![CDATA[ 8683229901376 ]]></sku>
 <name><![CDATA[ Venatura Demir Sprey Takviye Edici Gıda 15 ml ]]></name>
 <quantity><![CDATA[ 20 ]]></quantity>
-<price><![CDATA[ 227.37 ]]></price>
+<price><![CDATA[ 227.36 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9428,11 +9428,11 @@
 <sku><![CDATA[ 8683229900737 ]]></sku>
 <name><![CDATA[ Venatura Equopausa Soya İzoflavonları 20 Tablet ]]></name>
 <quantity><![CDATA[ 20 ]]></quantity>
-<price><![CDATA[ 671.77 ]]></price>
+<price><![CDATA[ 671.76 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
 <miattr><![CDATA[ Eylül 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9444,11 +9444,11 @@
 <sku><![CDATA[ 8683229900690 ]]></sku>
 <name><![CDATA[ Venatura Fosfotidilserin ve Omega-3 30 Yumuşak Kapsül ]]></name>
 <quantity><![CDATA[ 122 ]]></quantity>
-<price><![CDATA[ 574.77 ]]></price>
+<price><![CDATA[ 574.76 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9464,7 +9464,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9476,11 +9476,11 @@
 <sku><![CDATA[ 8683229900003 ]]></sku>
 <name><![CDATA[ Venatura İnulin ve Fruktooligosakkarit 30 Saşe ]]></name>
 <quantity><![CDATA[ 13 ]]></quantity>
-<price><![CDATA[ 613.64 ]]></price>
+<price><![CDATA[ 613.63 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
 <miattr><![CDATA[ Nisan 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9496,7 +9496,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9512,7 +9512,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9524,11 +9524,11 @@
 <sku><![CDATA[ 8683229900980 ]]></sku>
 <name><![CDATA[ Venatura Kids Metilkobalamin Sprey 5 ml 60 Puff ]]></name>
 <quantity><![CDATA[ 216 ]]></quantity>
-<price><![CDATA[ 136.79 ]]></price>
+<price><![CDATA[ 136.78 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9540,11 +9540,11 @@
 <sku><![CDATA[ 8683229901642 ]]></sku>
 <name><![CDATA[ Venatura Kids Vitamin A Damla 30 ml ]]></name>
 <quantity><![CDATA[ 24 ]]></quantity>
-<price><![CDATA[ 156.39 ]]></price>
+<price><![CDATA[ 156.38 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9560,7 +9560,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9576,7 +9576,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9588,11 +9588,11 @@
 <sku><![CDATA[ 8683229901604 ]]></sku>
 <name><![CDATA[ Venatura Kreatin Monohidrat 150 gr ]]></name>
 <quantity><![CDATA[ 112 ]]></quantity>
-<price><![CDATA[ 599.31 ]]></price>
+<price><![CDATA[ 599.3 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0629 ]]></miat>
 <miattr><![CDATA[ Haziran 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9608,7 +9608,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9620,11 +9620,11 @@
 <sku><![CDATA[ 8683229900881 ]]></sku>
 <name><![CDATA[ Venatura Kurkumin Takviye Edici Gıda 30 Kapsül ]]></name>
 <quantity><![CDATA[ 21 ]]></quantity>
-<price><![CDATA[ 587.33 ]]></price>
+<price><![CDATA[ 587.32 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9640,7 +9640,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9656,7 +9656,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9672,7 +9672,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9688,7 +9688,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9700,11 +9700,11 @@
 <sku><![CDATA[ 8683229901338 ]]></sku>
 <name><![CDATA[ Venatura Magnezyum Sitrat 60 Kapsül ]]></name>
 <quantity><![CDATA[ 142 ]]></quantity>
-<price><![CDATA[ 238.63 ]]></price>
+<price><![CDATA[ 238.62 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9716,11 +9716,11 @@
 <sku><![CDATA[ 8683229901659 ]]></sku>
 <name><![CDATA[ VeNatura Magnezyum Sitrat Malat ve Vitamin B6 P-5-P 30 Saşe ]]></name>
 <quantity><![CDATA[ 11 ]]></quantity>
-<price><![CDATA[ 537.48 ]]></price>
+<price><![CDATA[ 537.47 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9732,11 +9732,11 @@
 <sku><![CDATA[ 8683229900560 ]]></sku>
 <name><![CDATA[ Venatura Methylfolate ODT Ağızda Dağılan Tablet 30'lu ]]></name>
 <quantity><![CDATA[ 13 ]]></quantity>
-<price><![CDATA[ 196.53 ]]></price>
+<price><![CDATA[ 196.52 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9748,11 +9748,11 @@
 <sku><![CDATA[ 8680131757879 ]]></sku>
 <name><![CDATA[ Venatura Metilkobalamin Sprey 20 ml ]]></name>
 <quantity><![CDATA[ 10 ]]></quantity>
-<price><![CDATA[ 407.74 ]]></price>
+<price><![CDATA[ 407.73 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9768,7 +9768,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9784,7 +9784,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0629 ]]></miat>
 <miattr><![CDATA[ Haziran 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9796,11 +9796,11 @@
 <sku><![CDATA[ 8680131758708 ]]></sku>
 <name><![CDATA[ Venatura Premium Kids Omega-3 150 ml ]]></name>
 <quantity><![CDATA[ 38 ]]></quantity>
-<price><![CDATA[ 603.71 ]]></price>
+<price><![CDATA[ 603.7 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9816,7 +9816,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9832,7 +9832,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9844,11 +9844,11 @@
 <sku><![CDATA[ 8683229901314 ]]></sku>
 <name><![CDATA[ Venatura Sitikolin 250 mg 30 Kapsül ]]></name>
 <quantity><![CDATA[ 17 ]]></quantity>
-<price><![CDATA[ 745.25 ]]></price>
+<price><![CDATA[ 745.24 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9864,7 +9864,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9876,11 +9876,11 @@
 <sku><![CDATA[ 8683229900379 ]]></sku>
 <name><![CDATA[ Venatura Ultra Omega 3 30 Kapsül ]]></name>
 <quantity><![CDATA[ 45 ]]></quantity>
-<price><![CDATA[ 414.13 ]]></price>
+<price><![CDATA[ 414.12 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9892,11 +9892,11 @@
 <sku><![CDATA[ 8683229900522 ]]></sku>
 <name><![CDATA[ Venatura Vitamin B Kompleks 30 Kapsül ]]></name>
 <quantity><![CDATA[ 68 ]]></quantity>
-<price><![CDATA[ 347.28 ]]></price>
+<price><![CDATA[ 347.27 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9912,7 +9912,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9924,11 +9924,11 @@
 <sku><![CDATA[ 8683229900430 ]]></sku>
 <name><![CDATA[ Venatura Vitamin B2 Riboflavin 100 mg 100 Kapsül ]]></name>
 <quantity><![CDATA[ 32 ]]></quantity>
-<price><![CDATA[ 442.25 ]]></price>
+<price><![CDATA[ 442.24 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9940,11 +9940,11 @@
 <sku><![CDATA[ 8683229901475 ]]></sku>
 <name><![CDATA[ Venatura Vitamin B6 P-5-P 150 ml ]]></name>
 <quantity><![CDATA[ 8 ]]></quantity>
-<price><![CDATA[ 320.79 ]]></price>
+<price><![CDATA[ 320.78 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9960,7 +9960,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9972,11 +9972,11 @@
 <sku><![CDATA[ 8683229900973 ]]></sku>
 <name><![CDATA[ Venatura Vitamin D3 Damla 20 ml ]]></name>
 <quantity><![CDATA[ 133 ]]></quantity>
-<price><![CDATA[ 141.84 ]]></price>
+<price><![CDATA[ 141.83 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -9992,7 +9992,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10008,7 +10008,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10024,7 +10024,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10036,11 +10036,11 @@
 <sku><![CDATA[ 3337875945851 ]]></sku>
 <name><![CDATA[ Vichy Collagen Liftactiv Specialist 16 Glow Boosting Gel 50 ml ]]></name>
 <quantity><![CDATA[ 34 ]]></quantity>
-<price><![CDATA[ 1798.47 ]]></price>
+<price><![CDATA[ 1798.46 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10056,7 +10056,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10072,7 +10072,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10088,7 +10088,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10104,7 +10104,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10120,7 +10120,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10136,7 +10136,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10148,11 +10148,11 @@
 <sku><![CDATA[ 3337875873048 ]]></sku>
 <name><![CDATA[ Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ml ]]></name>
 <quantity><![CDATA[ 89 ]]></quantity>
-<price><![CDATA[ 2194.48 ]]></price>
+<price><![CDATA[ 2194.47 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10164,11 +10164,11 @@
 <sku><![CDATA[ 3337875607254 ]]></sku>
 <name><![CDATA[ Vichy Liftactiv Collagen Specialist Yüz Kremi 50 ml ]]></name>
 <quantity><![CDATA[ 302 ]]></quantity>
-<price><![CDATA[ 2334.02 ]]></price>
+<price><![CDATA[ 2334.01 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10184,7 +10184,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10196,11 +10196,11 @@
 <sku><![CDATA[ 3337875734905 ]]></sku>
 <name><![CDATA[ Vichy Liftactiv Specialist B3 Serum Koyu Leke Karşıtı 30 ml ]]></name>
 <quantity><![CDATA[ 50 ]]></quantity>
-<price><![CDATA[ 2483.47 ]]></price>
+<price><![CDATA[ 2483.46 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10216,7 +10216,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10232,7 +10232,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10248,7 +10248,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0127 ]]></miat>
 <miattr><![CDATA[ Ocak 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10264,7 +10264,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10280,7 +10280,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10296,7 +10296,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0327 ]]></miat>
 <miattr><![CDATA[ Mart 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10312,7 +10312,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10328,7 +10328,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10344,7 +10344,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10360,7 +10360,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0829 ]]></miat>
 <miattr><![CDATA[ Ağustos 2029 ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10376,7 +10376,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>
@@ -10392,7 +10392,7 @@
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1/>
+<kat1><![CDATA[ Genel ]]></kat1>
 <kat2/>
 <kat3/>
 <kat4/>

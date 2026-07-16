@@ -15,3 +15,20 @@
 2026-07-16 01:46:31,666 INFO Toplam 650 ürün çekildi.
 2026-07-16 01:46:31,672 INFO XML feed yazıldı: docs/ecza1-feed.xml (650 ürün)
 2026-07-16 01:46:31,672 INFO Senkronizasyon tamamlandı.
+2026-07-16 02:15:27,278 INFO Giriş başarılı (302 yönlendirme -> /).
+2026-07-16 02:15:28,010 INFO Sayfa 1: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:28,246 INFO Sayfa 2: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:28,477 INFO Sayfa 3: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:28,720 INFO Sayfa 4: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:28,955 INFO Sayfa 5: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:29,196 INFO Sayfa 6: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:29,423 INFO Sayfa 7: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:29,675 INFO Sayfa 8: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:29,918 INFO Sayfa 9: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:30,166 INFO Sayfa 10: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:30,394 INFO Sayfa 11: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:30,635 INFO Sayfa 12: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:30,865 INFO Sayfa 13: 50 ürün alındı. (Toplam: 650)
+2026-07-16 02:15:30,865 INFO Toplam 650 ürün çekildi.
+2026-07-16 02:15:30,869 INFO XML feed yazıldı: docs/ecza1-feed.xml (650 ürün)
+2026-07-16 02:15:30,869 INFO Senkronizasyon tamamlandı.
