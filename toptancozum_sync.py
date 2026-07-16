@@ -51,7 +51,7 @@ def login_and_get_session() -> requests.Session:
     })
 
     # 1) Login sayfasını aç, gizli token'ı regex ile çek
-    page = session.get(LOGIN_PAGE_URL, timeout=30)
+    page = session.get(LOGIN_PAGE_URL, timeout=60)
     page.raise_for_status()
 
     match = re.search(
@@ -72,11 +72,11 @@ def login_and_get_session() -> requests.Session:
         "__RequestVerificationToken": token,
         "RememberMe": "false",
     }
-    resp = session.post(LOGIN_POST_URL, data=payload, allow_redirects=False, timeout=30)
+    resp = session.post(LOGIN_POST_URL, data=payload, allow_redirects=False, timeout=60)
 
     if resp.status_code == 302:
         logging.info(f"Giriş başarılı (302 -> {resp.headers.get('Location')}).")
-        session.get(f"{IMAGE_BASE_URL}{resp.headers.get('Location', '/')}", timeout=30)
+        session.get(f"{IMAGE_BASE_URL}{resp.headers.get('Location', '/')}", timeout=60)
     else:
         raise RuntimeError(
             f"Giriş başarısız - beklenen 302, gelen: {resp.status_code}. "
@@ -137,7 +137,7 @@ def fetch_all_products(session: requests.Session) -> list:
         resp = session.post(
             PRODUCTS_URL,
             data=payload,
-            timeout=30,
+            timeout=60,
             headers={
                 "X-Requested-With": "XMLHttpRequest",
                 "Referer": f"{IMAGE_BASE_URL}/Store/Index",
