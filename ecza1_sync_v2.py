@@ -183,14 +183,19 @@ def generate_qukasoft_xml(products: list, output_path: str = XML_OUTPUT_PATH):
     bu dosyayı kendi zamanlamasına göre (örn. saatlik) çeker.
 
     NOT (sınırlılıklar):
-      - Kategori (kat1-5) kullanıcı tarafından Qukasoft panelinde manuel
-        yönetileceği için burada boş bırakılıyor.
+      - Qukasoft, kat1 alanının tamamen boş olmasını kabul etmiyor
+        ("Kategori bulunamadı" hatası veriyor). Bu yüzden tüm ürünlere
+        DEFAULT_KATEGORI ile sabit, genel bir kategori adı veriyoruz.
+        İçeri aktarımdan sonra Qukasoft panelinde bu kategoriyi kendi
+        sitendeki gerçek bir kategoriyle eşleştirebilir, ya da ürünleri
+        tek tek elle doğru kategorilere taşıyabilirsin.
       - Marka alanı da Ecza1 yanıtında sadece ID olarak geldiği (isim yok)
         için şimdilik boş bırakıldı. İsim eşlemesi istenirse Ecza1'in
         GetFilterMenu endpoint'inden ID->isim tablosu ayrıca çekilmeli.
       - kdv: yüzde oranı olarak gönderiliyor (örn. "1" = %1 KDV).
     """
-    KDV_ORANI = "1"  # % olarak KDV oranı
+    KDV_ORANI = "1"        # % olarak KDV oranı
+    DEFAULT_KATEGORI = "Genel"  # Qukasoft boş kategori kabul etmediği için sabit değer
 
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
 
@@ -205,7 +210,7 @@ def generate_qukasoft_xml(products: list, output_path: str = XML_OUTPUT_PATH):
         lines.append(f"<kdv>{_cdata(KDV_ORANI)}</kdv>")
         lines.append(f"<miat>{_cdata(miat)}</miat>")
         lines.append(f"<miattr>{_cdata(miattr)}</miattr>")
-        lines.append("<kat1/>")
+        lines.append(f"<kat1>{_cdata(DEFAULT_KATEGORI)}</kat1>")
         lines.append("<kat2/>")
         lines.append("<kat3/>")
         lines.append("<kat4/>")
