@@ -2,11 +2,14 @@ name: Ecza1 -> Qukasoft XML Senkronizasyonu
 
 on:
   schedule:
+    # Her saat başı çalışır (UTC saatine göre; Türkiye UTC+3'tür).
+    # Ayarı değiştirmek istersen: https://crontab.guru adresinden yeni ifade üretebilirsin.
     - cron: '0 * * * *'
   workflow_dispatch:
+    # Bu satır sayesinde "Actions" sekmesinden butona basarak manuel de çalıştırabilirsin.
 
 permissions:
-  contents: write
+  contents: write   # Script'in ürettiği XML dosyasını repoya commit edebilmesi için gerekli
 
 jobs:
   sync:
@@ -23,16 +26,23 @@ jobs:
       - name: Gerekli paketleri kur
         run: pip install requests
 
-      - name: Senkronizasyonu çalıştır
+      - name: Ecza1 senkronizasyonunu çalıştır
         env:
           ECZA1_USER: ${{ secrets.ECZA1_USER }}
           ECZA1_PASS: ${{ secrets.ECZA1_PASS }}
         run: python ecza1_sync_v2.py
 
+      - name: Toptancozum senkronizasyonunu çalıştır
+        env:
+          TOPTANCOZUM_EMAIL: ${{ secrets.TOPTANCOZUM_EMAIL }}
+          TOPTANCOZUM_PASS: ${{ secrets.TOPTANCOZUM_PASS }}
+        run: python toptancozum_sync.py
+        continue-on-error: true
+
       - name: Değişiklikleri commit'le ve gönder
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/ecza1-feed.xml sync.log
-          git diff --quiet --cached || git commit -m "Ecza1 ürün listesi güncellendi"
+          git add docs/ecza1-feed.xml docs/toptancozum-feed.xml sync.log sync_toptancozum.log
+          git diff --quiet --cached || git commit -m "Ürün listeleri güncellendi"
           git push
