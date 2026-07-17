@@ -339,7 +339,7 @@
 <product>
 <sku><![CDATA[ 8682408684338 ]]></sku>
 <name><![CDATA[ Argivit Focus 30 Tablet ]]></name>
-<quantity><![CDATA[ 382 ]]></quantity>
+<quantity><![CDATA[ 381 ]]></quantity>
 <price><![CDATA[ 413.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0227 ]]></miat>
@@ -532,7 +532,7 @@
 <sku><![CDATA[ 3282770148671 ]]></sku>
 <name><![CDATA[ Avène Fluide Mineral SPF50+ 40 ml ]]></name>
 <quantity><![CDATA[ 10 ]]></quantity>
-<price><![CDATA[ 1019.95 ]]></price>
+<price><![CDATA[ 1185.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
@@ -563,7 +563,7 @@
 <product>
 <sku><![CDATA[ 3282779355872-L ]]></sku>
 <name><![CDATA[ Avène Lait Mineral Güneş Losyonu SPF50 100 ml ]]></name>
-<quantity><![CDATA[ 6 ]]></quantity>
+<quantity><![CDATA[ 3 ]]></quantity>
 <price><![CDATA[ 1424.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -657,25 +657,9 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/0ba5158e-31a0-40ae-80d9-fe3987e5731a.jpg ]]></resim1>
 </product>
 <product>
-<sku><![CDATA[ 3282770397680 ]]></sku>
-<name><![CDATA[ Avene Ultra Fluid Oil Contour SPF50+ 50 ml ]]></name>
-<quantity><![CDATA[ 1 ]]></quantity>
-<price><![CDATA[ 697.25 ]]></price>
-<kdv><![CDATA[ 1 ]]></kdv>
-<miat><![CDATA[ 0228 ]]></miat>
-<miattr><![CDATA[ Şubat 2028 ]]></miattr>
-<kat1><![CDATA[ Genel ]]></kat1>
-<kat2/>
-<kat3/>
-<kat4/>
-<kat5/>
-<marka><![CDATA[ Genel ]]></marka>
-<resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/75846b68-0909-4074-b0a6-62487241e24b.jpg ]]></resim1>
-</product>
-<product>
 <sku><![CDATA[ 3282770392654 ]]></sku>
 <name><![CDATA[ Avene Ultra Fluid SPF50+ 50 ml ]]></name>
-<quantity><![CDATA[ 7 ]]></quantity>
+<quantity><![CDATA[ 6 ]]></quantity>
 <price><![CDATA[ 695.75 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -835,7 +819,7 @@
 <product>
 <sku><![CDATA[ 8699745023614 ]]></sku>
 <name><![CDATA[ Bebelac Gold 3 Devam Sütü 9 Ay+ 800 gr ]]></name>
-<quantity><![CDATA[ 147 ]]></quantity>
+<quantity><![CDATA[ 142 ]]></quantity>
 <price><![CDATA[ 775 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
@@ -947,7 +931,7 @@
 <product>
 <sku><![CDATA[ 3701129800997 ]]></sku>
 <name><![CDATA[ Bioderma Abcderm Gentle Shampoo 200 ml ]]></name>
-<quantity><![CDATA[ 11 ]]></quantity>
+<quantity><![CDATA[ 10 ]]></quantity>
 <price><![CDATA[ 1489.75 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0528 ]]></miat>
@@ -979,7 +963,7 @@
 <product>
 <sku><![CDATA[ 3701129807934 ]]></sku>
 <name><![CDATA[ Bioderma Atoderm 2 In 1 Oil 150 ml ]]></name>
-<quantity><![CDATA[ 10 ]]></quantity>
+<quantity><![CDATA[ 8 ]]></quantity>
 <price><![CDATA[ 1402.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
@@ -1027,7 +1011,7 @@
 <product>
 <sku><![CDATA[ 3401399372926 ]]></sku>
 <name><![CDATA[ Bioderma Atoderm Gentle Shower Gel 1 lt ]]></name>
-<quantity><![CDATA[ 12 ]]></quantity>
+<quantity><![CDATA[ 10 ]]></quantity>
 <price><![CDATA[ 1583.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
@@ -1587,7 +1571,7 @@
 <product>
 <sku><![CDATA[ 3701129803721 ]]></sku>
 <name><![CDATA[ Bioderma Photoderm Mineral Fluide SPF50 75 ml ]]></name>
-<quantity><![CDATA[ 10 ]]></quantity>
+<quantity><![CDATA[ 6 ]]></quantity>
 <price><![CDATA[ 1595.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
@@ -1684,7 +1668,7 @@
 <sku><![CDATA[ 3701129807309 ]]></sku>
 <name><![CDATA[ Bioderma Photoderm Pediatrics Mineral SPF50+ 50 gr ]]></name>
 <quantity><![CDATA[ 24 ]]></quantity>
-<price><![CDATA[ 1277.75 ]]></price>
+<price><![CDATA[ 1276 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
@@ -1699,8 +1683,8 @@
 <product>
 <sku><![CDATA[ 3701129807316 ]]></sku>
 <name><![CDATA[ Bioderma Photoderm Pediatrics Spray SPF50+ 200 ml ]]></name>
-<quantity><![CDATA[ 56 ]]></quantity>
-<price><![CDATA[ 1793.68 ]]></price>
+<quantity><![CDATA[ 52 ]]></quantity>
+<price><![CDATA[ 1793.64 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
@@ -1763,7 +1747,7 @@
 <product>
 <sku><![CDATA[ 3701129813614 ]]></sku>
 <name><![CDATA[ Bioderma Photoderm Xdefense Spf50+ 40 ml ]]></name>
-<quantity><![CDATA[ 81 ]]></quantity>
+<quantity><![CDATA[ 74 ]]></quantity>
 <price><![CDATA[ 829 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
@@ -2019,7 +2003,7 @@
 <product>
 <sku><![CDATA[ 3401360157514 ]]></sku>
 <name><![CDATA[ Bioderma Sebium Lotion 200 ml ]]></name>
-<quantity><![CDATA[ 29 ]]></quantity>
+<quantity><![CDATA[ 28 ]]></quantity>
 <price><![CDATA[ 888.25 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
@@ -2131,7 +2115,7 @@
 <product>
 <sku><![CDATA[ 3701129812099 ]]></sku>
 <name><![CDATA[ Bioderma Sensibio Ar+ Cream 40 ml ]]></name>
-<quantity><![CDATA[ 113 ]]></quantity>
+<quantity><![CDATA[ 111 ]]></quantity>
 <price><![CDATA[ 1518.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -2211,7 +2195,7 @@
 <product>
 <sku><![CDATA[ 3401397240470 ]]></sku>
 <name><![CDATA[ Bioderma Sensibio DS+ Cream 40 ml ]]></name>
-<quantity><![CDATA[ 81 ]]></quantity>
+<quantity><![CDATA[ 80 ]]></quantity>
 <price><![CDATA[ 1284.25 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
@@ -2275,7 +2259,7 @@
 <product>
 <sku><![CDATA[ 8699956510446 ]]></sku>
 <name><![CDATA[ Bioderma Sensibio H2O 500 ml - İkili Paket Özel Fiyat ]]></name>
-<quantity><![CDATA[ 69 ]]></quantity>
+<quantity><![CDATA[ 67 ]]></quantity>
 <price><![CDATA[ 1633.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
@@ -3089,22 +3073,6 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/f2b63f67-b9ba-4902-8331-6b3f79b66837.jpg ]]></resim1>
 </product>
 <product>
-<sku><![CDATA[ 8690927512780 ]]></sku>
-<name><![CDATA[ Difaş Pro Clinic Ortho Diş Fırçası - Muhafaza Kutulu ]]></name>
-<quantity><![CDATA[ 1 ]]></quantity>
-<price><![CDATA[ 112 ]]></price>
-<kdv><![CDATA[ 1 ]]></kdv>
-<miat><![CDATA[  ]]></miat>
-<miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1><![CDATA[ Genel ]]></kat1>
-<kat2/>
-<kat3/>
-<kat4/>
-<kat5/>
-<marka><![CDATA[ Genel ]]></marka>
-<resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/fcc25bab-9b7d-4af1-a573-b0300068dcc9.jpg ]]></resim1>
-</product>
-<product>
 <sku><![CDATA[ 8682340348121  ]]></sku>
 <name><![CDATA[ Doctamin iCollagen 1500 mg 60 Tablet ]]></name>
 <quantity><![CDATA[ 43 ]]></quantity>
@@ -3187,7 +3155,7 @@
 <product>
 <sku><![CDATA[ 8684998690263 ]]></sku>
 <name><![CDATA[ Dr. Black İlaç Tablet Ezici ]]></name>
-<quantity><![CDATA[ 31 ]]></quantity>
+<quantity><![CDATA[ 30 ]]></quantity>
 <price><![CDATA[ 84.4 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -3203,7 +3171,7 @@
 <product>
 <sku><![CDATA[ 8684998690256 ]]></sku>
 <name><![CDATA[ Dr. Black İlaç Tablet Kesici ]]></name>
-<quantity><![CDATA[ 11 ]]></quantity>
+<quantity><![CDATA[ 9 ]]></quantity>
 <price><![CDATA[ 97.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -3267,7 +3235,7 @@
 <product>
 <sku><![CDATA[ 3282770075526 ]]></sku>
 <name><![CDATA[ Ducray Anaphase Dökülme Karşıtı Şampuan 400 ml ]]></name>
-<quantity><![CDATA[ 253 ]]></quantity>
+<quantity><![CDATA[ 252 ]]></quantity>
 <price><![CDATA[ 1085.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
@@ -3555,7 +3523,7 @@
 <product>
 <sku><![CDATA[ 8683060770124 ]]></sku>
 <name><![CDATA[ Enterogermina Kids 5 ml 10 Flakon ]]></name>
-<quantity><![CDATA[ 429 ]]></quantity>
+<quantity><![CDATA[ 422 ]]></quantity>
 <price><![CDATA[ 319.25 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
@@ -3635,7 +3603,7 @@
 <product>
 <sku><![CDATA[ 9421025231476 ]]></sku>
 <name><![CDATA[ Golden Goat 2 Keçi Sütü Bazlı Devam Sütü 400 gr ]]></name>
-<quantity><![CDATA[ 70 ]]></quantity>
+<quantity><![CDATA[ 65 ]]></quantity>
 <price><![CDATA[ 749 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -4515,7 +4483,7 @@
 <product>
 <sku><![CDATA[ 8697595874035 ]]></sku>
 <name><![CDATA[ Ocean Çinko Bisglisinat Şurup Muz Aromalı 150 ml ]]></name>
-<quantity><![CDATA[ 91 ]]></quantity>
+<quantity><![CDATA[ 90 ]]></quantity>
 <price><![CDATA[ 259.75 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
@@ -4563,7 +4531,7 @@
 <product>
 <sku><![CDATA[ 8697595871621 ]]></sku>
 <name><![CDATA[ Ocean D3K2 Damla 20 ml - Eski Ambalaj ]]></name>
-<quantity><![CDATA[ 95 ]]></quantity>
+<quantity><![CDATA[ 92 ]]></quantity>
 <price><![CDATA[ 258.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
@@ -4883,7 +4851,7 @@
 <product>
 <sku><![CDATA[ 850077028502 ]]></sku>
 <name><![CDATA[ Ocean Methyl B12 Sprey 1000 mg 10 ml ]]></name>
-<quantity><![CDATA[ 68 ]]></quantity>
+<quantity><![CDATA[ 61 ]]></quantity>
 <price><![CDATA[ 329.75 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
@@ -4964,7 +4932,7 @@
 <sku><![CDATA[ 8697595872239 ]]></sku>
 <name><![CDATA[ Ocean Microfer Damla 30 ml ]]></name>
 <quantity><![CDATA[ 50 ]]></quantity>
-<price><![CDATA[ 429 ]]></price>
+<price><![CDATA[ 434.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
@@ -5123,7 +5091,7 @@
 <product>
 <sku><![CDATA[ 8697595871003 ]]></sku>
 <name><![CDATA[ Ocean Plus 1200 mg 30 Kapsül ]]></name>
-<quantity><![CDATA[ 85 ]]></quantity>
+<quantity><![CDATA[ 81 ]]></quantity>
 <price><![CDATA[ 295.75 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
@@ -5652,7 +5620,7 @@
 <sku><![CDATA[ 8684008380167 ]]></sku>
 <name><![CDATA[ Pakdent Easy White Katlanır Diş Fırçası ]]></name>
 <quantity><![CDATA[ 25 ]]></quantity>
-<price><![CDATA[ 1916.95 ]]></price>
+<price><![CDATA[ 1916.88 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
@@ -5731,7 +5699,7 @@
 <product>
 <sku><![CDATA[ 8682442201805 ]]></sku>
 <name><![CDATA[ Pakdent Kürdanlı Diş İpi 32'li ]]></name>
-<quantity><![CDATA[ 141 ]]></quantity>
+<quantity><![CDATA[ 120 ]]></quantity>
 <price><![CDATA[ 29.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -6419,7 +6387,7 @@
 <product>
 <sku><![CDATA[ 8699278480144 ]]></sku>
 <name><![CDATA[ Solante Pigmenta Sun Care Lotion SPF50+ 150 ml ]]></name>
-<quantity><![CDATA[ 2 ]]></quantity>
+<quantity><![CDATA[ 1 ]]></quantity>
 <price><![CDATA[ 1179 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1129 ]]></miat>

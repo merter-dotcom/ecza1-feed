@@ -163,7 +163,7 @@
 <product>
 <sku><![CDATA[ 8680702300138 ]]></sku>
 <name><![CDATA[ Apexis Sambucus + C Vitamini 1000 mg + Çinko 20 Efervesan Tablet ]]></name>
-<quantity><![CDATA[ 167 ]]></quantity>
+<quantity><![CDATA[ 166 ]]></quantity>
 <price><![CDATA[ 99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -195,7 +195,7 @@
 <product>
 <sku><![CDATA[ 8680618036701 ]]></sku>
 <name><![CDATA[ Argivit Classic 30 Tablet ]]></name>
-<quantity><![CDATA[ 10 ]]></quantity>
+<quantity><![CDATA[ 6 ]]></quantity>
 <price><![CDATA[ 423.19 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
@@ -211,7 +211,7 @@
 <product>
 <sku><![CDATA[ 8682408684338 ]]></sku>
 <name><![CDATA[ Argivit Focus 30 Tablet ]]></name>
-<quantity><![CDATA[ 372 ]]></quantity>
+<quantity><![CDATA[ 369 ]]></quantity>
 <price><![CDATA[ 439.34 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
@@ -291,7 +291,7 @@
 <product>
 <sku><![CDATA[ 98765432105078 ]]></sku>
 <name><![CDATA[ Art El ile Kopan Koli Bandı 100 mt ]]></name>
-<quantity><![CDATA[ 403 ]]></quantity>
+<quantity><![CDATA[ 402 ]]></quantity>
 <price><![CDATA[ 57.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -307,7 +307,7 @@
 <product>
 <sku><![CDATA[ 8699856710083 ]]></sku>
 <name><![CDATA[ Artelac Advanced Göz Damlası 30 Flakon 0,5 ml ]]></name>
-<quantity><![CDATA[ 217 ]]></quantity>
+<quantity><![CDATA[ 209 ]]></quantity>
 <price><![CDATA[ 338.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
@@ -643,7 +643,7 @@
 <product>
 <sku><![CDATA[ 3401399277092-P ]]></sku>
 <name><![CDATA[ Bioderma Sebium Foaming Gel 500 ml - Puansız ]]></name>
-<quantity><![CDATA[ 345 ]]></quantity>
+<quantity><![CDATA[ 340 ]]></quantity>
 <price><![CDATA[ 880 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
@@ -755,7 +755,7 @@
 <product>
 <sku><![CDATA[ 3701129804452 ]]></sku>
 <name><![CDATA[ Bioderma Sensibio Defensive Cream 40 ml ]]></name>
-<quantity><![CDATA[ 40 ]]></quantity>
+<quantity><![CDATA[ 39 ]]></quantity>
 <price><![CDATA[ 1148.68 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
@@ -803,7 +803,7 @@
 <product>
 <sku><![CDATA[ 3401395376706 ]]></sku>
 <name><![CDATA[ Bioderma Sensibio H2O 100 ml ]]></name>
-<quantity><![CDATA[ 12 ]]></quantity>
+<quantity><![CDATA[ 11 ]]></quantity>
 <price><![CDATA[ 420 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -1135,22 +1135,6 @@
 <kat5/>
 <marka><![CDATA[ Genel ]]></marka>
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/91bdb3cd-4be0-4b2e-a936-8dbadbaff0ba.jpg ]]></resim1>
-</product>
-<product>
-<sku><![CDATA[ 3522930003434 ]]></sku>
-<name><![CDATA[ Caudalie Vinopure Purifying Toner 400 ml ]]></name>
-<quantity><![CDATA[ 2 ]]></quantity>
-<price><![CDATA[ 985 ]]></price>
-<kdv><![CDATA[ 1 ]]></kdv>
-<miat><![CDATA[  ]]></miat>
-<miattr><![CDATA[ Miadsız Ürün ]]></miattr>
-<kat1><![CDATA[ Genel ]]></kat1>
-<kat2/>
-<kat3/>
-<kat4/>
-<kat5/>
-<marka><![CDATA[ Genel ]]></marka>
-<resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/1cd78d7c-c707-49eb-a1e6-d12f96ab07b1.jpg ]]></resim1>
 </product>
 <product>
 <sku><![CDATA[ 3522930003441 ]]></sku>
@@ -1955,7 +1939,7 @@
 <product>
 <sku><![CDATA[ 8680645530500 ]]></sku>
 <name><![CDATA[ Duobalance BV Cran 14 Kapsül ]]></name>
-<quantity><![CDATA[ 274 ]]></quantity>
+<quantity><![CDATA[ 273 ]]></quantity>
 <price><![CDATA[ 608.88 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
@@ -2115,7 +2099,7 @@
 <product>
 <sku><![CDATA[ 519313153728 ]]></sku>
 <name><![CDATA[ GC Tooth Mousse Diş Minesi Koruyucu Çilek 40 gr ]]></name>
-<quantity><![CDATA[ 35 ]]></quantity>
+<quantity><![CDATA[ 29 ]]></quantity>
 <price><![CDATA[ 1734.31 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
@@ -2771,7 +2755,7 @@
 <product>
 <sku><![CDATA[ 8680133003318 ]]></sku>
 <name><![CDATA[ Magnimore Magnezyum Bisglisinat 60 Kapsül ]]></name>
-<quantity><![CDATA[ 102 ]]></quantity>
+<quantity><![CDATA[ 99 ]]></quantity>
 <price><![CDATA[ 427.76 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0629 ]]></miat>
@@ -3411,7 +3395,7 @@
 <product>
 <sku><![CDATA[ 8680133000492 ]]></sku>
 <name><![CDATA[ Nemolix Plus 30 Tablet ]]></name>
-<quantity><![CDATA[ 18 ]]></quantity>
+<quantity><![CDATA[ 6 ]]></quantity>
 <price><![CDATA[ 514.98 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
@@ -3587,7 +3571,7 @@
 <product>
 <sku><![CDATA[ 8680512633181 ]]></sku>
 <name><![CDATA[ Nutraxin Multivitamin Mineral Energy 60 Tablet ]]></name>
-<quantity><![CDATA[ 44 ]]></quantity>
+<quantity><![CDATA[ 41 ]]></quantity>
 <price><![CDATA[ 259.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
@@ -3651,7 +3635,7 @@
 <product>
 <sku><![CDATA[ 8680512628385 ]]></sku>
 <name><![CDATA[ Nutraxin Women's Multi Vitamin Complex 60 Tablet ]]></name>
-<quantity><![CDATA[ 32 ]]></quantity>
+<quantity><![CDATA[ 30 ]]></quantity>
 <price><![CDATA[ 259 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0629 ]]></miat>
@@ -3827,7 +3811,7 @@
 <product>
 <sku><![CDATA[ 8697595870754 ]]></sku>
 <name><![CDATA[ Ocean Tutti Frutti Karışık Meyve Aromalı Balık Yağı Şurup 150 ml ]]></name>
-<quantity><![CDATA[ 12 ]]></quantity>
+<quantity><![CDATA[ 10 ]]></quantity>
 <price><![CDATA[ 307 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -4563,7 +4547,7 @@
 <product>
 <sku><![CDATA[ 7391899856322 ]]></sku>
 <name><![CDATA[ Renu Multiplus Lens Solüsyonu 100 ml ]]></name>
-<quantity><![CDATA[ 92 ]]></quantity>
+<quantity><![CDATA[ 90 ]]></quantity>
 <price><![CDATA[ 237.49 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
@@ -4595,7 +4579,7 @@
 <product>
 <sku><![CDATA[ 7391899856995 ]]></sku>
 <name><![CDATA[ Renu Multiplus Lens Solüsyonu 360 ml - İkili Kofre ]]></name>
-<quantity><![CDATA[ 67 ]]></quantity>
+<quantity><![CDATA[ 64 ]]></quantity>
 <price><![CDATA[ 546 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
@@ -4611,7 +4595,7 @@
 <product>
 <sku><![CDATA[ 8680287030154 ]]></sku>
 <name><![CDATA[ Sambucol Plus Kids Yummies 60 Çiğneme Tableti ]]></name>
-<quantity><![CDATA[ 126 ]]></quantity>
+<quantity><![CDATA[ 124 ]]></quantity>
 <price><![CDATA[ 446.03 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
@@ -5155,7 +5139,7 @@
 <product>
 <sku><![CDATA[ 8690570557343 ]]></sku>
 <name><![CDATA[ Strepsils Herbal Defence Karamürver & Ekinezya 16 Pastil ]]></name>
-<quantity><![CDATA[ 411 ]]></quantity>
+<quantity><![CDATA[ 409 ]]></quantity>
 <price><![CDATA[ 164 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
@@ -5779,7 +5763,7 @@
 <product>
 <sku><![CDATA[ 8682368909069 ]]></sku>
 <name><![CDATA[ Velavit V-Probiotics With Enzymes 30 Tablet ]]></name>
-<quantity><![CDATA[ 111 ]]></quantity>
+<quantity><![CDATA[ 108 ]]></quantity>
 <price><![CDATA[ 869 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
@@ -6147,7 +6131,7 @@
 <product>
 <sku><![CDATA[ 8683684703065 ]]></sku>
 <name><![CDATA[ Vitafenix D3K2 400 Damla 20 ml ]]></name>
-<quantity><![CDATA[ 85 ]]></quantity>
+<quantity><![CDATA[ 84 ]]></quantity>
 <price><![CDATA[ 476.92 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0529 ]]></miat>

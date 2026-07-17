@@ -131,7 +131,7 @@
 <product>
 <sku><![CDATA[ 8680434326093 ]]></sku>
 <name><![CDATA[ Artımed Erken Gebelik Testi ]]></name>
-<quantity><![CDATA[ 54 ]]></quantity>
+<quantity><![CDATA[ 72 ]]></quantity>
 <price><![CDATA[ 15.49 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
@@ -291,7 +291,7 @@
 <product>
 <sku><![CDATA[ 8681863200107 ]]></sku>
 <name><![CDATA[ Bestiron Plus 100 ml ]]></name>
-<quantity><![CDATA[ 67 ]]></quantity>
+<quantity><![CDATA[ 66 ]]></quantity>
 <price><![CDATA[ 578.65 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
@@ -303,6 +303,22 @@
 <kat5/>
 <marka><![CDATA[ Genel ]]></marka>
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/d2525d87-2406-4b5c-b82f-2f468d460e9b.jpg ]]></resim1>
+</product>
+<product>
+<sku><![CDATA[ 8681863200015 ]]></sku>
+<name><![CDATA[ Bestlak Damla 50 ml ]]></name>
+<quantity><![CDATA[ 34 ]]></quantity>
+<price><![CDATA[ 467.99 ]]></price>
+<kdv><![CDATA[ 1 ]]></kdv>
+<miat><![CDATA[ 0528 ]]></miat>
+<miattr><![CDATA[ Mayıs 2028 ]]></miattr>
+<kat1><![CDATA[ Genel ]]></kat1>
+<kat2/>
+<kat3/>
+<kat4/>
+<kat5/>
+<marka><![CDATA[ Genel ]]></marka>
+<resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/fc1d024f-d7d6-45ef-9204-61c1fc5af9c7.jpg ]]></resim1>
 </product>
 <product>
 <sku><![CDATA[ 8681285121066 ]]></sku>
@@ -931,7 +947,7 @@
 <product>
 <sku><![CDATA[ 3701129810033-EA ]]></sku>
 <name><![CDATA[ Bioderma Photoderm Spot SPF50+ 150 ml - Eski Ambalaj ]]></name>
-<quantity><![CDATA[ 149 ]]></quantity>
+<quantity><![CDATA[ 151 ]]></quantity>
 <price><![CDATA[ 1297.5 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
@@ -1028,7 +1044,7 @@
 <sku><![CDATA[ 3701129800553-P ]]></sku>
 <name><![CDATA[ Bioderma Pigmentbio Foaming Cream 500 ml - Puansız ]]></name>
 <quantity><![CDATA[ 6 ]]></quantity>
-<price><![CDATA[ 1157.99 ]]></price>
+<price><![CDATA[ 1245.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0528 ]]></miat>
 <miattr><![CDATA[ Mayıs 2028 ]]></miattr>
@@ -1667,7 +1683,7 @@
 <product>
 <sku><![CDATA[ 8681395450254 ]]></sku>
 <name><![CDATA[ Enterogis 10 Saşe ]]></name>
-<quantity><![CDATA[ 663 ]]></quantity>
+<quantity><![CDATA[ 651 ]]></quantity>
 <price><![CDATA[ 94.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
@@ -2211,7 +2227,7 @@
 <product>
 <sku><![CDATA[ 8681863200053 ]]></sku>
 <name><![CDATA[ PR-D 600 Damla 20 ml ]]></name>
-<quantity><![CDATA[ 84 ]]></quantity>
+<quantity><![CDATA[ 81 ]]></quantity>
 <price><![CDATA[ 539.7 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
@@ -2227,7 +2243,7 @@
 <product>
 <sku><![CDATA[ 8681812046107 ]]></sku>
 <name><![CDATA[ Protime Women 30 Saşe ]]></name>
-<quantity><![CDATA[ 1 ]]></quantity>
+<quantity><![CDATA[ 2 ]]></quantity>
 <price><![CDATA[ 1253.88 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
@@ -2499,7 +2515,7 @@
 <product>
 <sku><![CDATA[ 8682368909489 ]]></sku>
 <name><![CDATA[ Velavit Dim Complex 30 Tablet ]]></name>
-<quantity><![CDATA[ 323 ]]></quantity>
+<quantity><![CDATA[ 320 ]]></quantity>
 <price><![CDATA[ 905 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
@@ -2945,25 +2961,9 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/6c9a91ca-b919-46a5-b48d-8f8486ce3eb6.jpg ]]></resim1>
 </product>
 <product>
-<sku><![CDATA[ 8682368909342 ]]></sku>
-<name><![CDATA[ Velavit V-Nattokinasse 2000 Fu's 100 mg Enzyne 30 Kapsül ]]></name>
-<quantity><![CDATA[ 3 ]]></quantity>
-<price><![CDATA[ 888 ]]></price>
-<kdv><![CDATA[ 1 ]]></kdv>
-<miat><![CDATA[ 0628 ]]></miat>
-<miattr><![CDATA[ Haziran 2028 ]]></miattr>
-<kat1><![CDATA[ Genel ]]></kat1>
-<kat2/>
-<kat3/>
-<kat4/>
-<kat5/>
-<marka><![CDATA[ Genel ]]></marka>
-<resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/80831c31-989f-40cf-943f-0207b4d70b76.jpg ]]></resim1>
-</product>
-<product>
 <sku><![CDATA[ 8682368909359 ]]></sku>
 <name><![CDATA[ Velavit V-Nr 30 Capsul ]]></name>
-<quantity><![CDATA[ 393 ]]></quantity>
+<quantity><![CDATA[ 392 ]]></quantity>
 <price><![CDATA[ 2129 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1029 ]]></miat>
