@@ -30,6 +30,7 @@ jobs:
           ECZA1_USER: ${{ secrets.ECZA1_USER }}
           ECZA1_PASS: ${{ secrets.ECZA1_PASS }}
           QUKASOFT_COOKIE: ${{ secrets.QUKASOFT_COOKIE }}
+          QUKASOFT_CSRF_TOKEN: ${{ secrets.QUKASOFT_CSRF_TOKEN }}
         run: python qukasoft_to_ecza1_orders.py
 
       - name: İşlenen sipariş kaydını commit'le ve gönder
