@@ -32,6 +32,13 @@ jobs:
           ECZA1_PASS: ${{ secrets.ECZA1_PASS }}
         run: python ecza1_multi_sync.py
 
+      - name: Farmazon senkronizasyonunu çalıştır
+        env:
+          FARMAZON_USER: ${{ secrets.FARMAZON_USER }}
+          FARMAZON_PASS: ${{ secrets.FARMAZON_PASS }}
+        run: python farmazon_sync.py
+        continue-on-error: true
+
       # Toptancozum GitHub Actions'ın IP'sinden engellendiği için şimdilik
       # devre dışı - Türkiye VPS'e taşındığında tekrar aktif edilecek.
       # - name: Toptancozum senkronizasyonunu çalıştır
@@ -45,6 +52,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/ecza1-store-*.xml sync.log
+          git add docs/ecza1-store-*.xml docs/farmazon-store-*.xml sync.log sync_farmazon.log
           git diff --quiet --cached || git commit -m "Ürün listeleri güncellendi"
           git push
