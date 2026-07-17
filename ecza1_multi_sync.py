@@ -43,6 +43,7 @@ STORE_USER_IDS = [
     "1735",
     "11197",
     "759",
+    "18",
 ]
 
 # GitHub Actions içinde script, repo'nun kök dizininde çalışır.
