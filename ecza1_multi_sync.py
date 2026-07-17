@@ -27,6 +27,7 @@ import json
 # ------------------------------------------------------------------
 LOGIN_URL = "https://ecza1.com/Home/Login"
 PRODUCT_LIST_URL = "https://ecza1.com/Product/GetUserProductList"
+FILTER_MENU_URL = "https://ecza1.com/Product/GetFilterMenu"
 
 USERNAME = os.environ.get("ECZA1_USER", "")
 PASSWORD = os.environ.get("ECZA1_PASS", "")
@@ -145,6 +146,51 @@ def fetch_all_products(session: requests.Session, user_id: str) -> list:
     return all_products
 
 
+def fetch_category_and_brand_maps(session: requests.Session):
+    """
+    GetFilterMenu endpoint'i, sonuçları 'menu' parametresine göre farklı
+    kategori setleri döndürüyor (tek çağrı tüm kategorileri kapsamıyor).
+    Bu yüzden makul bir menu aralığını (0-150) tarayıp bulduğumuz tüm
+    kategori (Type=1) ve marka (Type=0) ID->isim eşlemelerini birleştiriyoruz.
+    Bu işlem sadece çalıştırma başına BİR KEZ yapılır (her ürün için değil).
+    """
+    category_map = {}
+    brand_map = {}
+
+    for menu_id in range(0, 150):
+        payload = {
+            "categoryId": 0,
+            "menu": menu_id,
+            "categoryIds": "",
+            "brandIds": "",
+            "userIds": "",
+            "siteIdList": "",
+            "searchKey": "",
+        }
+        try:
+            resp = session.post(FILTER_MENU_URL, data=payload, timeout=20)
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception as e:
+            logging.warning(f"[menu={menu_id}] GetFilterMenu çekilemedi, atlanıyor: {e}")
+            continue
+
+        for item in data.get("Data", []):
+            item_id = item.get("Id")
+            item_type = item.get("Type")
+            item_name = item.get("Name")
+            if item_id is None or item_name is None:
+                continue
+            if item_type == 1:
+                category_map[item_id] = item_name
+            elif item_type == 0:
+                brand_map[item_id] = item_name
+
+    logging.info(f"Kategori/marka tablosu hazır: {len(category_map)} kategori, {len(brand_map)} marka bulundu.")
+    return category_map, brand_map
+
+
+
 TURKISH_MONTHS = {
     1: "01", 2: "02", 3: "03", 4: "04", 5: "05", 6: "06",
     7: "07", 8: "08", 9: "09", 10: "10", 11: "11", 12: "12",
@@ -188,31 +234,27 @@ def _parse_miat(post_mature_date_str: str):
     return f"{TURKISH_MONTHS[month_num]}{yy}", post_mature_date_str
 
 
-def generate_qukasoft_xml(products: list, output_path: str = XML_OUTPUT_PATH):
+def generate_qukasoft_xml(products: list, output_path: str, category_map: dict, brand_map: dict):
     """
     Ecza1'den çekilen ürünleri Qukasoft'un XML İçeri Aktar formatına çevirip
     verilen yola yazar. Qukasoft, panelde tanımladığın "Dosya Linki" üzerinden
     bu dosyayı kendi zamanlamasına göre (örn. saatlik) çeker.
 
-    NOT (sınırlılıklar):
-      - Qukasoft, kat1 alanının tamamen boş olmasını kabul etmiyor
-        ("Kategori bulunamadı" hatası veriyor). Bu yüzden tüm ürünlere
-        DEFAULT_KATEGORI ile sabit, genel bir kategori adı veriyoruz.
-        İçeri aktarımdan sonra Qukasoft panelinde bu kategoriyi kendi
-        sitendeki gerçek bir kategoriyle eşleştirebilir, ya da ürünleri
-        tek tek elle doğru kategorilere taşıyabilirsin.
-      - Marka alanı da Ecza1 yanıtında sadece ID olarak geldiği (isim yok)
-        için şimdilik boş bırakıldı. İsim eşlemesi istenirse Ecza1'in
-        GetFilterMenu endpoint'inden ID->isim tablosu ayrıca çekilmeli.
-      - kdv: yüzde oranı olarak gönderiliyor (örn. "1" = %1 KDV).
+    Kategori ve marka artık GERÇEK isimleriyle geliyor (category_map/brand_map
+    üzerinden, GetFilterMenu'den toplanan ID->isim eşlemesi). Eşlemede
+    bulunamayan ID'ler için "Genel" sabit değerine düşülüyor (Qukasoft
+    boş kategori/marka kabul etmediği için).
     """
     KDV_ORANI = "1"        # % olarak KDV oranı
-    DEFAULT_KATEGORI = "Genel"  # Qukasoft boş kategori kabul etmediği için sabit değer
+    DEFAULT_KATEGORI = "Genel"  # eşleme bulunamazsa kullanılacak yedek değer
 
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
 
     for p in products:
         miat, miattr = _parse_miat(p.get("PostMatureDateStr"))
+
+        kategori_adi = category_map.get(p.get("CategoryId"), DEFAULT_KATEGORI)
+        marka_adi = brand_map.get(p.get("BrandId"), DEFAULT_KATEGORI)
 
         lines.append("<product>")
         lines.append(f"<sku>{_cdata(p.get('Barcode'))}</sku>")
@@ -222,12 +264,12 @@ def generate_qukasoft_xml(products: list, output_path: str = XML_OUTPUT_PATH):
         lines.append(f"<kdv>{_cdata(KDV_ORANI)}</kdv>")
         lines.append(f"<miat>{_cdata(miat)}</miat>")
         lines.append(f"<miattr>{_cdata(miattr)}</miattr>")
-        lines.append(f"<kat1>{_cdata(DEFAULT_KATEGORI)}</kat1>")
+        lines.append(f"<kat1>{_cdata(kategori_adi)}</kat1>")
         lines.append("<kat2/>")
         lines.append("<kat3/>")
         lines.append("<kat4/>")
         lines.append("<kat5/>")
-        lines.append(f"<marka>{_cdata(DEFAULT_KATEGORI)}</marka>")
+        lines.append(f"<marka>{_cdata(marka_adi)}</marka>")
         lines.append(f"<resim1>{_cdata(p.get('OriginalImageUrl'))}</resim1>")
         lines.append("</product>")
 
@@ -244,6 +286,8 @@ def main():
     try:
         session = login_and_get_session()
 
+        category_map, brand_map = fetch_category_and_brand_maps(session)
+
         for user_id in STORE_USER_IDS:
             try:
                 store_products = fetch_all_products(session, user_id)
@@ -252,7 +296,7 @@ def main():
                 continue
 
             output_path = f"docs/ecza1-store-{user_id}.xml"
-            generate_qukasoft_xml(store_products, output_path=output_path)
+            generate_qukasoft_xml(store_products, output_path, category_map, brand_map)
 
         logging.info("Tüm mağazalar için senkronizasyon tamamlandı.")
     except Exception as e:
