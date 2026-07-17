@@ -26,23 +26,25 @@ jobs:
       - name: Gerekli paketleri kur
         run: pip install requests
 
-      - name: Ecza1 senkronizasyonunu çalıştır
+      - name: Ecza1 (tüm mağazalar) senkronizasyonunu çalıştır
         env:
           ECZA1_USER: ${{ secrets.ECZA1_USER }}
           ECZA1_PASS: ${{ secrets.ECZA1_PASS }}
-        run: python ecza1_sync_v2.py
+        run: python ecza1_multi_sync.py
 
-      - name: Toptancozum senkronizasyonunu çalıştır
-        env:
-          TOPTANCOZUM_EMAIL: ${{ secrets.TOPTANCOZUM_EMAIL }}
-          TOPTANCOZUM_PASS: ${{ secrets.TOPTANCOZUM_PASS }}
-        run: python toptancozum_sync.py
-        continue-on-error: true
+      # Toptancozum GitHub Actions'ın IP'sinden engellendiği için şimdilik
+      # devre dışı - Türkiye VPS'e taşındığında tekrar aktif edilecek.
+      # - name: Toptancozum senkronizasyonunu çalıştır
+      #   env:
+      #     TOPTANCOZUM_EMAIL: ${{ secrets.TOPTANCOZUM_EMAIL }}
+      #     TOPTANCOZUM_PASS: ${{ secrets.TOPTANCOZUM_PASS }}
+      #   run: python toptancozum_sync.py
+      #   continue-on-error: true
 
       - name: Değişiklikleri commit'le ve gönder
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/ecza1-feed.xml docs/toptancozum-feed.xml sync.log sync_toptancozum.log
+          git add docs/ecza1-store-*.xml sync.log
           git diff --quiet --cached || git commit -m "Ürün listeleri güncellendi"
           git push
