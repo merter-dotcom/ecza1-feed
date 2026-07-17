@@ -48,6 +48,7 @@ QUKASOFT_ORDER_DETAIL_URL = "https://www.eczaneihtiyaclari.com/admin/modal/nativ
 ECZA1_USER = os.environ.get("ECZA1_USER", "")
 ECZA1_PASS = os.environ.get("ECZA1_PASS", "")
 QUKASOFT_COOKIE = os.environ.get("QUKASOFT_COOKIE", "")
+QUKASOFT_CSRF_TOKEN = os.environ.get("QUKASOFT_CSRF_TOKEN", "")
 
 STORE_USER_IDS = [
     "7982", "16982", "19598", "21144", "184", "1735", "11197", "759", "18",
@@ -183,12 +184,15 @@ def ecza1_add_to_basket(session: requests.Session, site_product_id: str, quantit
 def qukasoft_session() -> requests.Session:
     if not QUKASOFT_COOKIE:
         raise RuntimeError("QUKASOFT_COOKIE boş - GitHub Secrets'a eklenmemiş olabilir.")
+    if not QUKASOFT_CSRF_TOKEN:
+        raise RuntimeError("QUKASOFT_CSRF_TOKEN boş - GitHub Secrets'a eklenmemiş olabilir.")
 
     session = requests.Session()
     session.headers.update({
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Cookie": QUKASOFT_COOKIE,
         "X-Requested-With": "XMLHttpRequest",
+        "Accept-Content-Token": QUKASOFT_CSRF_TOKEN,
     })
     return session
 
