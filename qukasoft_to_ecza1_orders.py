@@ -212,6 +212,8 @@ def qukasoft_session() -> requests.Session:
 
     match = re.search(r"updateCsrf\('([^']+)'\)", page_resp.text)
     if not match:
+        logging.error(f"Sayfa durum kodu: {page_resp.status_code}, son URL: {page_resp.url}")
+        logging.error(f"Sayfa HTML'inin ilk 1000 karakteri: {page_resp.text[:1000]}")
         raise RuntimeError(
             "CSRF token sayfa HTML'inde bulunamadı - Cookie süresi dolmuş olabilir "
             "(SMS ile tekrar giriş yapıp Cookie'yi yenilemen gerekebilir)."
