@@ -58,10 +58,18 @@ logging.basicConfig(
 
 def sign_in() -> str:
     """Farmazon'a giriş yapıp JWT token döner (Bearer olarak kullanılacak)."""
+    if not USERNAME or not PASSWORD:
+        raise RuntimeError(
+            "FARMAZON_USER veya FARMAZON_PASS boş geldi - GitHub Secrets doğru "
+            "isimlerle tanımlanmamış olabilir."
+        )
+
     session = requests.Session()
     session.headers.update({
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Content-Type": "application/json",
+        "Origin": "https://www.farmazon.com.tr",
+        "Referer": "https://www.farmazon.com.tr/",
     })
 
     # visitorId sabit olmak zorunda değil, her çalıştırmada rastgele üretebiliriz
@@ -76,6 +84,10 @@ def sign_in() -> str:
     }
 
     resp = session.post(SIGNIN_URL, json=payload, timeout=30)
+
+    if resp.status_code != 200:
+        logging.error(f"SignIn başarısız (HTTP {resp.status_code}). Sunucu yanıtı: {resp.text[:1000]}")
+
     resp.raise_for_status()
 
     try:
