@@ -181,19 +181,46 @@ def ecza1_add_to_basket(session: requests.Session, site_product_id: str, quantit
 # QUKASOFT: SİPARİŞ LİSTESİ VE DETAYI (elle alınan Cookie ile)
 # ------------------------------------------------------------------
 
+def _refresh_csrf_if_present(session: requests.Session, response_text: str):
+    """
+    Bazı Qukasoft yanıtları (özellikle HTML dönenler) yeni bir CSRF token
+    içerebilir - bulursak session'ı güncelleyip bir sonraki istek için
+    taze tutuyoruz (token'ın her istekte rotasyona girme ihtimaline karşı).
+    """
+    match = re.search(r"updateCsrf\('([^']+)'\)", response_text)
+    if match:
+        session.headers.update({"Accept-Content-Token": match.group(1)})
+
+
 def qukasoft_session() -> requests.Session:
     if not QUKASOFT_COOKIE:
         raise RuntimeError("QUKASOFT_COOKIE boş - GitHub Secrets'a eklenmemiş olabilir.")
-    if not QUKASOFT_CSRF_TOKEN:
-        raise RuntimeError("QUKASOFT_CSRF_TOKEN boş - GitHub Secrets'a eklenmemiş olabilir.")
 
     session = requests.Session()
     session.headers.update({
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Cookie": QUKASOFT_COOKIE,
         "X-Requested-With": "XMLHttpRequest",
-        "Accept-Content-Token": QUKASOFT_CSRF_TOKEN,
     })
+
+    # CSRF token her sayfa yüklemesinde yenileniyor (rotating token) -
+    # bu yüzden statik bir secret olarak saklamak yerine, her çalıştırmada
+    # siparişler sayfasını ziyaret edip HTML içindeki updateCsrf('...')
+    # çağrısından TAZE token'ı kendimiz çıkarıyoruz.
+    page_resp = session.get("https://www.eczaneihtiyaclari.com/admin/orders/pending", timeout=30)
+    page_resp.raise_for_status()
+
+    match = re.search(r"updateCsrf\('([^']+)'\)", page_resp.text)
+    if not match:
+        raise RuntimeError(
+            "CSRF token sayfa HTML'inde bulunamadı - Cookie süresi dolmuş olabilir "
+            "(SMS ile tekrar giriş yapıp Cookie'yi yenilemen gerekebilir)."
+        )
+
+    csrf_token = match.group(1)
+    session.headers.update({"Accept-Content-Token": csrf_token})
+    logging.info("Taze CSRF token alındı.")
+
     return session
 
 
@@ -227,6 +254,7 @@ def qukasoft_fetch_order_detail(session: requests.Session, order_id: str) -> lis
     resp = session.get(QUKASOFT_ORDER_DETAIL_URL, params={"modal": "order", "id": order_id}, timeout=30)
     resp.raise_for_status()
     html = resp.text
+    _refresh_csrf_if_present(session, html)
 
     items = []
 
