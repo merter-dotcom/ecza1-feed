@@ -237,22 +237,17 @@ def _parse_miat(post_mature_date_str: str):
 def generate_qukasoft_xml(products: list, output_path: str, category_map: dict, brand_map: dict):
     """
     Ecza1'den çekilen ürünleri Qukasoft'un XML İçeri Aktar formatına çevirip
-    verilen yola yazar. Qukasoft, panelde tanımladığın "Dosya Linki" üzerinden
-    bu dosyayı kendi zamanlamasına göre (örn. saatlik) çeker.
-
-    Kategori ve marka artık GERÇEK isimleriyle geliyor (category_map/brand_map
-    üzerinden, GetFilterMenu'den toplanan ID->isim eşlemesi). Eşlemede
-    bulunamayan ID'ler için "Genel" sabit değerine düşülüyor (Qukasoft
-    boş kategori/marka kabul etmediği için).
+    verilen yola yazar. (Eski, tek-mağaza sürümü - artık ana akışta
+    kullanılmıyor, generate_variant_xml() kullanılıyor, ama referans için
+    burada bırakıldı.)
     """
-    KDV_ORANI = "1"        # % olarak KDV oranı
-    DEFAULT_KATEGORI = "Genel"  # eşleme bulunamazsa kullanılacak yedek değer
+    KDV_ORANI = "1"
+    DEFAULT_KATEGORI = "Genel"
 
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
 
     for p in products:
         miat, miattr = _parse_miat(p.get("PostMatureDateStr"))
-
         kategori_adi = category_map.get(p.get("CategoryId"), DEFAULT_KATEGORI)
         marka_adi = brand_map.get(p.get("BrandId"), DEFAULT_KATEGORI)
 
@@ -282,21 +277,104 @@ def generate_qukasoft_xml(products: list, output_path: str, category_map: dict, 
     logging.info(f"XML feed yazıldı: {output_path} ({len(products)} ürün)")
 
 
+def generate_variant_xml(products_by_store: dict, output_path: str, category_map: dict, brand_map: dict):
+    """
+    TÜM mağazaları TEK bir XML dosyasında, Qukasoft'un varyant mantığıyla birleştirir.
+
+    Aynı barkodlu ürün 8 mağazada farklı miat/fiyat/stokla bulunabiliyor.
+    Qukasoft'un "Kaynak Etiketleri Eşleştirme" ekranında gördüğümüz gibi:
+      - "Ürün Kodu" (sku) AYNI kalırsa, Qukasoft bu satırları TEK ürünün
+        FARKLI VARYANTLARI olarak gruplar.
+      - Varyant'a özel alanlar (miat, fiyat, stok, görsel, barkod) ek
+        <varyantX> etiketleriyle taşınır.
+
+    Bu yüzden burada HER mağazadaki HER ürün için ayrı bir <product> satırı
+    yazıyoruz (barkod tekrar etse bile SİLİNMİYOR/BİRLEŞTİRİLMİYOR - önceki
+    sürümde yaptığımız "son gelen kazanır" mantığından farklı olarak burada
+    her mağazanın kaydı ayrı bir varyant olarak korunuyor).
+
+    products_by_store: {user_id: [ürün, ürün, ...], ...}
+    """
+    KDV_ORANI = "1"
+    DEFAULT_KATEGORI = "Genel"
+
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
+    total_written = 0
+
+    for user_id, products in products_by_store.items():
+        for p in products:
+            barcode = p.get("Barcode")
+            if not barcode:
+                continue  # barkodsuz ürün gruplanamaz, atla
+
+            miat, miattr = _parse_miat(p.get("PostMatureDateStr"))
+            kategori_adi = category_map.get(p.get("CategoryId"), DEFAULT_KATEGORI)
+            marka_adi = brand_map.get(p.get("BrandId"), DEFAULT_KATEGORI)
+            price = p.get("UnitPrice")
+            stock = p.get("Stock", 0)
+            image = p.get("OriginalImageUrl")
+            title = p.get("Title")
+
+            # Varyantı ayırt eden etiket: miat bilgisi (örn. "Aralık 2028"
+            # veya "Miadsız Ürün"). Aynı mağazadan aynı miatlı iki farklı
+            # kayıt gelmeyeceği için bu, pratikte benzersiz bir ayraç olur.
+            varyant_degeri = miattr or "Belirtilmemiş"
+
+            lines.append("<product>")
+            # "Ürün Kodu" + "Barkod" -> ikisi de sku'ya eşleniyor, gruplama
+            # anahtarı bu: aynı barkod = aynı ana ürün, farklı varyantlar.
+            lines.append(f"<sku>{_cdata(barcode)}</sku>")
+            lines.append(f"<name>{_cdata(title)}</name>")
+            lines.append(f"<quantity>{_cdata(stock)}</quantity>")
+            lines.append(f"<price>{_cdata(price)}</price>")
+            lines.append(f"<kdv>{_cdata(KDV_ORANI)}</kdv>")
+            lines.append(f"<miat>{_cdata(miat)}</miat>")
+            lines.append(f"<miattr>{_cdata(miattr)}</miattr>")
+            lines.append(f"<kat1>{_cdata(kategori_adi)}</kat1>")
+            lines.append("<kat2/>")
+            lines.append("<kat3/>")
+            lines.append("<kat4/>")
+            lines.append("<kat5/>")
+            lines.append(f"<marka>{_cdata(marka_adi)}</marka>")
+            lines.append(f"<resim1>{_cdata(image)}</resim1>")
+
+            # --- Varyant alanları (Qukasoft'un Kaynak Etiketleri
+            #     Eşleştirme ekranındaki "1. Ürün Varyant ..." satırlarıyla
+            #     eşleştirilecek yeni etiketler) ---
+            lines.append("<varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>")
+            lines.append(f"<varyantdeger1>{_cdata(varyant_degeri)}</varyantdeger1>")
+            lines.append(f"<varyantstok>{_cdata(stock)}</varyantstok>")
+            lines.append(f"<varyantbarkod>{_cdata(barcode)}</varyantbarkod>")
+            lines.append(f"<varyantfiyat>{_cdata(price)}</varyantfiyat>")
+            lines.append(f"<varyantresim>{_cdata(image)}</varyantresim>")
+
+            lines.append("</product>")
+            total_written += 1
+
+    lines.append("</products>")
+
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+
+    logging.info(f"Varyantlı XML feed yazıldı: {output_path} ({total_written} satır / varyant)")
+
+
 def main():
     try:
         session = login_and_get_session()
 
         category_map, brand_map = fetch_category_and_brand_maps(session)
 
+        products_by_store = {}
         for user_id in STORE_USER_IDS:
             try:
-                store_products = fetch_all_products(session, user_id)
+                products_by_store[user_id] = fetch_all_products(session, user_id)
             except Exception as e:
                 logging.error(f"[UserId={user_id}] çekilirken hata oluştu, bu mağaza atlanıyor: {e}")
-                continue
+                products_by_store[user_id] = []
 
-            output_path = f"docs/ecza1-store-{user_id}.xml"
-            generate_qukasoft_xml(store_products, output_path, category_map, brand_map)
+        generate_variant_xml(products_by_store, XML_OUTPUT_PATH, category_map, brand_map)
 
         logging.info("Tüm mağazalar için senkronizasyon tamamlandı.")
     except Exception as e:
