@@ -91,7 +91,7 @@
 <product>
 <sku><![CDATA[ 8683816614825 ]]></sku>
 <name><![CDATA[ Akavital Drcaps 110 Kapsül ]]></name>
-<quantity><![CDATA[ 89 ]]></quantity>
+<quantity><![CDATA[ 78 ]]></quantity>
 <price><![CDATA[ 1219.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0629 ]]></miat>
@@ -105,7 +105,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/4047ca41-5e28-44d1-9b9c-99143d10e183.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Haziran 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 89 ]]></varyantstok>
+<varyantstok><![CDATA[ 78 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683816614825 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1219.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/4047ca41-5e28-44d1-9b9c-99143d10e183.jpg ]]></varyantresim>
@@ -158,7 +158,7 @@
 <sku><![CDATA[ 8680702301531 ]]></sku>
 <name><![CDATA[ Apexis C 1000 mg 90 Tablet ]]></name>
 <quantity><![CDATA[ 9 ]]></quantity>
-<price><![CDATA[ 307.68 ]]></price>
+<price><![CDATA[ 307.46 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
@@ -173,7 +173,7 @@
 <varyantdeger1><![CDATA[ Kasım 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 9 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680702301531 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 307.68 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 307.46 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/3f23d539-985f-4330-bd65-0bee612eeb7e.jpg ]]></varyantresim>
 </product>
 <product>
@@ -400,7 +400,7 @@
 <sku><![CDATA[ 8680702301555 ]]></sku>
 <name><![CDATA[ Apexis Vitamin D3 Kolekalsiferol 400 IU Damla 20 ml ]]></name>
 <quantity><![CDATA[ 77 ]]></quantity>
-<price><![CDATA[ 123.68 ]]></price>
+<price><![CDATA[ 123.46 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
@@ -415,14 +415,14 @@
 <varyantdeger1><![CDATA[ Kasım 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 77 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680702301555 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 123.68 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 123.46 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/185dbb11-ed6f-49f8-af1b-cfcc28250df4.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8699745030322 ]]></sku>
 <name><![CDATA[ Aptamil Pronutra 3 Devam Sütü 900 gr 9-12 Ay ]]></name>
 <quantity><![CDATA[ 12 ]]></quantity>
-<price><![CDATA[ 764.93 ]]></price>
+<price><![CDATA[ 764.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0227 ]]></miat>
 <miattr><![CDATA[ Şubat 2027 ]]></miattr>
@@ -437,14 +437,14 @@
 <varyantdeger1><![CDATA[ Şubat 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 12 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699745030322 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 764.93 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 764.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/c4d41bf7-4f19-4fb2-b7d2-47d7958333cd.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8684891940090 ]]></sku>
 <name><![CDATA[ Argivit Focus 30 Saşe ]]></name>
 <quantity><![CDATA[ 119 ]]></quantity>
-<price><![CDATA[ 583.99 ]]></price>
+<price><![CDATA[ 583.98 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
@@ -459,7 +459,7 @@
 <varyantdeger1><![CDATA[ Ağustos 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 119 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8684891940090 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 583.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 583.98 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/e4daf177-8aec-455f-bc75-ad63c1a3a088.jpg ]]></varyantresim>
 </product>
 <product>
@@ -554,7 +554,7 @@
 <sku><![CDATA[ 8690506550998 ]]></sku>
 <name><![CDATA[ Arko Suncare Çok Yüksek Koruma SPF50+ Kouyucu Yüz Kremi 50 ml ]]></name>
 <quantity><![CDATA[ 21 ]]></quantity>
-<price><![CDATA[ 227.99 ]]></price>
+<price><![CDATA[ 327.5 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0227 ]]></miat>
 <miattr><![CDATA[ Şubat 2027 ]]></miattr>
@@ -569,13 +569,13 @@
 <varyantdeger1><![CDATA[ Şubat 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 21 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690506550998 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 227.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 327.5 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/a22b8b82-c152-4e08-a8ac-f41a44079915.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 5010724525043 ]]></sku>
 <name><![CDATA[ Arm & Hammer 3 Tona Kadar Beyazlatıcı Diş Macunu 75 ml ]]></name>
-<quantity><![CDATA[ 1145 ]]></quantity>
+<quantity><![CDATA[ 1141 ]]></quantity>
 <price><![CDATA[ 176.79 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -589,7 +589,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/15591fc5-cf4d-4da1-a06b-a5978ebc86f2.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 1145 ]]></varyantstok>
+<varyantstok><![CDATA[ 1141 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 5010724525043 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 176.79 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/15591fc5-cf4d-4da1-a06b-a5978ebc86f2.jpg ]]></varyantresim>
@@ -619,7 +619,7 @@
 <product>
 <sku><![CDATA[ 5010724525043-EA ]]></sku>
 <name><![CDATA[ Arm & Hammer Advance White Extreme 75 ml - Eski Ambalaj ]]></name>
-<quantity><![CDATA[ 1145 ]]></quantity>
+<quantity><![CDATA[ 1141 ]]></quantity>
 <price><![CDATA[ 216.3 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -633,7 +633,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/99866960-d9c0-4de5-8c3e-5bc85496b2be.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 1145 ]]></varyantstok>
+<varyantstok><![CDATA[ 1141 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 5010724525043-EA ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 216.3 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/99866960-d9c0-4de5-8c3e-5bc85496b2be.jpg ]]></varyantresim>
@@ -752,7 +752,7 @@
 <sku><![CDATA[ 8682340346912 ]]></sku>
 <name><![CDATA[ Atavit Kids Multivitamin 60 Gummies ]]></name>
 <quantity><![CDATA[ 29 ]]></quantity>
-<price><![CDATA[ 198.99 ]]></price>
+<price><![CDATA[ 186.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
@@ -767,13 +767,13 @@
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 29 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682340346912 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 198.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 186.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/9f219fd2-bd37-4686-aad5-6a31ef39fd8b.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8682340346929 ]]></sku>
 <name><![CDATA[ Atavit Kids Omega-3 60 Gummies ]]></name>
-<quantity><![CDATA[ 42 ]]></quantity>
+<quantity><![CDATA[ 41 ]]></quantity>
 <price><![CDATA[ 198.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -787,7 +787,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/3ca51876-7403-4a76-ba69-cf4a6607ef34.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 42 ]]></varyantstok>
+<varyantstok><![CDATA[ 41 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682340346929 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 198.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/3ca51876-7403-4a76-ba69-cf4a6607ef34.jpg ]]></varyantresim>
@@ -818,7 +818,7 @@
 <sku><![CDATA[ 3282770072655 ]]></sku>
 <name><![CDATA[ Avène Anti Age Solaire Yaşlanma Karşıtı Güneş Kremi SPF50+ 50 ml ]]></name>
 <quantity><![CDATA[ 29 ]]></quantity>
-<price><![CDATA[ 1296.45 ]]></price>
+<price><![CDATA[ 1296.44 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0827 ]]></miat>
 <miattr><![CDATA[ Ağustos 2027 ]]></miattr>
@@ -833,13 +833,13 @@
 <varyantdeger1><![CDATA[ Ağustos 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 29 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3282770072655 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1296.45 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1296.44 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/c92d9ba8-4bf9-4b94-8539-17a4ef3cf59a.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8720689012652 ]]></sku>
 <name><![CDATA[ Avent Response Doğal Tepkili Cam Biberon 0+ Ay120 ml ]]></name>
-<quantity><![CDATA[ 1036 ]]></quantity>
+<quantity><![CDATA[ 1033 ]]></quantity>
 <price><![CDATA[ 753.25 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -853,7 +853,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/c2d44c68-1484-4293-91dd-faa95af92a0b.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 1036 ]]></varyantstok>
+<varyantstok><![CDATA[ 1033 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8720689012652 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 753.25 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/c2d44c68-1484-4293-91dd-faa95af92a0b.jpg ]]></varyantresim>
@@ -861,7 +861,7 @@
 <product>
 <sku><![CDATA[ 8710103781981 ]]></sku>
 <name><![CDATA[ Avent SCF798/02 Desenli Pipetli Bardak 300 ml - Kız ]]></name>
-<quantity><![CDATA[ 141 ]]></quantity>
+<quantity><![CDATA[ 140 ]]></quantity>
 <price><![CDATA[ 731.13 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -875,7 +875,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/adc85cba-4452-4d60-94db-2aefbbdac2d9.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 141 ]]></varyantstok>
+<varyantstok><![CDATA[ 140 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8710103781981 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 731.13 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/adc85cba-4452-4d60-94db-2aefbbdac2d9.jpg ]]></varyantresim>
@@ -1301,7 +1301,7 @@
 <product>
 <sku><![CDATA[ 7391899847344 ]]></sku>
 <name><![CDATA[ Bausch & Lomb Renu Multiplus Lens Solüsyonu 360 ml ]]></name>
-<quantity><![CDATA[ 183 ]]></quantity>
+<quantity><![CDATA[ 173 ]]></quantity>
 <price><![CDATA[ 327.22 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
@@ -1315,7 +1315,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/38849215-d244-452e-819f-8bc579acd740.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Kasım 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 183 ]]></varyantstok>
+<varyantstok><![CDATA[ 173 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 7391899847344 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 327.22 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/38849215-d244-452e-819f-8bc579acd740.jpg ]]></varyantresim>
@@ -1345,7 +1345,7 @@
 <product>
 <sku><![CDATA[ 8699603800685 ]]></sku>
 <name><![CDATA[ Betafix 10m x 2.5cm (5102) ]]></name>
-<quantity><![CDATA[ 1160 ]]></quantity>
+<quantity><![CDATA[ 1150 ]]></quantity>
 <price><![CDATA[ 43.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1030 ]]></miat>
@@ -1359,7 +1359,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/8afc69e1-2e7d-4a15-94d2-2c845360c23d.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2030 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 1160 ]]></varyantstok>
+<varyantstok><![CDATA[ 1150 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699603800685 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 43.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8afc69e1-2e7d-4a15-94d2-2c845360c23d.jpg ]]></varyantresim>
@@ -1367,7 +1367,7 @@
 <product>
 <sku><![CDATA[ 8699603800081-1 ]]></sku>
 <name><![CDATA[ Betaipek İpek Flaster 5m x 1,25cm ]]></name>
-<quantity><![CDATA[ 138 ]]></quantity>
+<quantity><![CDATA[ 136 ]]></quantity>
 <price><![CDATA[ 31.5 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0630 ]]></miat>
@@ -1381,7 +1381,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/2070ab43-fb3b-4009-a855-ad0f34c91520.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Haziran 2030 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 138 ]]></varyantstok>
+<varyantstok><![CDATA[ 136 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699603800081-1 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 31.5 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/2070ab43-fb3b-4009-a855-ad0f34c91520.jpg ]]></varyantresim>
@@ -1412,7 +1412,7 @@
 <sku><![CDATA[ 8680512600343 ]]></sku>
 <name><![CDATA[ Biobaby Atocare Kuru ve Atopik Ciltler İçin Krem 100 ml ]]></name>
 <quantity><![CDATA[ 48 ]]></quantity>
-<price><![CDATA[ 180.05 ]]></price>
+<price><![CDATA[ 179.83 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -1427,14 +1427,14 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 48 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680512600343 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 180.05 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 179.83 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/04d5a7b9-7442-40e4-a65f-dc372bebd3d1.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8680512610847 ]]></sku>
 <name><![CDATA[ Bioder Tüy Dökücü Krem Hassas Cilt 40 ml ]]></name>
-<quantity><![CDATA[ 447 ]]></quantity>
-<price><![CDATA[ 33.93 ]]></price>
+<quantity><![CDATA[ 429 ]]></quantity>
+<price><![CDATA[ 33.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -1447,15 +1447,15 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/8ee7cf2c-72ac-47d0-aeca-22be5b46496c.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 447 ]]></varyantstok>
+<varyantstok><![CDATA[ 429 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680512610847 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 33.93 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 33.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8ee7cf2c-72ac-47d0-aeca-22be5b46496c.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8699956514185 ]]></sku>
 <name><![CDATA[ Bioderma Atoderm Cream Ultra 200 ml ]]></name>
-<quantity><![CDATA[ 19 ]]></quantity>
+<quantity><![CDATA[ 17 ]]></quantity>
 <price><![CDATA[ 706.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
@@ -1469,7 +1469,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/1f84e553-2197-4130-a718-4575ecec8adb.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Temmuz 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 19 ]]></varyantstok>
+<varyantstok><![CDATA[ 17 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699956514185 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 706.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/1f84e553-2197-4130-a718-4575ecec8adb.jpg ]]></varyantresim>
@@ -1543,7 +1543,7 @@
 <product>
 <sku><![CDATA[ 3701129812099 ]]></sku>
 <name><![CDATA[ Bioderma Sensibio Ar+ Cream 40 ml ]]></name>
-<quantity><![CDATA[ 112 ]]></quantity>
+<quantity><![CDATA[ 111 ]]></quantity>
 <price><![CDATA[ 1523.75 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0528 ]]></miat>
@@ -1557,7 +1557,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/cd404eeb-302c-4477-9f83-3dcbad0fc1a1.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Mayıs 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 112 ]]></varyantstok>
+<varyantstok><![CDATA[ 111 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3701129812099 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1523.75 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/cd404eeb-302c-4477-9f83-3dcbad0fc1a1.jpg ]]></varyantresim>
@@ -1565,7 +1565,7 @@
 <product>
 <sku><![CDATA[ 8699956513720 ]]></sku>
 <name><![CDATA[ Bioderma Sensibio Foaming Gel 500 ml ]]></name>
-<quantity><![CDATA[ 38 ]]></quantity>
+<quantity><![CDATA[ 33 ]]></quantity>
 <price><![CDATA[ 1098.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
@@ -1579,7 +1579,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/246f17d6-bc0f-464b-acaa-63253055070d.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 38 ]]></varyantstok>
+<varyantstok><![CDATA[ 33 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699956513720 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1098.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/246f17d6-bc0f-464b-acaa-63253055070d.jpg ]]></varyantresim>
@@ -1742,7 +1742,7 @@
 <sku><![CDATA[ 8697842621610 ]]></sku>
 <name><![CDATA[ Bote Lip Balm - Kiraz ]]></name>
 <quantity><![CDATA[ 191 ]]></quantity>
-<price><![CDATA[ 29.39 ]]></price>
+<price><![CDATA[ 36.1 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
@@ -1757,7 +1757,7 @@
 <varyantdeger1><![CDATA[ Ekim 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 191 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697842621610 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 29.39 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 36.1 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/5eb3cf92-2bd2-4cc6-9ca3-c2ed4930936b.jpg ]]></varyantresim>
 </product>
 <product>
@@ -1918,7 +1918,7 @@
 <sku><![CDATA[ 3337875925341 ]]></sku>
 <name><![CDATA[ Cerave Balancing Air Foam Cleanser 148 ml ]]></name>
 <quantity><![CDATA[ 308 ]]></quantity>
-<price><![CDATA[ 403.93 ]]></price>
+<price><![CDATA[ 403.87 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -1933,7 +1933,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 308 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875925341 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 403.93 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 403.87 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8424a752-e96f-4c45-8937-f5875f0f951b.jpg ]]></varyantresim>
 </product>
 <product>
@@ -1983,7 +1983,7 @@
 <product>
 <sku><![CDATA[ 3337875597180 ]]></sku>
 <name><![CDATA[ Cerave Nemlendiren Temizleyici 236 ml ]]></name>
-<quantity><![CDATA[ 313 ]]></quantity>
+<quantity><![CDATA[ 308 ]]></quantity>
 <price><![CDATA[ 698.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -1997,7 +1997,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/2569e55b-437f-43c9-bf5f-d3a35ad09a51.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 313 ]]></varyantstok>
+<varyantstok><![CDATA[ 308 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875597180 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 698.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/2569e55b-437f-43c9-bf5f-d3a35ad09a51.jpg ]]></varyantresim>
@@ -2027,7 +2027,7 @@
 <product>
 <sku><![CDATA[ 3337875597371 ]]></sku>
 <name><![CDATA[ Cerave Nemlendirici Krem Kuru ve Çok Kuru Ciltler 50 ml ]]></name>
-<quantity><![CDATA[ 373 ]]></quantity>
+<quantity><![CDATA[ 371 ]]></quantity>
 <price><![CDATA[ 337.87 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -2041,7 +2041,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/aacbc9c1-294d-4ede-a620-7de996a6a9c9.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 373 ]]></varyantstok>
+<varyantstok><![CDATA[ 371 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875597371 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 337.87 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/aacbc9c1-294d-4ede-a620-7de996a6a9c9.jpg ]]></varyantresim>
@@ -2049,7 +2049,7 @@
 <product>
 <sku><![CDATA[ 3337875597210 ]]></sku>
 <name><![CDATA[ Cerave Nemlendirici Losyon 236 ml ]]></name>
-<quantity><![CDATA[ 47 ]]></quantity>
+<quantity><![CDATA[ 46 ]]></quantity>
 <price><![CDATA[ 719.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -2063,7 +2063,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/b97ed74c-ca35-45f0-b227-0c240b6d46cc.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 47 ]]></varyantstok>
+<varyantstok><![CDATA[ 46 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875597210 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 719.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/b97ed74c-ca35-45f0-b227-0c240b6d46cc.jpg ]]></varyantresim>
@@ -2071,7 +2071,7 @@
 <product>
 <sku><![CDATA[ 3337875597395 ]]></sku>
 <name><![CDATA[ Cerave Nemlendirici Losyon 473 ml ]]></name>
-<quantity><![CDATA[ 144 ]]></quantity>
+<quantity><![CDATA[ 142 ]]></quantity>
 <price><![CDATA[ 843.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -2085,7 +2085,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/38304672-55d5-4189-970d-0e7ee4a8e3ba.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 144 ]]></varyantstok>
+<varyantstok><![CDATA[ 142 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875597395 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 843.9 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/38304672-55d5-4189-970d-0e7ee4a8e3ba.jpg ]]></varyantresim>
@@ -2160,7 +2160,7 @@
 <sku><![CDATA[ 8682276602571 ]]></sku>
 <name><![CDATA[ Cire Aseptine Soft Prebiyotik Papatya El Yüz ve Vücut Kremi 30 ml ]]></name>
 <quantity><![CDATA[ 194 ]]></quantity>
-<price><![CDATA[ 46.21 ]]></price>
+<price><![CDATA[ 45.69 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -2175,7 +2175,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 194 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682276602571 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 46.21 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 45.69 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/1cb9e353-efb2-4fbb-b885-6deb83e07bae.jpg ]]></varyantresim>
 </product>
 <product>
@@ -2204,7 +2204,7 @@
 <sku><![CDATA[ 8684266110615 ]]></sku>
 <name><![CDATA[ Clades Citronella Yağı 20 ml ]]></name>
 <quantity><![CDATA[ 8 ]]></quantity>
-<price><![CDATA[ 51.58 ]]></price>
+<price><![CDATA[ 51.36 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
@@ -2219,14 +2219,14 @@
 <varyantdeger1><![CDATA[ Şubat 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 8 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8684266110615 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 51.58 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 51.36 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f5524807-a178-4137-b4fa-662942d2249a.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8684266110707 ]]></sku>
 <name><![CDATA[ Clades Mavi Anemon Yağı 20 ml ]]></name>
 <quantity><![CDATA[ 9 ]]></quantity>
-<price><![CDATA[ 51.47 ]]></price>
+<price><![CDATA[ 51.25 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
@@ -2241,7 +2241,7 @@
 <varyantdeger1><![CDATA[ Şubat 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 9 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8684266110707 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 51.47 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 51.25 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/74a33514-837f-411b-8e56-b3cb0622d940.jpg ]]></varyantresim>
 </product>
 <product>
@@ -2358,7 +2358,7 @@
 <sku><![CDATA[ 8697595870426 ]]></sku>
 <name><![CDATA[ Cosakondrin MSM 60 Tablet ]]></name>
 <quantity><![CDATA[ 203 ]]></quantity>
-<price><![CDATA[ 471.44 ]]></price>
+<price><![CDATA[ 471.43 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
 <miattr><![CDATA[ Kasım 2028 ]]></miattr>
@@ -2373,7 +2373,7 @@
 <varyantdeger1><![CDATA[ Kasım 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 203 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697595870426 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 471.44 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 471.43 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f76a21fd-f5bb-41c2-9ef4-dade4ea8eff7.jpg ]]></varyantresim>
 </product>
 <product>
@@ -2577,7 +2577,7 @@
 <product>
 <sku><![CDATA[ 8699956000404 ]]></sku>
 <name><![CDATA[ Denflor Probiyotik 10 Saşe ]]></name>
-<quantity><![CDATA[ 10599 ]]></quantity>
+<quantity><![CDATA[ 10126 ]]></quantity>
 <price><![CDATA[ 17.49 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
@@ -2591,7 +2591,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/d18ea67e-bff9-47ad-87cf-032602646791.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 10599 ]]></varyantstok>
+<varyantstok><![CDATA[ 10126 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699956000404 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 17.49 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/d18ea67e-bff9-47ad-87cf-032602646791.jpg ]]></varyantresim>
@@ -2599,7 +2599,7 @@
 <product>
 <sku><![CDATA[ 8699956000404-10 ]]></sku>
 <name><![CDATA[ Denflor Probiyotik 10 Saşe - 10 Adet ]]></name>
-<quantity><![CDATA[ 1059 ]]></quantity>
+<quantity><![CDATA[ 1012 ]]></quantity>
 <price><![CDATA[ 199.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
@@ -2613,7 +2613,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/7e143bf5-7916-49ea-8966-44a4c03648ec.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 1059 ]]></varyantstok>
+<varyantstok><![CDATA[ 1012 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699956000404-10 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 199.97 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/7e143bf5-7916-49ea-8966-44a4c03648ec.jpg ]]></varyantresim>
@@ -2621,7 +2621,7 @@
 <product>
 <sku><![CDATA[ 8699956000404-50 ]]></sku>
 <name><![CDATA[ Denflor Probiyotik 10 Saşe - 50 Adet ]]></name>
-<quantity><![CDATA[ 211 ]]></quantity>
+<quantity><![CDATA[ 202 ]]></quantity>
 <price><![CDATA[ 1270.3 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
@@ -2635,7 +2635,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/b4a9e19c-d994-4cae-8c20-a3e848d75ce3.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 211 ]]></varyantstok>
+<varyantstok><![CDATA[ 202 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699956000404-50 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1270.3 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/b4a9e19c-d994-4cae-8c20-a3e848d75ce3.jpg ]]></varyantresim>
@@ -2731,7 +2731,7 @@
 <product>
 <sku><![CDATA[ 8690927512254 ]]></sku>
 <name><![CDATA[ Difaş Micro Clean İnceltilmiş Yumuşak Soft Diş Fırçası 2'li ]]></name>
-<quantity><![CDATA[ 145 ]]></quantity>
+<quantity><![CDATA[ 144 ]]></quantity>
 <price><![CDATA[ 47.49 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -2745,7 +2745,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/0d875810-ca31-4f7e-8b11-efc5839efec2.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 145 ]]></varyantstok>
+<varyantstok><![CDATA[ 144 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690927512254 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 47.49 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0d875810-ca31-4f7e-8b11-efc5839efec2.jpg ]]></varyantresim>
@@ -3017,7 +3017,7 @@
 <product>
 <sku><![CDATA[ 8681794082599 ]]></sku>
 <name><![CDATA[ EasyFishoil Defence Karışık Meyve Aromalı 30 Jel Tablet ]]></name>
-<quantity><![CDATA[ 443 ]]></quantity>
+<quantity><![CDATA[ 439 ]]></quantity>
 <price><![CDATA[ 572.98 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
@@ -3031,7 +3031,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/1a4b1773-9512-4489-9e18-6578e08bc7b7.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 443 ]]></varyantstok>
+<varyantstok><![CDATA[ 439 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8681794082599 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 572.98 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/1a4b1773-9512-4489-9e18-6578e08bc7b7.jpg ]]></varyantresim>
@@ -3040,7 +3040,7 @@
 <sku><![CDATA[ 8682792377274 ]]></sku>
 <name><![CDATA[ EasyFishoil Grow 30 Jel Tablet ]]></name>
 <quantity><![CDATA[ 477 ]]></quantity>
-<price><![CDATA[ 549.93 ]]></price>
+<price><![CDATA[ 553.87 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
 <miattr><![CDATA[ Şubat 2028 ]]></miattr>
@@ -3055,13 +3055,13 @@
 <varyantdeger1><![CDATA[ Şubat 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 477 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682792377274 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 549.93 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 553.87 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/35365857-010e-436c-8781-8da696d0b562.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8681794082506 ]]></sku>
 <name><![CDATA[ Easyfishoil Q 30 Çiğneme Tableti ]]></name>
-<quantity><![CDATA[ 116 ]]></quantity>
+<quantity><![CDATA[ 115 ]]></quantity>
 <price><![CDATA[ 618.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
@@ -3075,7 +3075,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/34fb03b1-fdd6-40e0-bde9-c17ac3c7bcd4.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ocak 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 116 ]]></varyantstok>
+<varyantstok><![CDATA[ 115 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8681794082506 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 618.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/34fb03b1-fdd6-40e0-bde9-c17ac3c7bcd4.jpg ]]></varyantresim>
@@ -3083,7 +3083,7 @@
 <product>
 <sku><![CDATA[ 4712558769020 ]]></sku>
 <name><![CDATA[ Ebsensor Kan Şekeri Test Stripi 50'li ]]></name>
-<quantity><![CDATA[ 2139 ]]></quantity>
+<quantity><![CDATA[ 2134 ]]></quantity>
 <price><![CDATA[ 196.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
@@ -3097,7 +3097,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/b4574346-eac0-4023-b5f3-23c2ed4ee25e.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Eylül 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 2139 ]]></varyantstok>
+<varyantstok><![CDATA[ 2134 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4712558769020 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 196.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/b4574346-eac0-4023-b5f3-23c2ed4ee25e.jpg ]]></varyantresim>
@@ -3172,7 +3172,7 @@
 <sku><![CDATA[ 5010994819682 ]]></sku>
 <name><![CDATA[ Firefly Hello Kitty Çocuk Diş Macunu 75 ml ]]></name>
 <quantity><![CDATA[ 15 ]]></quantity>
-<price><![CDATA[ 208.99 ]]></price>
+<price><![CDATA[ 208.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -3187,7 +3187,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 15 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 5010994819682 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 208.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 208.97 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/86aa04b6-10e3-4018-9a92-97d963fb696a.jpg ]]></varyantresim>
 </product>
 <product>
@@ -3348,7 +3348,7 @@
 <sku><![CDATA[ 8684382998081 ]]></sku>
 <name><![CDATA[ Fortune Fix Esnek Flaster 2.5 cm x 5 m ]]></name>
 <quantity><![CDATA[ 83 ]]></quantity>
-<price><![CDATA[ 27.95 ]]></price>
+<price><![CDATA[ 32.91 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0630 ]]></miat>
 <miattr><![CDATA[ Haziran 2030 ]]></miattr>
@@ -3363,7 +3363,7 @@
 <varyantdeger1><![CDATA[ Haziran 2030 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 83 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8684382998081 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 27.95 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 32.91 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/c4061b22-cd9c-49b2-a8f0-4297fc142ec5.jpg ]]></varyantresim>
 </product>
 <product>
@@ -3589,7 +3589,7 @@
 <product>
 <sku><![CDATA[ 9002969872217 ]]></sku>
 <name><![CDATA[ Hyper Immun 44 30 Kapsül ]]></name>
-<quantity><![CDATA[ 394 ]]></quantity>
+<quantity><![CDATA[ 392 ]]></quantity>
 <price><![CDATA[ 346.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
@@ -3603,7 +3603,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/e9cc5202-93c6-4830-9c01-6fdf924f6698.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 394 ]]></varyantstok>
+<varyantstok><![CDATA[ 392 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 9002969872217 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 346.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/e9cc5202-93c6-4830-9c01-6fdf924f6698.jpg ]]></varyantresim>
@@ -4008,7 +4008,7 @@
 <sku><![CDATA[ 8683229606585 ]]></sku>
 <name><![CDATA[ Jellia Kayganlaştırıcı Jel 2 in 1 100 ml ]]></name>
 <quantity><![CDATA[ 37 ]]></quantity>
-<price><![CDATA[ 142.93 ]]></price>
+<price><![CDATA[ 144.44 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0427 ]]></miat>
 <miattr><![CDATA[ Nisan 2027 ]]></miattr>
@@ -4023,14 +4023,14 @@
 <varyantdeger1><![CDATA[ Nisan 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 37 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683229606585 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 142.93 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 144.44 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/aac28207-a4fe-49bb-b08a-54c50fb01ee1.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8683229606592 ]]></sku>
 <name><![CDATA[ Jellia Kayganlaştırıcı Jel Çilek Aromalı 100 ml ]]></name>
 <quantity><![CDATA[ 16 ]]></quantity>
-<price><![CDATA[ 144.38 ]]></price>
+<price><![CDATA[ 144.44 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0427 ]]></miat>
 <miattr><![CDATA[ Nisan 2027 ]]></miattr>
@@ -4045,14 +4045,14 @@
 <varyantdeger1><![CDATA[ Nisan 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 16 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683229606592 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 144.38 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 144.44 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8dfb0fb0-df68-44f2-8004-7f6c58ab9784.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8683229606578 ]]></sku>
 <name><![CDATA[ Jellia Kayxganlaşhtpırıcı Jel Pure Naturel 100 ml ]]></name>
 <quantity><![CDATA[ 9 ]]></quantity>
-<price><![CDATA[ 118.94 ]]></price>
+<price><![CDATA[ 139.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0427 ]]></miat>
 <miattr><![CDATA[ Nisan 2027 ]]></miattr>
@@ -4067,7 +4067,7 @@
 <varyantdeger1><![CDATA[ Nisan 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 9 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683229606578 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 118.94 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 139.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/3e8b9b87-6eb8-451f-aa77-eeb25d3affb8.jpg ]]></varyantresim>
 </product>
 <product>
@@ -4139,7 +4139,7 @@
 <product>
 <sku><![CDATA[ 8684072913462 ]]></sku>
 <name><![CDATA[ Jenbol Defence Bal+Limon Pastil 12 Drops ]]></name>
-<quantity><![CDATA[ 20 ]]></quantity>
+<quantity><![CDATA[ 18 ]]></quantity>
 <price><![CDATA[ 31.98 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
@@ -4153,7 +4153,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/6ac41370-497e-4a80-8ecc-472aa93f7a57.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ocak 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 20 ]]></varyantstok>
+<varyantstok><![CDATA[ 18 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8684072913462 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 31.98 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/6ac41370-497e-4a80-8ecc-472aa93f7a57.jpg ]]></varyantresim>
@@ -4205,7 +4205,7 @@
 <product>
 <sku><![CDATA[ 8699241779923 ]]></sku>
 <name><![CDATA[ Jenbol Fizyolojik Serum 5 ml x 20 Flakon ]]></name>
-<quantity><![CDATA[ 11 ]]></quantity>
+<quantity><![CDATA[ 10 ]]></quantity>
 <price><![CDATA[ 111.18 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
@@ -4219,7 +4219,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/563f12ad-7bef-4d16-88dc-bd082426e964.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 11 ]]></varyantstok>
+<varyantstok><![CDATA[ 10 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699241779923 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 111.18 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/563f12ad-7bef-4d16-88dc-bd082426e964.jpg ]]></varyantresim>
@@ -4294,7 +4294,7 @@
 <sku><![CDATA[ 8684468262280 ]]></sku>
 <name><![CDATA[ Jenbol Tatlı Badem Yağı 30 ml ]]></name>
 <quantity><![CDATA[ 210 ]]></quantity>
-<price><![CDATA[ 24.97 ]]></price>
+<price><![CDATA[ 24.98 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
@@ -4309,7 +4309,7 @@
 <varyantdeger1><![CDATA[ Ekim 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 210 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8684468262280 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 24.97 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 24.98 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/730036a1-597e-4f43-aa7d-0b794a2e06c9.jpg ]]></varyantresim>
 </product>
 <product>
@@ -4425,8 +4425,8 @@
 <product>
 <sku><![CDATA[ 3337875932349 ]]></sku>
 <name><![CDATA[ La Roche Posay Anthelios UV Air Serum SPF50+ 50 ml ]]></name>
-<quantity><![CDATA[ 703 ]]></quantity>
-<price><![CDATA[ 610.45 ]]></price>
+<quantity><![CDATA[ 700 ]]></quantity>
+<price><![CDATA[ 610.44 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0529 ]]></miat>
 <miattr><![CDATA[ Mayıs 2029 ]]></miattr>
@@ -4439,32 +4439,10 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/8567c41e-207b-421a-95bb-3dd03c7891bc.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Mayıs 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 703 ]]></varyantstok>
+<varyantstok><![CDATA[ 700 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875932349 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 610.45 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 610.44 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8567c41e-207b-421a-95bb-3dd03c7891bc.jpg ]]></varyantresim>
-</product>
-<product>
-<sku><![CDATA[ 3337875932301 ]]></sku>
-<name><![CDATA[ La Roche Posay Anthelios UV Air Tinted Sun Serum SPF50+ 50 ml ]]></name>
-<quantity><![CDATA[ 50 ]]></quantity>
-<price><![CDATA[ 737.99 ]]></price>
-<kdv><![CDATA[ 1 ]]></kdv>
-<miat><![CDATA[ 0329 ]]></miat>
-<miattr><![CDATA[ Mart 2029 ]]></miattr>
-<kat1><![CDATA[ La Roche Posay ]]></kat1>
-<kat2/>
-<kat3/>
-<kat4/>
-<kat5/>
-<marka><![CDATA[ La Roche-Posay ]]></marka>
-<resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/b0292367-6bba-41f2-b978-6cde3ea38a34.jpg ]]></resim1>
-<varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
-<varyantdeger1><![CDATA[ Mart 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 50 ]]></varyantstok>
-<varyantbarkod><![CDATA[ 3337875932301 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 737.99 ]]></varyantfiyat>
-<varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/b0292367-6bba-41f2-b978-6cde3ea38a34.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 3337875863377 ]]></sku>
@@ -4535,7 +4513,7 @@
 <product>
 <sku><![CDATA[ 3337875909235 ]]></sku>
 <name><![CDATA[ La Roche Posay Pure Vitamin C 12 Serum 30 ml ]]></name>
-<quantity><![CDATA[ 138 ]]></quantity>
+<quantity><![CDATA[ 137 ]]></quantity>
 <price><![CDATA[ 2444.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
@@ -4549,7 +4527,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/89e33688-4327-4d79-ba0a-10517643aa3c.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Aralık 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 138 ]]></varyantstok>
+<varyantstok><![CDATA[ 137 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875909235 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 2444.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/89e33688-4327-4d79-ba0a-10517643aa3c.jpg ]]></varyantresim>
@@ -4689,7 +4667,7 @@
 <product>
 <sku><![CDATA[ 3574661564876 ]]></sku>
 <name><![CDATA[ Listerine Cool Mint 500 ml + 250 ml Hediye ]]></name>
-<quantity><![CDATA[ 328 ]]></quantity>
+<quantity><![CDATA[ 312 ]]></quantity>
 <price><![CDATA[ 214.89 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -4703,7 +4681,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/570605fd-fc65-4401-8628-6e989fe797b3.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 328 ]]></varyantstok>
+<varyantstok><![CDATA[ 312 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3574661564876 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 214.89 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/570605fd-fc65-4401-8628-6e989fe797b3.jpg ]]></varyantresim>
@@ -4909,7 +4887,7 @@
 <product>
 <sku><![CDATA[ 8004395111701 ]]></sku>
 <name><![CDATA[ Marvis Classic Strong Mint Diş Macunu 85 ml ]]></name>
-<quantity><![CDATA[ 14 ]]></quantity>
+<quantity><![CDATA[ 13 ]]></quantity>
 <price><![CDATA[ 490.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -4923,7 +4901,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/d64d607c-4b34-4ef2-b70d-c3460e2d631e.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 14 ]]></varyantstok>
+<varyantstok><![CDATA[ 13 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8004395111701 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 490.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/d64d607c-4b34-4ef2-b70d-c3460e2d631e.jpg ]]></varyantresim>
@@ -4931,7 +4909,7 @@
 <product>
 <sku><![CDATA[ 8004395111756 ]]></sku>
 <name><![CDATA[ Marvis Jasmin Mint Diş Macunu 85 ml ]]></name>
-<quantity><![CDATA[ 10 ]]></quantity>
+<quantity><![CDATA[ 9 ]]></quantity>
 <price><![CDATA[ 514.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -4945,7 +4923,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/729c7c1b-4c7d-4e21-8d5b-825e732a3c42.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 10 ]]></varyantstok>
+<varyantstok><![CDATA[ 9 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8004395111756 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 514.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/729c7c1b-4c7d-4e21-8d5b-825e732a3c42.jpg ]]></varyantresim>
@@ -5349,7 +5327,7 @@
 <product>
 <sku><![CDATA[ 2300000694727 ]]></sku>
 <name><![CDATA[ Multiplus Burun ve Sinüs Temizleme Kiti Yedeği 48'li ]]></name>
-<quantity><![CDATA[ 76 ]]></quantity>
+<quantity><![CDATA[ 75 ]]></quantity>
 <price><![CDATA[ 103.61 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
@@ -5363,7 +5341,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/5ecd85ef-b7a5-4ff8-8c82-1e638eb6d3d4.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Temmuz 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 76 ]]></varyantstok>
+<varyantstok><![CDATA[ 75 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 2300000694727 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 103.61 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/5ecd85ef-b7a5-4ff8-8c82-1e638eb6d3d4.jpg ]]></varyantresim>
@@ -5591,7 +5569,7 @@
 <product>
 <sku><![CDATA[ 8699540049123 ]]></sku>
 <name><![CDATA[ NBL Omega 3 Fish/Krill Oil 100 Kapsül ]]></name>
-<quantity><![CDATA[ 80 ]]></quantity>
+<quantity><![CDATA[ 79 ]]></quantity>
 <price><![CDATA[ 1858.02 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -5605,7 +5583,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/f526cb0d-4e4b-4771-abb8-11c65cce3ce1.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ağustos 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 80 ]]></varyantstok>
+<varyantstok><![CDATA[ 79 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699540049123 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1858.02 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f526cb0d-4e4b-4771-abb8-11c65cce3ce1.jpg ]]></varyantresim>
@@ -5745,7 +5723,7 @@
 <product>
 <sku><![CDATA[ 8697584860179-12 ]]></sku>
 <name><![CDATA[ Nina Kulak Delme Küpesi Beyaz Kristal 12'li ]]></name>
-<quantity><![CDATA[ 98 ]]></quantity>
+<quantity><![CDATA[ 97 ]]></quantity>
 <price><![CDATA[ 639.32 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -5759,7 +5737,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/15811f51-cba8-40a5-b259-0899b113c869.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 98 ]]></varyantstok>
+<varyantstok><![CDATA[ 97 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697584860179-12 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 639.32 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/15811f51-cba8-40a5-b259-0899b113c869.jpg ]]></varyantresim>
@@ -5767,7 +5745,7 @@
 <product>
 <sku><![CDATA[ 8697584860261-12 ]]></sku>
 <name><![CDATA[ Nina Kulak Delme Küpesi Gümüş Karışık Renk 12'li ]]></name>
-<quantity><![CDATA[ 59 ]]></quantity>
+<quantity><![CDATA[ 58 ]]></quantity>
 <price><![CDATA[ 639.32 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -5781,7 +5759,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/9bbe505f-2780-4fb2-a72c-c9c8e8c417c1.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 59 ]]></varyantstok>
+<varyantstok><![CDATA[ 58 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697584860261-12 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 639.32 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/9bbe505f-2780-4fb2-a72c-c9c8e8c417c1.jpg ]]></varyantresim>
@@ -5789,7 +5767,7 @@
 <product>
 <sku><![CDATA[ 863450921 ]]></sku>
 <name><![CDATA[ Nina Kulak Delme Küpesi Sarı Renk Karışık 12'li ]]></name>
-<quantity><![CDATA[ 88 ]]></quantity>
+<quantity><![CDATA[ 85 ]]></quantity>
 <price><![CDATA[ 674.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -5803,7 +5781,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/0331e8d0-863f-4a99-9875-9a33671de9f8.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 88 ]]></varyantstok>
+<varyantstok><![CDATA[ 85 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 863450921 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 674.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0331e8d0-863f-4a99-9875-9a33671de9f8.jpg ]]></varyantresim>
@@ -6163,7 +6141,7 @@
 <product>
 <sku><![CDATA[ 8680512660804 ]]></sku>
 <name><![CDATA[ Nutraxin Curcumin Plus 30 Yumuşak Kapsül ]]></name>
-<quantity><![CDATA[ 21 ]]></quantity>
+<quantity><![CDATA[ 20 ]]></quantity>
 <price><![CDATA[ 414.39 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
@@ -6177,7 +6155,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/0fe0049f-249f-4059-ae3f-1450adec0a4e.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 21 ]]></varyantstok>
+<varyantstok><![CDATA[ 20 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680512660804 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 414.39 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0fe0049f-249f-4059-ae3f-1450adec0a4e.jpg ]]></varyantresim>
@@ -6230,7 +6208,7 @@
 <sku><![CDATA[ 8680512625650 ]]></sku>
 <name><![CDATA[ Nutraxin Quick-Slim CLA Tonalin 60 Kapsül ]]></name>
 <quantity><![CDATA[ 15 ]]></quantity>
-<price><![CDATA[ 428.94 ]]></price>
+<price><![CDATA[ 449.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
@@ -6245,7 +6223,7 @@
 <varyantdeger1><![CDATA[ Eylül 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 15 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680512625650 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 428.94 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 449.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0d6ed358-d922-44ab-a5ef-23760cb68eea.jpg ]]></varyantresim>
 </product>
 <product>
@@ -6340,7 +6318,7 @@
 <sku><![CDATA[ 8697595871201 ]]></sku>
 <name><![CDATA[ Ocean MK-7 100 mcg Vitamin K2 30 Kapsül ]]></name>
 <quantity><![CDATA[ 62 ]]></quantity>
-<price><![CDATA[ 348.71 ]]></price>
+<price><![CDATA[ 348.7 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
@@ -6355,14 +6333,14 @@
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 62 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697595871201 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 348.71 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 348.7 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/799fbe78-c147-4b74-b772-ba5e85e59796.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 850071952636 ]]></sku>
 <name><![CDATA[ Ocean Neurobexol 60 Kapsül ]]></name>
 <quantity><![CDATA[ 8 ]]></quantity>
-<price><![CDATA[ 1037.9 ]]></price>
+<price><![CDATA[ 1037.89 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
@@ -6377,7 +6355,7 @@
 <varyantdeger1><![CDATA[ Haziran 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 8 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 850071952636 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1037.9 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1037.89 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/c46d39f2-313b-4c24-a7ee-bbe78a5f967f.jpg ]]></varyantresim>
 </product>
 <product>
@@ -6405,8 +6383,8 @@
 <product>
 <sku><![CDATA[ 8697595870754 ]]></sku>
 <name><![CDATA[ Ocean Tutti Frutti Karışık Meyve Aromalı Balık Yağı Şurup 150 ml ]]></name>
-<quantity><![CDATA[ 82 ]]></quantity>
-<price><![CDATA[ 306.99 ]]></price>
+<quantity><![CDATA[ 76 ]]></quantity>
+<price><![CDATA[ 306.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0628 ]]></miat>
 <miattr><![CDATA[ Haziran 2028 ]]></miattr>
@@ -6419,9 +6397,9 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/cb598ce0-1799-4deb-a1eb-dbfd690da690.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Haziran 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 82 ]]></varyantstok>
+<varyantstok><![CDATA[ 76 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697595870754 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 306.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 306.97 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/cb598ce0-1799-4deb-a1eb-dbfd690da690.jpg ]]></varyantresim>
 </product>
 <product>
@@ -6471,7 +6449,7 @@
 <product>
 <sku><![CDATA[ 8681738150018 ]]></sku>
 <name><![CDATA[ Ocuvite Max 60 Kapsül ]]></name>
-<quantity><![CDATA[ 71 ]]></quantity>
+<quantity><![CDATA[ 64 ]]></quantity>
 <price><![CDATA[ 1084.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
@@ -6485,7 +6463,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/9f1010ee-1f3b-455c-a542-232f583bfe8f.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Mart 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 71 ]]></varyantstok>
+<varyantstok><![CDATA[ 64 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8681738150018 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1084.97 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/9f1010ee-1f3b-455c-a542-232f583bfe8f.jpg ]]></varyantresim>
@@ -6493,7 +6471,7 @@
 <product>
 <sku><![CDATA[ 8684623000535 ]]></sku>
 <name><![CDATA[ Off Sinekkovar Pro Care Vücut Sprey 100 ml ]]></name>
-<quantity><![CDATA[ 22 ]]></quantity>
+<quantity><![CDATA[ 19 ]]></quantity>
 <price><![CDATA[ 189.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -6507,7 +6485,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/97a9f845-ad66-4f87-9b7d-7ced9d474d57.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 22 ]]></varyantstok>
+<varyantstok><![CDATA[ 19 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8684623000535 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 189.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/97a9f845-ad66-4f87-9b7d-7ced9d474d57.jpg ]]></varyantresim>
@@ -6735,7 +6713,7 @@
 <product>
 <sku><![CDATA[ 883205101617 ]]></sku>
 <name><![CDATA[ Opalescence Diş Macunu Beyazlatıcı 133 gr ]]></name>
-<quantity><![CDATA[ 446 ]]></quantity>
+<quantity><![CDATA[ 445 ]]></quantity>
 <price><![CDATA[ 574.01 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0729 ]]></miat>
@@ -6749,7 +6727,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/94e6f3c4-fc55-41ae-9224-0debd47fd1e4.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Temmuz 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 446 ]]></varyantstok>
+<varyantstok><![CDATA[ 445 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 883205101617 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 574.01 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/94e6f3c4-fc55-41ae-9224-0debd47fd1e4.jpg ]]></varyantresim>
@@ -6845,7 +6823,7 @@
 <product>
 <sku><![CDATA[ 8700216749541 ]]></sku>
 <name><![CDATA[ Oral-B Kids Diş Fırçası 0-6 Yaş ]]></name>
-<quantity><![CDATA[ 141 ]]></quantity>
+<quantity><![CDATA[ 140 ]]></quantity>
 <price><![CDATA[ 119.01 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -6859,7 +6837,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/e5f4af3d-03b6-4625-a70c-b2d180039be5.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 141 ]]></varyantstok>
+<varyantstok><![CDATA[ 140 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8700216749541 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 119.01 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/e5f4af3d-03b6-4625-a70c-b2d180039be5.jpg ]]></varyantresim>
@@ -6867,7 +6845,7 @@
 <product>
 <sku><![CDATA[ 3014260306779 ]]></sku>
 <name><![CDATA[ Oral-B Kids Diş Fırçası 3-5 Yaş Yumuşak ]]></name>
-<quantity><![CDATA[ 39 ]]></quantity>
+<quantity><![CDATA[ 37 ]]></quantity>
 <price><![CDATA[ 117.49 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -6881,7 +6859,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/0d272507-5377-4e5a-a95d-e8c2a62c7e37.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 39 ]]></varyantstok>
+<varyantstok><![CDATA[ 37 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3014260306779 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 117.49 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0d272507-5377-4e5a-a95d-e8c2a62c7e37.jpg ]]></varyantresim>
@@ -7197,8 +7175,8 @@
 <product>
 <sku><![CDATA[ 3595899728083 ]]></sku>
 <name><![CDATA[ Paranit Bit Spreyi 100 ml ]]></name>
-<quantity><![CDATA[ 39 ]]></quantity>
-<price><![CDATA[ 381.92 ]]></price>
+<quantity><![CDATA[ 38 ]]></quantity>
+<price><![CDATA[ 381.91 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
 <miattr><![CDATA[ Ekim 2027 ]]></miattr>
@@ -7211,9 +7189,9 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/90946c10-6971-49fa-8184-48c197a6403a.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 39 ]]></varyantstok>
+<varyantstok><![CDATA[ 38 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3595899728083 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 381.92 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 381.91 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/90946c10-6971-49fa-8184-48c197a6403a.jpg ]]></varyantresim>
 </product>
 <product>
@@ -7307,7 +7285,7 @@
 <product>
 <sku><![CDATA[ 8683060010206 ]]></sku>
 <name><![CDATA[ Pharmaton Vitality 60 Kapsül ]]></name>
-<quantity><![CDATA[ 271 ]]></quantity>
+<quantity><![CDATA[ 266 ]]></quantity>
 <price><![CDATA[ 968.25 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
@@ -7321,7 +7299,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 271 ]]></varyantstok>
+<varyantstok><![CDATA[ 266 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683060010206 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 968.25 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></varyantresim>
@@ -7396,7 +7374,7 @@
 <sku><![CDATA[ 8699037121059 ]]></sku>
 <name><![CDATA[ Prodoctor Erken Gebelik Testi ]]></name>
 <quantity><![CDATA[ 1097 ]]></quantity>
-<price><![CDATA[ 34.24 ]]></price>
+<price><![CDATA[ 42.01 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
@@ -7411,7 +7389,7 @@
 <varyantdeger1><![CDATA[ Mart 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 1097 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699037121059 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 34.24 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 42.01 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/29256d21-db50-4111-831f-b96798369f6e.jpg ]]></varyantresim>
 </product>
 <product>
@@ -7571,8 +7549,8 @@
 <product>
 <sku><![CDATA[ 7391899856957 ]]></sku>
 <name><![CDATA[ Renu Advanced Çok Amaçlı Lens Solüsyonu 100 ml ]]></name>
-<quantity><![CDATA[ 54 ]]></quantity>
-<price><![CDATA[ 234.37 ]]></price>
+<quantity><![CDATA[ 53 ]]></quantity>
+<price><![CDATA[ 234.36 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
@@ -7585,9 +7563,9 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/95a2c5c2-8576-4312-88f6-ec4d366fb349.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Mayıs 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 54 ]]></varyantstok>
+<varyantstok><![CDATA[ 53 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 7391899856957 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 234.37 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 234.36 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/95a2c5c2-8576-4312-88f6-ec4d366fb349.jpg ]]></varyantresim>
 </product>
 <product>
@@ -7681,7 +7659,7 @@
 <product>
 <sku><![CDATA[ 4607034477943 ]]></sku>
 <name><![CDATA[ Rocs Baby Ihlamur Özlü Yutulabilir Diş Macunu 0-3 Yaş 35 ml ]]></name>
-<quantity><![CDATA[ 574 ]]></quantity>
+<quantity><![CDATA[ 573 ]]></quantity>
 <price><![CDATA[ 195.93 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
@@ -7695,7 +7673,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/3611fe38-cc4d-4333-b46b-bf643f773e04.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 574 ]]></varyantstok>
+<varyantstok><![CDATA[ 573 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4607034477943 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 195.93 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/3611fe38-cc4d-4333-b46b-bf643f773e04.jpg ]]></varyantresim>
@@ -7748,7 +7726,7 @@
 <sku><![CDATA[ 4607152730890 ]]></sku>
 <name><![CDATA[ Rocs Diş Fırçası Clean Medium xLarge ]]></name>
 <quantity><![CDATA[ 59 ]]></quantity>
-<price><![CDATA[ 217.98 ]]></price>
+<price><![CDATA[ 217.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -7763,13 +7741,13 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 59 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4607152730890 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 217.98 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 217.97 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/1d6386a0-bcad-40f2-9198-6174daddebc5.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 4607034477974 ]]></sku>
 <name><![CDATA[ Rocs Junior 6-12 Orman Meyveli Özlü Diş Macunu 74 gr ]]></name>
-<quantity><![CDATA[ 331 ]]></quantity>
+<quantity><![CDATA[ 329 ]]></quantity>
 <price><![CDATA[ 199.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -7783,7 +7761,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/de4e4a79-f6cc-4954-8ea3-bc1056b269c9.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 331 ]]></varyantstok>
+<varyantstok><![CDATA[ 329 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4607034477974 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 199.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/de4e4a79-f6cc-4954-8ea3-bc1056b269c9.jpg ]]></varyantresim>
@@ -7835,7 +7813,7 @@
 <product>
 <sku><![CDATA[ 4607034478506 ]]></sku>
 <name><![CDATA[ Rocs Kids 4-7 Yaş Ahududu-Çilek Diş Macunu 35 ml ]]></name>
-<quantity><![CDATA[ 188 ]]></quantity>
+<quantity><![CDATA[ 184 ]]></quantity>
 <price><![CDATA[ 200.34 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
@@ -7849,7 +7827,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/82cd3323-53a3-4917-9692-f2b72f311bed.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 188 ]]></varyantstok>
+<varyantstok><![CDATA[ 184 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4607034478506 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 200.34 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/82cd3323-53a3-4917-9692-f2b72f311bed.jpg ]]></varyantresim>
@@ -7880,7 +7858,7 @@
 <sku><![CDATA[ 4607034478476 ]]></sku>
 <name><![CDATA[ Rocs Kids Diş Macunu Ahududu Smoothie Tadında Florürsüz 3-7 Yaş 45 gr ]]></name>
 <quantity><![CDATA[ 210 ]]></quantity>
-<price><![CDATA[ 203.24 ]]></price>
+<price><![CDATA[ 203.23 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
@@ -7895,7 +7873,7 @@
 <varyantdeger1><![CDATA[ Aralık 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 210 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4607034478476 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 203.24 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 203.23 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/6b630fa6-7773-4e84-8a83-ac8b8b306dac.jpg ]]></varyantresim>
 </product>
 <product>
@@ -7946,7 +7924,7 @@
 <sku><![CDATA[ 4607152730524m ]]></sku>
 <name><![CDATA[ Rocs Pro 5940 Ultra Soft Diş Fırçası - Mor ]]></name>
 <quantity><![CDATA[ 205 ]]></quantity>
-<price><![CDATA[ 240.92 ]]></price>
+<price><![CDATA[ 240.93 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -7961,7 +7939,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 205 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4607152730524m ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 240.92 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 240.93 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/e17b5b24-3361-4737-bb05-bd689271e438.jpg ]]></varyantresim>
 </product>
 <product>
@@ -8034,7 +8012,7 @@
 <sku><![CDATA[ 4607034471910 ]]></sku>
 <name><![CDATA[ Rocs School Yaban Cileği Aromalı Diş Macunu 60 ml ]]></name>
 <quantity><![CDATA[ 33 ]]></quantity>
-<price><![CDATA[ 231.58 ]]></price>
+<price><![CDATA[ 231.57 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
@@ -8049,13 +8027,13 @@
 <varyantdeger1><![CDATA[ Ocak 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 33 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4607034471910 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 231.58 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 231.57 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/bad283ff-d832-4e5b-b514-6902ebca5cec.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 4607034478452 ]]></sku>
 <name><![CDATA[ Rocs Sensation Whitening Beyazlatıcı Parlatıcı Diş Macunu 60 ml ]]></name>
-<quantity><![CDATA[ 305 ]]></quantity>
+<quantity><![CDATA[ 303 ]]></quantity>
 <price><![CDATA[ 234.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
@@ -8069,7 +8047,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/ea1eb90c-a80c-4853-a2e8-cf15efe9af17.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ocak 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 305 ]]></varyantstok>
+<varyantstok><![CDATA[ 303 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4607034478452 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 234.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/ea1eb90c-a80c-4853-a2e8-cf15efe9af17.jpg ]]></varyantresim>
@@ -8188,7 +8166,7 @@
 <sku><![CDATA[ 8699592806798 ]]></sku>
 <name><![CDATA[ Roll Flex Steril Hidrofil Gazlı Bez 30x80 cm ]]></name>
 <quantity><![CDATA[ 1014 ]]></quantity>
-<price><![CDATA[ 17.57 ]]></price>
+<price><![CDATA[ 17.35 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
@@ -8203,13 +8181,13 @@
 <varyantdeger1><![CDATA[ Nisan 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 1014 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699592806798 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 17.57 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 17.35 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8ee0a83a-94e1-437a-87ea-1ff83ffd9e46.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8699592804541 ]]></sku>
 <name><![CDATA[ Roll Optik Göz Bandı Erkek 20'li ]]></name>
-<quantity><![CDATA[ 468 ]]></quantity>
+<quantity><![CDATA[ 467 ]]></quantity>
 <price><![CDATA[ 174.49 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0528 ]]></miat>
@@ -8223,7 +8201,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/6959393c-cbbb-4884-9114-06f3863eb3ae.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Mayıs 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 468 ]]></varyantstok>
+<varyantstok><![CDATA[ 467 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699592804541 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 174.49 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/6959393c-cbbb-4884-9114-06f3863eb3ae.jpg ]]></varyantresim>
@@ -8275,8 +8253,8 @@
 <product>
 <sku><![CDATA[ 4103040036360 ]]></sku>
 <name><![CDATA[ Sebamed Sun Care Çok Yönlü SPF50 Güneş Kremi 50 ml ]]></name>
-<quantity><![CDATA[ 135 ]]></quantity>
-<price><![CDATA[ 255.98 ]]></price>
+<quantity><![CDATA[ 132 ]]></quantity>
+<price><![CDATA[ 255.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -8289,16 +8267,16 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/9be64008-762c-4c4c-be88-b46af9515a79.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 135 ]]></varyantstok>
+<varyantstok><![CDATA[ 132 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4103040036360 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 255.98 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 255.97 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/9be64008-762c-4c4c-be88-b46af9515a79.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8681291002212 ]]></sku>
 <name><![CDATA[ Sensodyne Diş Macunu Naneli 100 ml ]]></name>
 <quantity><![CDATA[ 13 ]]></quantity>
-<price><![CDATA[ 160.99 ]]></price>
+<price><![CDATA[ 159.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
@@ -8313,7 +8291,7 @@
 <varyantdeger1><![CDATA[ Haziran 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 13 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8681291002212 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 160.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 159.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/ab85bb69-30ce-4a74-81af-0e0c1ecf44b9.jpg ]]></varyantresim>
 </product>
 <product>
@@ -8386,7 +8364,7 @@
 <sku><![CDATA[ 7613287407788 ]]></sku>
 <name><![CDATA[ SMA Comfort 3 Devam Sütü 400 gr ]]></name>
 <quantity><![CDATA[ 49 ]]></quantity>
-<price><![CDATA[ 622.56 ]]></price>
+<price><![CDATA[ 622.5 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0627 ]]></miat>
 <miattr><![CDATA[ Haziran 2027 ]]></miattr>
@@ -8401,14 +8379,14 @@
 <varyantdeger1><![CDATA[ Haziran 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 49 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 7613287407788 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 622.56 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 622.5 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/fce90066-a6b5-4147-a1c1-16e4b5f65b98.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8445290935120 ]]></sku>
 <name><![CDATA[ SMA Optipro Probiyotik 2 400 gr ]]></name>
 <quantity><![CDATA[ 107 ]]></quantity>
-<price><![CDATA[ 437.83 ]]></price>
+<price><![CDATA[ 437.89 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0527 ]]></miat>
 <miattr><![CDATA[ Mayıs 2027 ]]></miattr>
@@ -8423,7 +8401,7 @@
 <varyantdeger1><![CDATA[ Mayıs 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 107 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8445290935120 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 437.83 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 437.89 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/4d656c23-2a23-4fd4-a7d6-2c568f963d78.jpg ]]></varyantresim>
 </product>
 <product>
@@ -8495,7 +8473,7 @@
 <product>
 <sku><![CDATA[ 8697962616091 ]]></sku>
 <name><![CDATA[ Softec Ultra Erken Gebelik Testi ]]></name>
-<quantity><![CDATA[ 182 ]]></quantity>
+<quantity><![CDATA[ 157 ]]></quantity>
 <price><![CDATA[ 12.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -8509,7 +8487,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/376efd28-8233-49d2-afaa-550592a7d3a2.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ağustos 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 182 ]]></varyantstok>
+<varyantstok><![CDATA[ 157 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697962616091 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 12.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/376efd28-8233-49d2-afaa-550592a7d3a2.jpg ]]></varyantresim>
@@ -8517,7 +8495,7 @@
 <product>
 <sku><![CDATA[ 8699278060124 ]]></sku>
 <name><![CDATA[ Solante Acnes Güneş Koruyucu Losyon SPF50 150 ml ]]></name>
-<quantity><![CDATA[ 197 ]]></quantity>
+<quantity><![CDATA[ 195 ]]></quantity>
 <price><![CDATA[ 1291.29 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0231 ]]></miat>
@@ -8531,7 +8509,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2031 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 197 ]]></varyantstok>
+<varyantstok><![CDATA[ 195 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699278060124 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1291.29 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></varyantresim>
@@ -8539,7 +8517,7 @@
 <product>
 <sku><![CDATA[ 8699278480137 ]]></sku>
 <name><![CDATA[ Solante Acnes Sun Care Losyon SPF50 150 ml ]]></name>
-<quantity><![CDATA[ 197 ]]></quantity>
+<quantity><![CDATA[ 195 ]]></quantity>
 <price><![CDATA[ 1059.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0231 ]]></miat>
@@ -8553,7 +8531,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/22c1ae3d-481a-48b6-90d8-a8422861e1e4.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2031 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 197 ]]></varyantstok>
+<varyantstok><![CDATA[ 195 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699278480137 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1059.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/22c1ae3d-481a-48b6-90d8-a8422861e1e4.jpg ]]></varyantresim>
@@ -8562,7 +8540,7 @@
 <sku><![CDATA[ 8699278480083 ]]></sku>
 <name><![CDATA[ Solante Pigmenta Tinted Sun Care Lotion SPF50+ 150 ml ]]></name>
 <quantity><![CDATA[ 10 ]]></quantity>
-<price><![CDATA[ 1084.71 ]]></price>
+<price><![CDATA[ 1084.7 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0231 ]]></miat>
 <miattr><![CDATA[ Şubat 2031 ]]></miattr>
@@ -8577,7 +8555,7 @@
 <varyantdeger1><![CDATA[ Şubat 2031 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 10 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699278480083 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1084.71 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1084.7 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0f9df61c-3bf7-48de-9675-ebaede5d8146.jpg ]]></varyantresim>
 </product>
 <product>
@@ -8913,7 +8891,7 @@
 <product>
 <sku><![CDATA[ 033984013193 ]]></sku>
 <name><![CDATA[ Solgar Glucosamine Chondroitin MSM 120 Tablet ]]></name>
-<quantity><![CDATA[ 24 ]]></quantity>
+<quantity><![CDATA[ 23 ]]></quantity>
 <price><![CDATA[ 3138.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -8927,7 +8905,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/f98c3eff-e72f-43e4-895f-55dfa4040f24.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ağustos 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 24 ]]></varyantstok>
+<varyantstok><![CDATA[ 23 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 033984013193 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 3138.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f98c3eff-e72f-43e4-895f-55dfa4040f24.jpg ]]></varyantresim>
@@ -8936,7 +8914,7 @@
 <sku><![CDATA[ 033984013186 ]]></sku>
 <name><![CDATA[ Solgar Glucosamine Chondroitin MSM 60 Tablet ]]></name>
 <quantity><![CDATA[ 24 ]]></quantity>
-<price><![CDATA[ 1948.73 ]]></price>
+<price><![CDATA[ 1948.61 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
 <miattr><![CDATA[ Temmuz 2028 ]]></miattr>
@@ -8951,7 +8929,7 @@
 <varyantdeger1><![CDATA[ Temmuz 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 24 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 033984013186 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1948.73 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1948.61 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/1c55d6a1-aa91-4d62-a926-f24ff4026b66.jpg ]]></varyantresim>
 </product>
 <product>
@@ -9001,7 +8979,7 @@
 <product>
 <sku><![CDATA[ 033984012547 ]]></sku>
 <name><![CDATA[ Solgar L-Glutamine 1000 mg 60 Tablet ]]></name>
-<quantity><![CDATA[ 9 ]]></quantity>
+<quantity><![CDATA[ 8 ]]></quantity>
 <price><![CDATA[ 633.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
@@ -9015,7 +8993,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/0bca8b9e-20fa-4e34-aaf7-a96037a9429c.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Temmuz 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 9 ]]></varyantstok>
+<varyantstok><![CDATA[ 8 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 033984012547 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 633.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0bca8b9e-20fa-4e34-aaf7-a96037a9429c.jpg ]]></varyantresim>
@@ -9045,7 +9023,7 @@
 <product>
 <sku><![CDATA[ 33984019508 ]]></sku>
 <name><![CDATA[ Solgar Methylcobalamin 1000 Mcg 30 Tablet ]]></name>
-<quantity><![CDATA[ 24 ]]></quantity>
+<quantity><![CDATA[ 21 ]]></quantity>
 <price><![CDATA[ 350.87 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -9059,7 +9037,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/558dd2ab-ccb1-47ba-930c-cfa83570ec99.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ağustos 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 24 ]]></varyantstok>
+<varyantstok><![CDATA[ 21 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 33984019508 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 350.87 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/558dd2ab-ccb1-47ba-930c-cfa83570ec99.jpg ]]></varyantresim>
@@ -9155,7 +9133,7 @@
 <product>
 <sku><![CDATA[ 33984040236 ]]></sku>
 <name><![CDATA[ Solgar Saw Palmetto Berries 100 Kapsül ]]></name>
-<quantity><![CDATA[ 18 ]]></quantity>
+<quantity><![CDATA[ 17 ]]></quantity>
 <price><![CDATA[ 1141.53 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
@@ -9169,7 +9147,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/31ba40e7-56da-4ae1-9a39-cddbef93e6c1.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 18 ]]></varyantstok>
+<varyantstok><![CDATA[ 17 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 33984040236 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1141.53 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/31ba40e7-56da-4ae1-9a39-cddbef93e6c1.jpg ]]></varyantresim>
@@ -9178,7 +9156,7 @@
 <sku><![CDATA[ 033984011212 ]]></sku>
 <name><![CDATA[ Solgar Vitamin B Complex 50 Mg 100 Kapsül ]]></name>
 <quantity><![CDATA[ 68 ]]></quantity>
-<price><![CDATA[ 645.21 ]]></price>
+<price><![CDATA[ 645.2 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
@@ -9193,7 +9171,7 @@
 <varyantdeger1><![CDATA[ Eylül 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 68 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 033984011212 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 645.21 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 645.2 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/bcf06584-d0c6-46bd-a47b-168d65633197.jpg ]]></varyantresim>
 </product>
 <product>
@@ -9375,7 +9353,7 @@
 <product>
 <sku><![CDATA[ 4603014029355 ]]></sku>
 <name><![CDATA[ Splat Biocalcium Diş Macunu 25 gr + Diş Fırçası Seyahat Seti ]]></name>
-<quantity><![CDATA[ 11 ]]></quantity>
+<quantity><![CDATA[ 10 ]]></quantity>
 <price><![CDATA[ 194.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -9389,7 +9367,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/56dbe1ba-01c1-4405-bcd3-7af57edde65f.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ağustos 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 11 ]]></varyantstok>
+<varyantstok><![CDATA[ 10 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4603014029355 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 194.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/56dbe1ba-01c1-4405-bcd3-7af57edde65f.jpg ]]></varyantresim>
@@ -9419,8 +9397,8 @@
 <product>
 <sku><![CDATA[ 4603014001856 ]]></sku>
 <name><![CDATA[ Splat Diş Macunu Blackwood 4 Ton Beyaz 75 ml ]]></name>
-<quantity><![CDATA[ 83 ]]></quantity>
-<price><![CDATA[ 149.97 ]]></price>
+<quantity><![CDATA[ 81 ]]></quantity>
+<price><![CDATA[ 149.98 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
@@ -9433,9 +9411,9 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/5ba63302-4f7f-45af-9632-e4574ea2ab35.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 83 ]]></varyantstok>
+<varyantstok><![CDATA[ 81 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4603014001856 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 149.97 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 149.98 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/5ba63302-4f7f-45af-9632-e4574ea2ab35.jpg ]]></varyantresim>
 </product>
 <product>
@@ -9728,7 +9706,7 @@
 <sku><![CDATA[ 8683242267183 ]]></sku>
 <name><![CDATA[ Stanlife Elastik Bandaj 12 cm x 120 cm ]]></name>
 <quantity><![CDATA[ 135 ]]></quantity>
-<price><![CDATA[ 54.99 ]]></price>
+<price><![CDATA[ 67.27 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0331 ]]></miat>
 <miattr><![CDATA[ Mart 2031 ]]></miattr>
@@ -9743,7 +9721,7 @@
 <varyantdeger1><![CDATA[ Mart 2031 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 135 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683242267183 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 54.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 67.27 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></varyantresim>
 </product>
 <product>
@@ -10322,7 +10300,7 @@
 <sku><![CDATA[ 8682887946811 ]]></sku>
 <name><![CDATA[ Stanlife Tıbbi Nonwoven Kağıt Flaster 2.5 cm X 5 m ]]></name>
 <quantity><![CDATA[ 26 ]]></quantity>
-<price><![CDATA[ 48.99 ]]></price>
+<price><![CDATA[ 50.95 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
@@ -10337,14 +10315,14 @@
 <varyantdeger1><![CDATA[ Aralık 2030 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 26 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682887946811 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 48.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 50.95 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8682887946828 ]]></sku>
 <name><![CDATA[ Stanlife Tıbbi Nonwoven Kağıt Flaster 5 cm X 5 m ]]></name>
 <quantity><![CDATA[ 76 ]]></quantity>
-<price><![CDATA[ 66.99 ]]></price>
+<price><![CDATA[ 67.93 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1230 ]]></miat>
 <miattr><![CDATA[ Aralık 2030 ]]></miattr>
@@ -10359,7 +10337,7 @@
 <varyantdeger1><![CDATA[ Aralık 2030 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 76 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682887946828 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 66.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 67.93 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></varyantresim>
 </product>
 <product>
@@ -10431,7 +10409,7 @@
 <product>
 <sku><![CDATA[ 8699638355662 ]]></sku>
 <name><![CDATA[ Sudocrem Bebek Bakım Kremi 125 gr ]]></name>
-<quantity><![CDATA[ 757 ]]></quantity>
+<quantity><![CDATA[ 734 ]]></quantity>
 <price><![CDATA[ 397.13 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0231 ]]></miat>
@@ -10445,7 +10423,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/7cf7145e-0e0f-4cd6-9d68-89d19324a7cc.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2031 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 757 ]]></varyantstok>
+<varyantstok><![CDATA[ 734 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699638355662 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 397.13 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/7cf7145e-0e0f-4cd6-9d68-89d19324a7cc.jpg ]]></varyantresim>
@@ -10541,7 +10519,7 @@
 <product>
 <sku><![CDATA[ 8699546090419 ]]></sku>
 <name><![CDATA[ Supradyn Energy Focus 30 Tablet ]]></name>
-<quantity><![CDATA[ 241 ]]></quantity>
+<quantity><![CDATA[ 224 ]]></quantity>
 <price><![CDATA[ 377.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
@@ -10555,7 +10533,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 241 ]]></varyantstok>
+<varyantstok><![CDATA[ 224 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699546090419 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 377.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></varyantresim>
@@ -10563,7 +10541,7 @@
 <product>
 <sku><![CDATA[ 8681291003295 ]]></sku>
 <name><![CDATA[ Theranatur Bitkisel Şurup 128 gr ]]></name>
-<quantity><![CDATA[ 168 ]]></quantity>
+<quantity><![CDATA[ 162 ]]></quantity>
 <price><![CDATA[ 231.94 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
@@ -10577,7 +10555,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/ac65495d-85d2-44a4-8af6-86e48714ec9e.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Aralık 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 168 ]]></varyantstok>
+<varyantstok><![CDATA[ 162 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8681291003295 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 231.94 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/ac65495d-85d2-44a4-8af6-86e48714ec9e.jpg ]]></varyantresim>
@@ -10828,7 +10806,7 @@
 <sku><![CDATA[ 8683229900614 ]]></sku>
 <name><![CDATA[ Venatura Biotin 5000 mcg 30 Tablet ]]></name>
 <quantity><![CDATA[ 247 ]]></quantity>
-<price><![CDATA[ 169.26 ]]></price>
+<price><![CDATA[ 169.24 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
@@ -10843,13 +10821,13 @@
 <varyantdeger1><![CDATA[ Eylül 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 247 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683229900614 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 169.26 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 169.24 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/products/b6a6395c-8b07-4cb2-84d9-943095b03085.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8683229901031 ]]></sku>
 <name><![CDATA[ Venatura Biotin 5000 mcg 90 Tablet ]]></name>
-<quantity><![CDATA[ 30 ]]></quantity>
+<quantity><![CDATA[ 29 ]]></quantity>
 <price><![CDATA[ 322.98 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
@@ -10863,7 +10841,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/bf2e556a-661a-49b1-ae0d-8a6a9299ac94.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Kasım 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 30 ]]></varyantstok>
+<varyantstok><![CDATA[ 29 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683229901031 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 322.98 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/bf2e556a-661a-49b1-ae0d-8a6a9299ac94.jpg ]]></varyantresim>
@@ -10893,7 +10871,7 @@
 <product>
 <sku><![CDATA[ 8683229900720 ]]></sku>
 <name><![CDATA[ Venatura Cranberry & D-Mannoz 30 Kapsül ]]></name>
-<quantity><![CDATA[ 45 ]]></quantity>
+<quantity><![CDATA[ 43 ]]></quantity>
 <price><![CDATA[ 337.04 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
@@ -10907,7 +10885,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/360b9836-3886-4dc5-b7b2-ba2039aa0995.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 45 ]]></varyantstok>
+<varyantstok><![CDATA[ 43 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683229900720 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 337.04 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/360b9836-3886-4dc5-b7b2-ba2039aa0995.jpg ]]></varyantresim>
@@ -10960,7 +10938,7 @@
 <sku><![CDATA[ 8683229900515 ]]></sku>
 <name><![CDATA[ Venatura Demir 90 Kapsül ]]></name>
 <quantity><![CDATA[ 70 ]]></quantity>
-<price><![CDATA[ 311.1 ]]></price>
+<price><![CDATA[ 311.04 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
@@ -10975,7 +10953,7 @@
 <varyantdeger1><![CDATA[ Ocak 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 70 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683229900515 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 311.1 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 311.04 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/234b62b3-069d-47a8-ba9c-b1013c54d592.jpg ]]></varyantresim>
 </product>
 <product>
@@ -11025,7 +11003,7 @@
 <product>
 <sku><![CDATA[ 8683229900690 ]]></sku>
 <name><![CDATA[ Venatura Fosfotidilserin ve Omega-3 30 Yumuşak Kapsül ]]></name>
-<quantity><![CDATA[ 119 ]]></quantity>
+<quantity><![CDATA[ 118 ]]></quantity>
 <price><![CDATA[ 544.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -11039,7 +11017,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/78cc779a-57b1-4e8b-9216-978231c5c65c.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 119 ]]></varyantstok>
+<varyantstok><![CDATA[ 118 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683229900690 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 544.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/78cc779a-57b1-4e8b-9216-978231c5c65c.jpg ]]></varyantresim>
@@ -11201,7 +11179,7 @@
 <product>
 <sku><![CDATA[ 8683229901604 ]]></sku>
 <name><![CDATA[ Venatura Kreatin Monohidrat 150 gr ]]></name>
-<quantity><![CDATA[ 83 ]]></quantity>
+<quantity><![CDATA[ 79 ]]></quantity>
 <price><![CDATA[ 599.88 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0629 ]]></miat>
@@ -11215,7 +11193,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/8550b3ce-4149-4266-9af5-8f3c180c69af.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Haziran 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 83 ]]></varyantstok>
+<varyantstok><![CDATA[ 79 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683229901604 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 599.88 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8550b3ce-4149-4266-9af5-8f3c180c69af.jpg ]]></varyantresim>
@@ -11752,7 +11730,7 @@
 <sku><![CDATA[ 3337875607254 ]]></sku>
 <name><![CDATA[ Vichy Liftactiv Collagen Specialist Yüz Kremi 50 ml ]]></name>
 <quantity><![CDATA[ 250 ]]></quantity>
-<price><![CDATA[ 2298.73 ]]></price>
+<price><![CDATA[ 2298.72 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
@@ -11767,7 +11745,7 @@
 <varyantdeger1><![CDATA[ Eylül 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 250 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875607254 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 2298.73 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 2298.72 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0fd77eb5-eed8-4eaf-9e18-fc8ff0c45d7e.jpg ]]></varyantresim>
 </product>
 <product>
@@ -11839,8 +11817,8 @@
 <product>
 <sku><![CDATA[ 3337875719209 ]]></sku>
 <name><![CDATA[ Vichy Liftactiv Supreme H.A. Epidermic Filler Kırışıklık Karşıtı Yüz ve Göz Çevresi Serumu 30 ml ]]></name>
-<quantity><![CDATA[ 68 ]]></quantity>
-<price><![CDATA[ 2254.46 ]]></price>
+<quantity><![CDATA[ 67 ]]></quantity>
+<price><![CDATA[ 2254.45 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
@@ -11853,9 +11831,9 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/8427c4e7-8e01-4521-b4d9-941fd7486902.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Mart 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 68 ]]></varyantstok>
+<varyantstok><![CDATA[ 67 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875719209 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 2254.46 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 2254.45 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8427c4e7-8e01-4521-b4d9-941fd7486902.jpg ]]></varyantresim>
 </product>
 <product>
@@ -11972,7 +11950,7 @@
 <sku><![CDATA[ 8697791000009 ]]></sku>
 <name><![CDATA[ Vitasanol Multivitamin Multimineral Şurup 250 ml ]]></name>
 <quantity><![CDATA[ 151 ]]></quantity>
-<price><![CDATA[ 251.98 ]]></price>
+<price><![CDATA[ 251.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0727 ]]></miat>
 <miattr><![CDATA[ Temmuz 2027 ]]></miattr>
@@ -11987,7 +11965,7 @@
 <varyantdeger1><![CDATA[ Temmuz 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 151 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697791000009 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 251.98 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 251.97 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/2d0e67b3-a8cb-4d69-b019-586ebd3ca3ae.jpg ]]></varyantresim>
 </product>
 <product>
@@ -12037,7 +12015,7 @@
 <product>
 <sku><![CDATA[ 8683391100355 ]]></sku>
 <name><![CDATA[ Xtracare Kusma ve Bulantı Önleyici Bileklik - Mor ]]></name>
-<quantity><![CDATA[ 40 ]]></quantity>
+<quantity><![CDATA[ 37 ]]></quantity>
 <price><![CDATA[ 29.89 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -12051,7 +12029,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/a8df043e-8c2e-4253-b073-66900fdcad07.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 40 ]]></varyantstok>
+<varyantstok><![CDATA[ 37 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683391100355 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 29.89 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/a8df043e-8c2e-4253-b073-66900fdcad07.jpg ]]></varyantresim>
@@ -14985,7 +14963,7 @@
 <product>
 <sku><![CDATA[ 3701129803721 ]]></sku>
 <name><![CDATA[ Bioderma Photoderm Mineral Fluide SPF50 75 ml ]]></name>
-<quantity><![CDATA[ 45 ]]></quantity>
+<quantity><![CDATA[ 44 ]]></quantity>
 <price><![CDATA[ 1797.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
@@ -14999,7 +14977,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/e3227475-a8dd-4b61-9696-59305125680c.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ocak 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 45 ]]></varyantstok>
+<varyantstok><![CDATA[ 44 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3701129803721 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1797.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/e3227475-a8dd-4b61-9696-59305125680c.jpg ]]></varyantresim>
@@ -19671,7 +19649,7 @@
 <product>
 <sku><![CDATA[ 3573994006923 ]]></sku>
 <name><![CDATA[ Ducray Dexeryl Emollient Krem 500 gr ]]></name>
-<quantity><![CDATA[ 77 ]]></quantity>
+<quantity><![CDATA[ 74 ]]></quantity>
 <price><![CDATA[ 726.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
@@ -19685,7 +19663,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/d37c9de6-ad25-4944-9f9f-ca489ccb8446.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 77 ]]></varyantstok>
+<varyantstok><![CDATA[ 74 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3573994006923 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 726.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/d37c9de6-ad25-4944-9f9f-ca489ccb8446.jpg ]]></varyantresim>
@@ -22091,7 +22069,7 @@
 <product>
 <sku><![CDATA[ 3337872411991 ]]></sku>
 <name><![CDATA[ La Roche Posay Effaclar Gel 400 ml ]]></name>
-<quantity><![CDATA[ 23 ]]></quantity>
+<quantity><![CDATA[ 22 ]]></quantity>
 <price><![CDATA[ 748.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
@@ -22105,7 +22083,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/8b145d74-ee25-4289-93a4-dac338eb01d8.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ağustos 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 23 ]]></varyantstok>
+<varyantstok><![CDATA[ 22 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337872411991 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 748.9 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8b145d74-ee25-4289-93a4-dac338eb01d8.jpg ]]></varyantresim>
@@ -22267,7 +22245,7 @@
 <product>
 <sku><![CDATA[ 3337875876407 ]]></sku>
 <name><![CDATA[ La Roche Posay Effaclar Yağlı Ciltler İçin Temizleme Jeli 400 ml - Refill ]]></name>
-<quantity><![CDATA[ 26 ]]></quantity>
+<quantity><![CDATA[ 24 ]]></quantity>
 <price><![CDATA[ 674.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
@@ -22281,7 +22259,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/3a131f70-5a7c-40c9-89b8-a90e98bcd9b4.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 26 ]]></varyantstok>
+<varyantstok><![CDATA[ 24 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875876407 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 674.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/3a131f70-5a7c-40c9-89b8-a90e98bcd9b4.jpg ]]></varyantresim>
@@ -22465,7 +22443,7 @@
 <product>
 <sku><![CDATA[ 3337875930116 ]]></sku>
 <name><![CDATA[ La Roche Posay Lipikar Balm Ap+Max 75 ml ]]></name>
-<quantity><![CDATA[ 38 ]]></quantity>
+<quantity><![CDATA[ 36 ]]></quantity>
 <price><![CDATA[ 496.5 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
@@ -22479,7 +22457,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/6033d4da-7177-4c12-83cf-e2a90d692c07.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Kasım 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 38 ]]></varyantstok>
+<varyantstok><![CDATA[ 36 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875930116 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 496.5 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/6033d4da-7177-4c12-83cf-e2a90d692c07.jpg ]]></varyantresim>
@@ -41297,7 +41275,7 @@
 <product>
 <sku><![CDATA[ 8683060770070 ]]></sku>
 <name><![CDATA[ Enterogermina Family 5 ml x 20 Flakon ]]></name>
-<quantity><![CDATA[ 128 ]]></quantity>
+<quantity><![CDATA[ 123 ]]></quantity>
 <price><![CDATA[ 625 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0228 ]]></miat>
@@ -41311,7 +41289,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/9ecc655c-566b-4cc7-8563-01a4dcce0f97.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 128 ]]></varyantstok>
+<varyantstok><![CDATA[ 123 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683060770070 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 625 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/9ecc655c-566b-4cc7-8563-01a4dcce0f97.jpg ]]></varyantresim>
@@ -51131,7 +51109,7 @@
 <product>
 <sku><![CDATA[ 8682368909359 ]]></sku>
 <name><![CDATA[ Velavit V-Nr 30 Capsul ]]></name>
-<quantity><![CDATA[ 295 ]]></quantity>
+<quantity><![CDATA[ 294 ]]></quantity>
 <price><![CDATA[ 2069 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1029 ]]></miat>
@@ -51145,7 +51123,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/2acfe178-3a54-4611-be1f-90385e794b7e.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 295 ]]></varyantstok>
+<varyantstok><![CDATA[ 294 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682368909359 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 2069 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/2acfe178-3a54-4611-be1f-90385e794b7e.jpg ]]></varyantresim>
@@ -51637,7 +51615,7 @@
 <product>
 <sku><![CDATA[ 8682408684338 ]]></sku>
 <name><![CDATA[ Argivit Focus 30 Tablet ]]></name>
-<quantity><![CDATA[ 161 ]]></quantity>
+<quantity><![CDATA[ 156 ]]></quantity>
 <price><![CDATA[ 410 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1227 ]]></miat>
@@ -51651,7 +51629,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/d95baf1e-225b-4ac1-8250-e57c81ab2c1f.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Aralık 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 161 ]]></varyantstok>
+<varyantstok><![CDATA[ 156 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682408684338 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 410 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/d95baf1e-225b-4ac1-8250-e57c81ab2c1f.jpg ]]></varyantresim>
@@ -52253,7 +52231,7 @@
 <product>
 <sku><![CDATA[ 3401399277092-P ]]></sku>
 <name><![CDATA[ Bioderma Sebium Foaming Gel 500 ml - Puansız ]]></name>
-<quantity><![CDATA[ 248 ]]></quantity>
+<quantity><![CDATA[ 247 ]]></quantity>
 <price><![CDATA[ 1125 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
@@ -52267,7 +52245,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/08908548-8c26-4cc1-9781-d8a2ae6c633b.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Temmuz 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 248 ]]></varyantstok>
+<varyantstok><![CDATA[ 247 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3401399277092-P ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1125 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/08908548-8c26-4cc1-9781-d8a2ae6c633b.jpg ]]></varyantresim>
@@ -54079,7 +54057,7 @@
 <product>
 <sku><![CDATA[ 8690239600250 ]]></sku>
 <name><![CDATA[ Gülşah Aseton Küçük 75 ml ]]></name>
-<quantity><![CDATA[ 95 ]]></quantity>
+<quantity><![CDATA[ 90 ]]></quantity>
 <price><![CDATA[ 38 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
@@ -54093,7 +54071,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/b24fe311-8f11-42a0-87af-3b701b69ded8.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 95 ]]></varyantstok>
+<varyantstok><![CDATA[ 90 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690239600250 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 38 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/b24fe311-8f11-42a0-87af-3b701b69ded8.jpg ]]></varyantresim>
@@ -54146,7 +54124,7 @@
 <sku><![CDATA[ 8680400772176 ]]></sku>
 <name><![CDATA[ Haver Sitikolin Cognizin 500 mg 30 Kapsül ]]></name>
 <quantity><![CDATA[ 50 ]]></quantity>
-<price><![CDATA[ 1325.41 ]]></price>
+<price><![CDATA[ 1325.39 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0729 ]]></miat>
 <miattr><![CDATA[ Temmuz 2029 ]]></miattr>
@@ -54161,7 +54139,7 @@
 <varyantdeger1><![CDATA[ Temmuz 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 50 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680400772176 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1325.41 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1325.39 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/bf1c19f0-08e0-483f-9a85-b67b733f953a.jpg ]]></varyantresim>
 </product>
 <product>
@@ -55136,7 +55114,7 @@
 <sku><![CDATA[ 3504105035914 ]]></sku>
 <name><![CDATA[ Mustela Hydra Bebe Body Lotion 300 ml ]]></name>
 <quantity><![CDATA[ 216 ]]></quantity>
-<price><![CDATA[ 1002 ]]></price>
+<price><![CDATA[ 892.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
@@ -55151,7 +55129,7 @@
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 216 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3504105035914 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1002 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 892.97 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/7acd5e17-4839-4620-a020-b50d97cdc15b.jpg ]]></varyantresim>
 </product>
 <product>
@@ -55246,7 +55224,7 @@
 <sku><![CDATA[ 3504105039882 ]]></sku>
 <name><![CDATA[ Mustela Stelatopia Lipit Yenileyici Krem Pompalı Şişe 300 ml ]]></name>
 <quantity><![CDATA[ 21 ]]></quantity>
-<price><![CDATA[ 1100 ]]></price>
+<price><![CDATA[ 976 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
@@ -55261,7 +55239,7 @@
 <varyantdeger1><![CDATA[ Ocak 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 21 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3504105039882 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1100 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 976 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/7896f646-4d7a-447a-9550-98907f52beb9.jpg ]]></varyantresim>
 </product>
 <product>
@@ -55333,7 +55311,7 @@
 <product>
 <sku><![CDATA[ 8682257731580 ]]></sku>
 <name><![CDATA[ My Organix Lip Balm Tutti Frutti 5 gr ]]></name>
-<quantity><![CDATA[ 79 ]]></quantity>
+<quantity><![CDATA[ 74 ]]></quantity>
 <price><![CDATA[ 24 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -55347,7 +55325,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/49114885-4edf-47cd-ac79-fcb8bb090915.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 79 ]]></varyantstok>
+<varyantstok><![CDATA[ 74 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682257731580 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 24 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/49114885-4edf-47cd-ac79-fcb8bb090915.jpg ]]></varyantresim>
@@ -55554,7 +55532,7 @@
 <sku><![CDATA[ 8680645530968 ]]></sku>
 <name><![CDATA[ NBT Life Endofer 30 Kapsül ]]></name>
 <quantity><![CDATA[ 500 ]]></quantity>
-<price><![CDATA[ 598.87 ]]></price>
+<price><![CDATA[ 585 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0629 ]]></miat>
 <miattr><![CDATA[ Haziran 2029 ]]></miattr>
@@ -55569,7 +55547,7 @@
 <varyantdeger1><![CDATA[ Haziran 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 500 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680645530968 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 598.87 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 585 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/145a6931-c2e3-4012-97c0-287647c068cd.jpg ]]></varyantresim>
 </product>
 <product>
@@ -56191,7 +56169,7 @@
 <product>
 <sku><![CDATA[ 8690784814881 ]]></sku>
 <name><![CDATA[ Off Sinekkovar Losyon Sprey 100 ml ]]></name>
-<quantity><![CDATA[ 169 ]]></quantity>
+<quantity><![CDATA[ 165 ]]></quantity>
 <price><![CDATA[ 135 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1027 ]]></miat>
@@ -56205,7 +56183,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/d5d8eba5-51f4-4e4a-81c1-6b962317f980.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ekim 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 169 ]]></varyantstok>
+<varyantstok><![CDATA[ 165 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690784814881 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 135 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/d5d8eba5-51f4-4e4a-81c1-6b962317f980.jpg ]]></varyantresim>
@@ -56631,7 +56609,7 @@
 <product>
 <sku><![CDATA[ 8680133000799 ]]></sku>
 <name><![CDATA[ Osende Demir C 60 Kapsül ]]></name>
-<quantity><![CDATA[ 52 ]]></quantity>
+<quantity><![CDATA[ 47 ]]></quantity>
 <price><![CDATA[ 488.57 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -56645,7 +56623,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/617fd6b5-686c-4340-9a7e-b1c738e5a8a9.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 52 ]]></varyantstok>
+<varyantstok><![CDATA[ 47 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680133000799 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 488.57 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/617fd6b5-686c-4340-9a7e-b1c738e5a8a9.jpg ]]></varyantresim>
@@ -57203,7 +57181,7 @@
 <product>
 <sku><![CDATA[ 8682983755539 ]]></sku>
 <name><![CDATA[ Sıhhat Gül Vazelin 100 ml ]]></name>
-<quantity><![CDATA[ 368 ]]></quantity>
+<quantity><![CDATA[ 365 ]]></quantity>
 <price><![CDATA[ 30 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -57217,7 +57195,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/78c36e78-ad44-408f-9a13-330259c69fdb.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 368 ]]></varyantstok>
+<varyantstok><![CDATA[ 365 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682983755539 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 30 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/78c36e78-ad44-408f-9a13-330259c69fdb.jpg ]]></varyantresim>
@@ -57314,7 +57292,7 @@
 <sku><![CDATA[ 3606000604643 ]]></sku>
 <name><![CDATA[ SkinCeuticals A.G.E. Eye Complex 15 ml ]]></name>
 <quantity><![CDATA[ 12 ]]></quantity>
-<price><![CDATA[ 6329.99 ]]></price>
+<price><![CDATA[ 6319.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -57329,7 +57307,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 12 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3606000604643 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 6329.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 6319.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/a6c0ced2-d780-4acc-9b39-8e775992c6e5.jpg ]]></varyantresim>
 </product>
 <product>
@@ -57402,7 +57380,7 @@
 <sku><![CDATA[ 3337875902755 ]]></sku>
 <name><![CDATA[ Skinceuticals Collagen Pro Solüsyon 30 ml ]]></name>
 <quantity><![CDATA[ 4 ]]></quantity>
-<price><![CDATA[ 6933.99 ]]></price>
+<price><![CDATA[ 6931.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -57417,7 +57395,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 4 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337875902755 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 6933.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 6931.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/466aca09-e5eb-430a-9d92-0aced263d5d3.jpg ]]></varyantresim>
 </product>
 <product>
@@ -58061,7 +58039,7 @@
 <product>
 <sku><![CDATA[ 8680133000461 ]]></sku>
 <name><![CDATA[ Urinonvef Cranberry 30 Yumuşak Kapsül ]]></name>
-<quantity><![CDATA[ 385 ]]></quantity>
+<quantity><![CDATA[ 382 ]]></quantity>
 <price><![CDATA[ 199 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
@@ -58075,7 +58053,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/3d4e46dc-6966-4914-98ac-b6fd1c245ba2.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 385 ]]></varyantstok>
+<varyantstok><![CDATA[ 382 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680133000461 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 199 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/3d4e46dc-6966-4914-98ac-b6fd1c245ba2.jpg ]]></varyantresim>
@@ -58413,7 +58391,7 @@
 <product>
 <sku><![CDATA[ 8682368909069 ]]></sku>
 <name><![CDATA[ Velavit V-Probiotics With Enzymes 30 Tablet ]]></name>
-<quantity><![CDATA[ 64 ]]></quantity>
+<quantity><![CDATA[ 62 ]]></quantity>
 <price><![CDATA[ 980 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
@@ -58427,7 +58405,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/2bf23c2c-1695-42cb-9f15-8e0523bf26f7.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ocak 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 64 ]]></varyantstok>
+<varyantstok><![CDATA[ 62 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8682368909069 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 980 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/2bf23c2c-1695-42cb-9f15-8e0523bf26f7.jpg ]]></varyantresim>
@@ -58633,7 +58611,7 @@
 <product>
 <sku><![CDATA[ 3337871322243 ]]></sku>
 <name><![CDATA[ Vichy Dercos Energisant Saç Dökülmesine Karşı Şampuan 400 ml ]]></name>
-<quantity><![CDATA[ 17 ]]></quantity>
+<quantity><![CDATA[ 16 ]]></quantity>
 <price><![CDATA[ 1200 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -58647,7 +58625,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/132253c5-033f-48eb-bd79-6ce251a87496.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 17 ]]></varyantstok>
+<varyantstok><![CDATA[ 16 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3337871322243 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1200 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/132253c5-033f-48eb-bd79-6ce251a87496.jpg ]]></varyantresim>
@@ -59008,7 +58986,7 @@
 <sku><![CDATA[ 8690712012037 ]]></sku>
 <name><![CDATA[ Zade Vital Çörek Otu Yağı 900 mg 60 Blister Kapsül ]]></name>
 <quantity><![CDATA[ 500 ]]></quantity>
-<price><![CDATA[ 199.89 ]]></price>
+<price><![CDATA[ 213.49 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
@@ -59023,7 +59001,7 @@
 <varyantdeger1><![CDATA[ Ocak 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 500 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690712012037 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 199.89 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 213.49 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0bbfade8-fb0e-456b-aeae-89450afd8451.jpg ]]></varyantresim>
 </product>
 <product>
@@ -59051,7 +59029,7 @@
 <product>
 <sku><![CDATA[ 8690712012044 ]]></sku>
 <name><![CDATA[ Zade Vital Kabak Çekirdeği Yağı 320 mg 60 Kapsül Blister ]]></name>
-<quantity><![CDATA[ 25 ]]></quantity>
+<quantity><![CDATA[ 22 ]]></quantity>
 <price><![CDATA[ 223.88 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -59065,7 +59043,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/f517ce2a-54b8-4245-ad76-54b988414f4a.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 25 ]]></varyantstok>
+<varyantstok><![CDATA[ 22 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690712012044 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 223.88 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f517ce2a-54b8-4245-ad76-54b988414f4a.jpg ]]></varyantresim>
@@ -59073,7 +59051,7 @@
 <product>
 <sku><![CDATA[ 8690712028069 ]]></sku>
 <name><![CDATA[ Zade Vital Nigefix Nazal Sprey 15 ml ]]></name>
-<quantity><![CDATA[ 399 ]]></quantity>
+<quantity><![CDATA[ 393 ]]></quantity>
 <price><![CDATA[ 126.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
@@ -59087,7 +59065,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/bea6b5b1-7bc2-4f73-a852-cbcc8978fc7d.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ocak 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 399 ]]></varyantstok>
+<varyantstok><![CDATA[ 393 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690712028069 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 126.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/bea6b5b1-7bc2-4f73-a852-cbcc8978fc7d.jpg ]]></varyantresim>
@@ -59293,7 +59271,7 @@
 <product>
 <sku><![CDATA[ 8699324340019 ]]></sku>
 <name><![CDATA[ Ainara jel 30 gr ]]></name>
-<quantity><![CDATA[ 12 ]]></quantity>
+<quantity><![CDATA[ 11 ]]></quantity>
 <price><![CDATA[ 851.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
@@ -59307,7 +59285,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/33f2a5a0-018c-4b71-9d17-96d3f3fc0629.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Temmuz 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 12 ]]></varyantstok>
+<varyantstok><![CDATA[ 11 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699324340019 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 851.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/33f2a5a0-018c-4b71-9d17-96d3f3fc0629.jpg ]]></varyantresim>
@@ -59359,7 +59337,7 @@
 <product>
 <sku><![CDATA[ 3660398504831 ]]></sku>
 <name><![CDATA[ Apaisac Biorga Besleyici Dudak Nemlendiricisi 15 ml ]]></name>
-<quantity><![CDATA[ 41 ]]></quantity>
+<quantity><![CDATA[ 39 ]]></quantity>
 <price><![CDATA[ 203.3 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
@@ -59373,7 +59351,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/67d5725b-8ea0-4745-9dc5-332fb20e832a.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Mart 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 41 ]]></varyantstok>
+<varyantstok><![CDATA[ 39 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3660398504831 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 203.3 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/67d5725b-8ea0-4745-9dc5-332fb20e832a.jpg ]]></varyantresim>
@@ -59668,7 +59646,7 @@
 <sku><![CDATA[ 8690088000027 ]]></sku>
 <name><![CDATA[ Avicenna MDA 60 Kapsül ]]></name>
 <quantity><![CDATA[ 11 ]]></quantity>
-<price><![CDATA[ 275.68 ]]></price>
+<price><![CDATA[ 275.67 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
@@ -59683,7 +59661,7 @@
 <varyantdeger1><![CDATA[ Eylül 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 11 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690088000027 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 275.68 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 275.67 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/b4a92f49-4f01-403b-9f44-80c2987a7655.jpg ]]></varyantresim>
 </product>
 <product>
@@ -60042,7 +60020,7 @@
 <sku><![CDATA[ 8681863200206 ]]></sku>
 <name><![CDATA[ Bestlak Pro Vitamin C ve Roybos Ekstresi 75 gr ]]></name>
 <quantity><![CDATA[ 4 ]]></quantity>
-<price><![CDATA[ 631.79 ]]></price>
+<price><![CDATA[ 631.69 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0828 ]]></miat>
 <miattr><![CDATA[ Ağustos 2028 ]]></miattr>
@@ -60057,7 +60035,7 @@
 <varyantdeger1><![CDATA[ Ağustos 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 4 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8681863200206 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 631.79 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 631.69 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/ba0a6410-9439-4ee1-8ff6-c0986bb05226.jpg ]]></varyantresim>
 </product>
 <product>
@@ -60108,7 +60086,7 @@
 <sku><![CDATA[ 8680512610830 ]]></sku>
 <name><![CDATA[ Bioder Tüy Dökücü Krem Erkek 100 ml ]]></name>
 <quantity><![CDATA[ 5 ]]></quantity>
-<price><![CDATA[ 168.99 ]]></price>
+<price><![CDATA[ 164.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -60123,7 +60101,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 5 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680512610830 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 168.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 164.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/e3745565-a7d8-4f04-9e60-85ee65988d62.jpg ]]></varyantresim>
 </product>
 <product>
@@ -60658,7 +60636,7 @@
 <sku><![CDATA[ 8680512635697 ]]></sku>
 <name><![CDATA[ Bioxcin Collagen & Biotin Hacim Şampuanı 300 ml - 3 Al 2 Öde ]]></name>
 <quantity><![CDATA[ 2 ]]></quantity>
-<price><![CDATA[ 366.33 ]]></price>
+<price><![CDATA[ 366.22 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -60673,7 +60651,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 2 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680512635697 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 366.33 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 366.22 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/d5e1179e-e44e-4dac-a4d1-8b29f831bd8a.jpg ]]></varyantresim>
 </product>
 <product>
@@ -63053,28 +63031,6 @@
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/54ccc948-4a48-49df-ae22-8dc252821114.jpg ]]></varyantresim>
 </product>
 <product>
-<sku><![CDATA[ 5052197058451 ]]></sku>
-<name><![CDATA[ Durex Extreme Jel 50 ml ]]></name>
-<quantity><![CDATA[ 1 ]]></quantity>
-<price><![CDATA[ 327.99 ]]></price>
-<kdv><![CDATA[ 1 ]]></kdv>
-<miat><![CDATA[ 1127 ]]></miat>
-<miattr><![CDATA[ Kasım 2027 ]]></miattr>
-<kat1><![CDATA[ Kayganlaştırıcı ]]></kat1>
-<kat2/>
-<kat3/>
-<kat4/>
-<kat5/>
-<marka><![CDATA[ Durex ]]></marka>
-<resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/58d3f8fb-a7c7-4c73-aa54-a0f8ce5f7780.jpg ]]></resim1>
-<varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
-<varyantdeger1><![CDATA[ Kasım 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 1 ]]></varyantstok>
-<varyantbarkod><![CDATA[ 5052197058451 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 327.99 ]]></varyantfiyat>
-<varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/58d3f8fb-a7c7-4c73-aa54-a0f8ce5f7780.jpg ]]></varyantresim>
-</product>
-<product>
 <sku><![CDATA[ 5052197058086 ]]></sku>
 <name><![CDATA[ Durex Maraton Geciktiricili Prezervatif 10'lu ]]></name>
 <quantity><![CDATA[ 2 ]]></quantity>
@@ -63143,7 +63099,7 @@
 <product>
 <sku><![CDATA[ 8680805004568 ]]></sku>
 <name><![CDATA[ Eczane Poşet Bozok El Geçme No:1 17x27 cm 400 Adet 480 gr ]]></name>
-<quantity><![CDATA[ 156 ]]></quantity>
+<quantity><![CDATA[ 154 ]]></quantity>
 <price><![CDATA[ 144.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -63157,7 +63113,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/7cdc43da-b350-459d-a1f1-0071f261dbb3.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 156 ]]></varyantstok>
+<varyantstok><![CDATA[ 154 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680805004568 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 144.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/7cdc43da-b350-459d-a1f1-0071f261dbb3.jpg ]]></varyantresim>
@@ -63165,7 +63121,7 @@
 <product>
 <sku><![CDATA[ 8680805004889 ]]></sku>
 <name><![CDATA[ Eczane Poşet Bozok El Geçme No:2 23x32 cm 200 Adet 570 gr ]]></name>
-<quantity><![CDATA[ 481 ]]></quantity>
+<quantity><![CDATA[ 479 ]]></quantity>
 <price><![CDATA[ 144.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -63179,7 +63135,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/69baea2c-5edd-4ef8-bbd0-48283568de23.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 481 ]]></varyantstok>
+<varyantstok><![CDATA[ 479 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680805004889 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 144.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/69baea2c-5edd-4ef8-bbd0-48283568de23.jpg ]]></varyantresim>
@@ -63209,7 +63165,7 @@
 <product>
 <sku><![CDATA[ 8680805004919 ]]></sku>
 <name><![CDATA[ Eczane Poşet Bozok No:4 Atlet 23x15x40 cm 150 Adet 570 gr ]]></name>
-<quantity><![CDATA[ 98 ]]></quantity>
+<quantity><![CDATA[ 96 ]]></quantity>
 <price><![CDATA[ 144.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -63223,7 +63179,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/f73a290c-6c7d-43f3-95dd-bf531b1dfebe.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 98 ]]></varyantstok>
+<varyantstok><![CDATA[ 96 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680805004919 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 144.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f73a290c-6c7d-43f3-95dd-bf531b1dfebe.jpg ]]></varyantresim>
@@ -64111,7 +64067,7 @@
 <product>
 <sku><![CDATA[ 8691685013182 ]]></sku>
 <name><![CDATA[ Eyüp Sabri Tuncer Doğal Argan Yağlı Şampuan 600 ml ]]></name>
-<quantity><![CDATA[ 6 ]]></quantity>
+<quantity><![CDATA[ 5 ]]></quantity>
 <price><![CDATA[ 218.09 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -64125,7 +64081,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/8e6d0fd9-4cb2-47c1-b470-d35793350f61.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 6 ]]></varyantstok>
+<varyantstok><![CDATA[ 5 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8691685013182 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 218.09 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8e6d0fd9-4cb2-47c1-b470-d35793350f61.jpg ]]></varyantresim>
@@ -64552,7 +64508,7 @@
 <sku><![CDATA[ 8691685022290 ]]></sku>
 <name><![CDATA[ Eyüp Sabri Tuncer Kilit Kapaklı Japon Kiraz Çiçeği Kolonyası 1 lt ]]></name>
 <quantity><![CDATA[ 20 ]]></quantity>
-<price><![CDATA[ 258.91 ]]></price>
+<price><![CDATA[ 258.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -64567,7 +64523,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 20 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8691685022290 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 258.91 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 258.9 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0f32224b-9342-4a00-9470-f9407351f7a7.jpg ]]></varyantresim>
 </product>
 <product>
@@ -64684,7 +64640,7 @@
 <sku><![CDATA[ 8691685012291 ]]></sku>
 <name><![CDATA[ Eyüp Sabri Tuncer Kolonya Okyanus Cam Şişe 400 ml ]]></name>
 <quantity><![CDATA[ 3 ]]></quantity>
-<price><![CDATA[ 278.56 ]]></price>
+<price><![CDATA[ 278.55 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -64699,7 +64655,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 3 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8691685012291 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 278.56 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 278.55 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/4f540431-6f6a-429f-ac8b-82a028927a77.jpg ]]></varyantresim>
 </product>
 <product>
@@ -64727,7 +64683,7 @@
 <product>
 <sku><![CDATA[ 8691685008751 ]]></sku>
 <name><![CDATA[ Eyüp Sabri Tuncer Limon Kolonyası Cam 400 ml ]]></name>
-<quantity><![CDATA[ 20 ]]></quantity>
+<quantity><![CDATA[ 19 ]]></quantity>
 <price><![CDATA[ 269.73 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -64741,7 +64697,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/c7712db5-f888-4b06-9c70-36be54883457.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 20 ]]></varyantstok>
+<varyantstok><![CDATA[ 19 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8691685008751 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 269.73 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/c7712db5-f888-4b06-9c70-36be54883457.jpg ]]></varyantresim>
@@ -64816,7 +64772,7 @@
 <sku><![CDATA[ 8691685022283 ]]></sku>
 <name><![CDATA[ Eyüp Sabri Tuncer Okyanus Kolonyası 1 lt -  - Eski Ambalaj (Koruma Kilitli Kapak) ]]></name>
 <quantity><![CDATA[ 18 ]]></quantity>
-<price><![CDATA[ 260.31 ]]></price>
+<price><![CDATA[ 260.3 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -64831,7 +64787,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 18 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8691685022283 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 260.31 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 260.3 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/91c91219-6ea2-4929-a3f7-344fab6d9e2f.jpg ]]></varyantresim>
 </product>
 <product>
@@ -65278,7 +65234,7 @@
 <sku><![CDATA[ 8684382998098 ]]></sku>
 <name><![CDATA[ Fortune Fix Esnek Flaster 5 cm x 5 m ]]></name>
 <quantity><![CDATA[ 16 ]]></quantity>
-<price><![CDATA[ 78.07 ]]></price>
+<price><![CDATA[ 78.05 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1030 ]]></miat>
 <miattr><![CDATA[ Ekim 2030 ]]></miattr>
@@ -65293,7 +65249,7 @@
 <varyantdeger1><![CDATA[ Ekim 2030 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 16 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8684382998098 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 78.07 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 78.05 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/2036a0ba-aeee-435a-b7eb-d335a2401e58.jpg ]]></varyantresim>
 </product>
 <product>
@@ -67412,7 +67368,7 @@
 <sku><![CDATA[ 8698758949058 ]]></sku>
 <name><![CDATA[ Luxor 104 Örgü Patella ve Ligament Destekli Dizlik - Medium ]]></name>
 <quantity><![CDATA[ 4 ]]></quantity>
-<price><![CDATA[ 592.46 ]]></price>
+<price><![CDATA[ 592.45 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
@@ -67427,7 +67383,7 @@
 <varyantdeger1><![CDATA[ Ocak 2031 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 4 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8698758949058 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 592.46 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 592.45 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/371e2074-ac72-4fca-b454-a1ade4b215d8.jpg ]]></varyantresim>
 </product>
 <product>
@@ -67544,7 +67500,7 @@
 <sku><![CDATA[ 8698758942394 ]]></sku>
 <name><![CDATA[ Luxor 200 Patella ve Ligament Destekli Dizlik - Bedensiz ]]></name>
 <quantity><![CDATA[ 3 ]]></quantity>
-<price><![CDATA[ 488.09 ]]></price>
+<price><![CDATA[ 488.08 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
@@ -67559,7 +67515,7 @@
 <varyantdeger1><![CDATA[ Ocak 2031 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 3 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8698758942394 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 488.09 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 488.08 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f5e1a9e8-adcf-4779-aef8-e09d36a6026e.jpg ]]></varyantresim>
 </product>
 <product>
@@ -67632,7 +67588,7 @@
 <sku><![CDATA[ 8698758947689 ]]></sku>
 <name><![CDATA[ Luxor 404 Epikondilit Bandajı - Bedensiz ]]></name>
 <quantity><![CDATA[ 2 ]]></quantity>
-<price><![CDATA[ 202.03 ]]></price>
+<price><![CDATA[ 202.02 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
@@ -67647,14 +67603,14 @@
 <varyantdeger1><![CDATA[ Ocak 2031 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 2 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8698758947689 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 202.03 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 202.02 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/4cf72d51-b337-466b-a1db-fc06baa6e685.jpg ]]></varyantresim>
 </product>
 <product>
 <sku><![CDATA[ 8698758940215 ]]></sku>
 <name><![CDATA[ Luxor 406 Fileli Kol Askısı - Large ]]></name>
 <quantity><![CDATA[ 1 ]]></quantity>
-<price><![CDATA[ 254.74 ]]></price>
+<price><![CDATA[ 254.73 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
@@ -67669,7 +67625,7 @@
 <varyantdeger1><![CDATA[ Ocak 2031 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 1 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8698758940215 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 254.74 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 254.73 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/cf67e5f7-4273-4411-b055-516e3db49e2d.jpg ]]></varyantresim>
 </product>
 <product>
@@ -67830,7 +67786,7 @@
 <sku><![CDATA[ 8698758948310 ]]></sku>
 <name><![CDATA[ Luxor 606 Silikon Topukluk Small No: 35-38 ]]></name>
 <quantity><![CDATA[ 7 ]]></quantity>
-<price><![CDATA[ 234.1 ]]></price>
+<price><![CDATA[ 234.09 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
@@ -67845,7 +67801,7 @@
 <varyantdeger1><![CDATA[ Ocak 2031 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 7 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8698758948310 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 234.1 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 234.09 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/7b41c156-1caa-4f17-b19e-7823be7d9461.jpg ]]></varyantresim>
 </product>
 <product>
@@ -68313,7 +68269,7 @@
 <product>
 <sku><![CDATA[ 8681085037406 ]]></sku>
 <name><![CDATA[ Mavvell Soğutucu Sprey 150 ml ]]></name>
-<quantity><![CDATA[ 111 ]]></quantity>
+<quantity><![CDATA[ 110 ]]></quantity>
 <price><![CDATA[ 72.48 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0230 ]]></miat>
@@ -68327,7 +68283,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/db1a555d-3429-4173-8f7d-ec3b410425cf.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2030 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 111 ]]></varyantstok>
+<varyantstok><![CDATA[ 110 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8681085037406 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 72.48 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/db1a555d-3429-4173-8f7d-ec3b410425cf.jpg ]]></varyantresim>
@@ -68622,7 +68578,7 @@
 <sku><![CDATA[ 8684072989092 ]]></sku>
 <name><![CDATA[ Mochi Diş Kaşıyıcı - Antrasit ]]></name>
 <quantity><![CDATA[ 5 ]]></quantity>
-<price><![CDATA[ 323.16 ]]></price>
+<price><![CDATA[ 323.15 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -68637,7 +68593,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 5 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8684072989092 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 323.16 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 323.15 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/c29bccf0-d4e2-4688-866b-9494dbfaf309.jpg ]]></varyantresim>
 </product>
 <product>
@@ -68908,7 +68864,7 @@
 <sku><![CDATA[ 3504105035464 ]]></sku>
 <name><![CDATA[ Mustela Gentle Cleansing Gel Yenidoğan Şampuan 200 ml ]]></name>
 <quantity><![CDATA[ 179 ]]></quantity>
-<price><![CDATA[ 327.99 ]]></price>
+<price><![CDATA[ 327.97 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
@@ -68923,7 +68879,7 @@
 <varyantdeger1><![CDATA[ Ocak 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 179 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3504105035464 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 327.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 327.97 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/7aa58943-4d6b-4919-8a46-a611a21794a8.jpg ]]></varyantresim>
 </product>
 <product>
@@ -69040,7 +68996,7 @@
 <sku><![CDATA[ 3504105033828 ]]></sku>
 <name><![CDATA[ Mustela Maternite Çatlak Öncesi Krem 150 ml ]]></name>
 <quantity><![CDATA[ 220 ]]></quantity>
-<price><![CDATA[ 1198.17 ]]></price>
+<price><![CDATA[ 1198.15 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1228 ]]></miat>
 <miattr><![CDATA[ Aralık 2028 ]]></miattr>
@@ -69055,7 +69011,7 @@
 <varyantdeger1><![CDATA[ Aralık 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 220 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3504105033828 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1198.17 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1198.15 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f92a0153-98a5-4b16-a1dc-76ce081c3b55.jpg ]]></varyantresim>
 </product>
 <product>
@@ -69149,7 +69105,7 @@
 <product>
 <sku><![CDATA[ 3504105087043 ]]></sku>
 <name><![CDATA[ Mustela Set - Vitamin Barrier 1-2-3 Pişik Önleyici Krem 100 gr + 20 gr Hediyeli ]]></name>
-<quantity><![CDATA[ 262 ]]></quantity>
+<quantity><![CDATA[ 261 ]]></quantity>
 <price><![CDATA[ 457.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
@@ -69163,7 +69119,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/a2f09f38-000c-4018-b221-58360a2f499a.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Kasım 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 262 ]]></varyantstok>
+<varyantstok><![CDATA[ 261 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3504105087043 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 457.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/a2f09f38-000c-4018-b221-58360a2f499a.jpg ]]></varyantresim>
@@ -69259,7 +69215,7 @@
 <product>
 <sku><![CDATA[ 3504105033644 ]]></sku>
 <name><![CDATA[ Mustela Stelatopia Cleansing Gel 500 ml ]]></name>
-<quantity><![CDATA[ 72 ]]></quantity>
+<quantity><![CDATA[ 71 ]]></quantity>
 <price><![CDATA[ 987.59 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
@@ -69273,7 +69229,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/7954ad4e-037c-4364-8800-3cdd6f709f2f.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 72 ]]></varyantstok>
+<varyantstok><![CDATA[ 71 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3504105033644 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 987.59 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/7954ad4e-037c-4364-8800-3cdd6f709f2f.jpg ]]></varyantresim>
@@ -69370,7 +69326,7 @@
 <sku><![CDATA[ 3504105039813 ]]></sku>
 <name><![CDATA[ Mustela Şampuan & Vücut Temizleme Barı 75 gr ]]></name>
 <quantity><![CDATA[ 23 ]]></quantity>
-<price><![CDATA[ 424.32 ]]></price>
+<price><![CDATA[ 424.31 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
@@ -69385,7 +69341,7 @@
 <varyantdeger1><![CDATA[ Eylül 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 23 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3504105039813 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 424.32 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 424.31 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/bd2c9363-9ed4-4d3e-90cf-afb7543ae910.jpg ]]></varyantresim>
 </product>
 <product>
@@ -70315,7 +70271,7 @@
 <product>
 <sku><![CDATA[ 8698973762784 ]]></sku>
 <name><![CDATA[ Nimo Bebekler İçin Elektrikli Burun Aspiratörü ]]></name>
-<quantity><![CDATA[ 12 ]]></quantity>
+<quantity><![CDATA[ 11 ]]></quantity>
 <price><![CDATA[ 1156.04 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -70329,7 +70285,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/67668eda-38c2-42c4-b086-8c4a59d06bc3.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 12 ]]></varyantstok>
+<varyantstok><![CDATA[ 11 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8698973762784 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 1156.04 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/67668eda-38c2-42c4-b086-8c4a59d06bc3.jpg ]]></varyantresim>
@@ -70624,7 +70580,7 @@
 <sku><![CDATA[ 6938799212080 ]]></sku>
 <name><![CDATA[ Nimo Kinesiyoloji Bandı 5cm x 5m Kırmızı ]]></name>
 <quantity><![CDATA[ 7 ]]></quantity>
-<price><![CDATA[ 99.49 ]]></price>
+<price><![CDATA[ 108.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0930 ]]></miat>
 <miattr><![CDATA[ Eylül 2030 ]]></miattr>
@@ -70639,7 +70595,7 @@
 <varyantdeger1><![CDATA[ Eylül 2030 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 7 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 6938799212080 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 99.49 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 108.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/5fc588c0-45c9-41a7-beac-25c1cf20e379.jpg ]]></varyantresim>
 </product>
 <product>
@@ -70976,7 +70932,7 @@
 <sku><![CDATA[ 6970384252484 ]]></sku>
 <name><![CDATA[ Nimo Tansiyon Aleti Manşonu Geniş 32-43 cm ]]></name>
 <quantity><![CDATA[ 3 ]]></quantity>
-<price><![CDATA[ 304.99 ]]></price>
+<price><![CDATA[ 304.98 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -70991,7 +70947,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 3 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 6970384252484 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 304.99 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 304.98 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/66d82b35-944f-4301-a037-d1c8642e109e.jpg ]]></varyantresim>
 </product>
 <product>
@@ -71591,7 +71547,7 @@
 <product>
 <sku><![CDATA[ 4005900915405 ]]></sku>
 <name><![CDATA[ Nivea Krem Teneke 75 ml ]]></name>
-<quantity><![CDATA[ 37 ]]></quantity>
+<quantity><![CDATA[ 36 ]]></quantity>
 <price><![CDATA[ 87.2 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
@@ -71605,7 +71561,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/ca56df50-932e-443f-893f-ec4fbc211bde.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
-<varyantstok><![CDATA[ 37 ]]></varyantstok>
+<varyantstok><![CDATA[ 36 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 4005900915405 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 87.2 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/ca56df50-932e-443f-893f-ec4fbc211bde.jpg ]]></varyantresim>
@@ -71834,7 +71790,7 @@
 <sku><![CDATA[ 42349839 ]]></sku>
 <name><![CDATA[ Nivea Roll-On Deodorant Deep Dimension For Men 50 ml ]]></name>
 <quantity><![CDATA[ 42 ]]></quantity>
-<price><![CDATA[ 139.7 ]]></price>
+<price><![CDATA[ 139.69 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -71849,7 +71805,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 42 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 42349839 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 139.7 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 139.69 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/682cac26-fd85-4c43-bb6a-9331f4ec115f.jpg ]]></varyantresim>
 </product>
 <product>
@@ -72251,7 +72207,7 @@
 <product>
 <sku><![CDATA[ 8699177824261 ]]></sku>
 <name><![CDATA[ Nurse Harvey's GG Damla 20 ml ]]></name>
-<quantity><![CDATA[ 186 ]]></quantity>
+<quantity><![CDATA[ 184 ]]></quantity>
 <price><![CDATA[ 210.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
@@ -72265,7 +72221,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/0e422091-1bc5-4581-8517-a96773780ed3.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Temmuz 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 186 ]]></varyantstok>
+<varyantstok><![CDATA[ 184 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699177824261 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 210.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0e422091-1bc5-4581-8517-a96773780ed3.jpg ]]></varyantresim>
@@ -72757,7 +72713,7 @@
 <product>
 <sku><![CDATA[ 8680512660286 ]]></sku>
 <name><![CDATA[ Nutraxin Sitikolin 30 Kapsül ]]></name>
-<quantity><![CDATA[ 3 ]]></quantity>
+<quantity><![CDATA[ 1 ]]></quantity>
 <price><![CDATA[ 819.89 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
@@ -72771,7 +72727,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/8b7fcd27-7014-43c2-8e9c-f50cdd8878f2.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 3 ]]></varyantstok>
+<varyantstok><![CDATA[ 1 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8680512660286 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 819.89 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8b7fcd27-7014-43c2-8e9c-f50cdd8878f2.jpg ]]></varyantresim>
@@ -73373,8 +73329,8 @@
 <product>
 <sku><![CDATA[ 850081345046 ]]></sku>
 <name><![CDATA[ Ocean D3K2 Damla 20+20 ml - İkincisi %50 İndirimli ]]></name>
-<quantity><![CDATA[ 64 ]]></quantity>
-<price><![CDATA[ 474.89 ]]></price>
+<quantity><![CDATA[ 56 ]]></quantity>
+<price><![CDATA[ 498.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0128 ]]></miat>
 <miattr><![CDATA[ Ocak 2028 ]]></miattr>
@@ -73387,9 +73343,9 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/a73fecca-80f2-4cf5-9989-e9a9f0592385.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Ocak 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 64 ]]></varyantstok>
+<varyantstok><![CDATA[ 56 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 850081345046 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 474.89 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 498.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/a73fecca-80f2-4cf5-9989-e9a9f0592385.jpg ]]></varyantresim>
 </product>
 <product>
@@ -73726,7 +73682,7 @@
 <sku><![CDATA[ 850081345503 ]]></sku>
 <name><![CDATA[ Ocean Extramag Migra 60 Tablet ]]></name>
 <quantity><![CDATA[ 7 ]]></quantity>
-<price><![CDATA[ 625.15 ]]></price>
+<price><![CDATA[ 627.94 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0529 ]]></miat>
 <miattr><![CDATA[ Mayıs 2029 ]]></miattr>
@@ -73741,7 +73697,7 @@
 <varyantdeger1><![CDATA[ Mayıs 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 7 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 850081345503 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 625.15 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 627.94 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/94911c60-9327-4aa3-8f8c-bbffa6dac1b8.jpg ]]></varyantresim>
 </product>
 <product>
@@ -73990,7 +73946,7 @@
 <sku><![CDATA[ 8697595873489 ]]></sku>
 <name><![CDATA[ Ocean L-Glutamin 5000 mg 60 Saşe ]]></name>
 <quantity><![CDATA[ 4 ]]></quantity>
-<price><![CDATA[ 1330.01 ]]></price>
+<price><![CDATA[ 1330 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1028 ]]></miat>
 <miattr><![CDATA[ Ekim 2028 ]]></miattr>
@@ -74005,7 +73961,7 @@
 <varyantdeger1><![CDATA[ Ekim 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 4 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697595873489 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1330.01 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1330 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/afcadd39-688b-4cfd-bf91-344e3417a2ef.jpg ]]></varyantresim>
 </product>
 <product>
@@ -74055,7 +74011,7 @@
 <product>
 <sku><![CDATA[ 8697595871898-EA ]]></sku>
 <name><![CDATA[ Ocean Methyl B12 Sprey 1000 mg 10 ml - Eski Ambalaj ]]></name>
-<quantity><![CDATA[ 5 ]]></quantity>
+<quantity><![CDATA[ 2 ]]></quantity>
 <price><![CDATA[ 348.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
@@ -74069,7 +74025,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/215e70b3-79c2-49f0-8fa4-670071b6e067.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 5 ]]></varyantstok>
+<varyantstok><![CDATA[ 2 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697595871898-EA ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 348.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/215e70b3-79c2-49f0-8fa4-670071b6e067.jpg ]]></varyantresim>
@@ -74319,11 +74275,11 @@
 <product>
 <sku><![CDATA[ 8697595870273 ]]></sku>
 <name><![CDATA[ Ocean Omega 3 Balık Yağı 500 mg 60 Kapsül ]]></name>
-<quantity><![CDATA[ 77 ]]></quantity>
+<quantity><![CDATA[ 67 ]]></quantity>
 <price><![CDATA[ 171.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
-<miat><![CDATA[ 1027 ]]></miat>
-<miattr><![CDATA[ Ekim 2027 ]]></miattr>
+<miat><![CDATA[ 0728 ]]></miat>
+<miattr><![CDATA[ Temmuz 2028 ]]></miattr>
 <kat1><![CDATA[ Balık Yağları ]]></kat1>
 <kat2/>
 <kat3/>
@@ -74332,8 +74288,8 @@
 <marka><![CDATA[ Orzax ]]></marka>
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/3822e910-d6ad-47ff-a36f-3612fa07cdad.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
-<varyantdeger1><![CDATA[ Ekim 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 77 ]]></varyantstok>
+<varyantdeger1><![CDATA[ Temmuz 2028 ]]></varyantdeger1>
+<varyantstok><![CDATA[ 67 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697595870273 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 171.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/3822e910-d6ad-47ff-a36f-3612fa07cdad.jpg ]]></varyantresim>
@@ -74429,7 +74385,7 @@
 <product>
 <sku><![CDATA[ 8697595872062 ]]></sku>
 <name><![CDATA[ Ocean Picozinc 30 Tablet ]]></name>
-<quantity><![CDATA[ 13 ]]></quantity>
+<quantity><![CDATA[ 12 ]]></quantity>
 <price><![CDATA[ 169.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
@@ -74443,7 +74399,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/7d0ec798-4ab6-430d-922e-738398a9c753.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 13 ]]></varyantstok>
+<varyantstok><![CDATA[ 12 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8697595872062 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 169.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/7d0ec798-4ab6-430d-922e-738398a9c753.jpg ]]></varyantresim>
@@ -74627,7 +74583,7 @@
 <product>
 <sku><![CDATA[ 850071952650 ]]></sku>
 <name><![CDATA[ Ocean Ultimate 30 Kapsül ]]></name>
-<quantity><![CDATA[ 24 ]]></quantity>
+<quantity><![CDATA[ 23 ]]></quantity>
 <price><![CDATA[ 698.68 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
@@ -74641,7 +74597,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/11d026e4-30fe-494e-bb59-87fea625be32.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 24 ]]></varyantstok>
+<varyantstok><![CDATA[ 23 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 850071952650 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 698.68 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/11d026e4-30fe-494e-bb59-87fea625be32.jpg ]]></varyantresim>
@@ -74759,7 +74715,7 @@
 <product>
 <sku><![CDATA[ 850077028519 ]]></sku>
 <name><![CDATA[ Ocean Vitamin D3 400 IU Oral Sprey 20 ml ]]></name>
-<quantity><![CDATA[ 20 ]]></quantity>
+<quantity><![CDATA[ 19 ]]></quantity>
 <price><![CDATA[ 208.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0429 ]]></miat>
@@ -74773,7 +74729,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/ae097c15-9b9b-4a76-b0ea-b7b88483f24b.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Nisan 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 20 ]]></varyantstok>
+<varyantstok><![CDATA[ 19 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 850077028519 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 208.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/ae097c15-9b9b-4a76-b0ea-b7b88483f24b.jpg ]]></varyantresim>
@@ -74869,7 +74825,7 @@
 <product>
 <sku><![CDATA[ 8690530025820 ]]></sku>
 <name><![CDATA[ Okey Kayganlaştırıcı Jel Zero 100 ml ]]></name>
-<quantity><![CDATA[ 42 ]]></quantity>
+<quantity><![CDATA[ 41 ]]></quantity>
 <price><![CDATA[ 197.89 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0729 ]]></miat>
@@ -74883,7 +74839,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/dc0ecbf6-fcdf-4e02-9e1a-3e8ca7ea0ba2.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Temmuz 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 42 ]]></varyantstok>
+<varyantstok><![CDATA[ 41 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690530025820 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 197.89 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/dc0ecbf6-fcdf-4e02-9e1a-3e8ca7ea0ba2.jpg ]]></varyantresim>
@@ -74891,11 +74847,11 @@
 <product>
 <sku><![CDATA[ 8850956034107 ]]></sku>
 <name><![CDATA[ Okey Nirvana Sens Prezervatif 8'li ]]></name>
-<quantity><![CDATA[ 11 ]]></quantity>
+<quantity><![CDATA[ 10 ]]></quantity>
 <price><![CDATA[ 236.47 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
-<miat><![CDATA[ 0329 ]]></miat>
-<miattr><![CDATA[ Mart 2029 ]]></miattr>
+<miat><![CDATA[ 0330 ]]></miat>
+<miattr><![CDATA[ Mart 2030 ]]></miattr>
 <kat1><![CDATA[ Prezervatif ]]></kat1>
 <kat2/>
 <kat3/>
@@ -74904,8 +74860,8 @@
 <marka><![CDATA[ Okey ]]></marka>
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/b055a2d9-a37f-4e70-a219-3ed14e3f311e.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
-<varyantdeger1><![CDATA[ Mart 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 11 ]]></varyantstok>
+<varyantdeger1><![CDATA[ Mart 2030 ]]></varyantdeger1>
+<varyantstok><![CDATA[ 10 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8850956034107 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 236.47 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/b055a2d9-a37f-4e70-a219-3ed14e3f311e.jpg ]]></varyantresim>
@@ -74913,7 +74869,7 @@
 <product>
 <sku><![CDATA[ 8850956393778 ]]></sku>
 <name><![CDATA[ Okey Prezervatif Çifte Haz 10'lu ]]></name>
-<quantity><![CDATA[ 45 ]]></quantity>
+<quantity><![CDATA[ 44 ]]></quantity>
 <price><![CDATA[ 144.71 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0530 ]]></miat>
@@ -74927,7 +74883,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/dbed6cc9-df8f-40d4-afc5-0a7ba17195eb.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Mayıs 2030 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 45 ]]></varyantstok>
+<varyantstok><![CDATA[ 44 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8850956393778 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 144.71 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/dbed6cc9-df8f-40d4-afc5-0a7ba17195eb.jpg ]]></varyantresim>
@@ -75024,7 +74980,7 @@
 <sku><![CDATA[ 8850956093807 ]]></sku>
 <name><![CDATA[ Okey Prezervatif Klasik 20'li - Ekonomik ]]></name>
 <quantity><![CDATA[ 20 ]]></quantity>
-<price><![CDATA[ 284.4 ]]></price>
+<price><![CDATA[ 284.39 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1030 ]]></miat>
 <miattr><![CDATA[ Ekim 2030 ]]></miattr>
@@ -75039,7 +74995,7 @@
 <varyantdeger1><![CDATA[ Ekim 2030 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 20 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8850956093807 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 284.4 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 284.39 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8eb7d1da-9dcc-4085-b313-821e782ac119.jpg ]]></varyantresim>
 </product>
 <product>
@@ -75376,7 +75332,7 @@
 <sku><![CDATA[ 8447289000055 ]]></sku>
 <name><![CDATA[ Okey Rötar Max Prezervatif 20'li ]]></name>
 <quantity><![CDATA[ 4 ]]></quantity>
-<price><![CDATA[ 290.57 ]]></price>
+<price><![CDATA[ 290.56 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
@@ -75391,7 +75347,7 @@
 <varyantdeger1><![CDATA[ Eylül 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 4 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8447289000055 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 290.57 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 290.56 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/9716d1a5-6dd2-4064-9b93-a2bf3e8ea126.jpg ]]></varyantresim>
 </product>
 <product>
@@ -76146,7 +76102,7 @@
 <sku><![CDATA[ 883205101457 ]]></sku>
 <name><![CDATA[ Opalescence Sensitivity Relief 133 gr ]]></name>
 <quantity><![CDATA[ 3 ]]></quantity>
-<price><![CDATA[ 587.4 ]]></price>
+<price><![CDATA[ 587.39 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
@@ -76161,7 +76117,7 @@
 <varyantdeger1><![CDATA[ Mart 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 3 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 883205101457 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 587.4 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 587.39 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/8dffb37e-d84a-47fb-ab36-9433563756b7.jpg ]]></varyantresim>
 </product>
 <product>
@@ -77114,7 +77070,7 @@
 <sku><![CDATA[ 8699245890068 ]]></sku>
 <name><![CDATA[ Otifleks Kulak Tıkacı Uyku & Seyahat - xLarge ]]></name>
 <quantity><![CDATA[ 6 ]]></quantity>
-<price><![CDATA[ 228.16 ]]></price>
+<price><![CDATA[ 228.15 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[  ]]></miat>
 <miattr><![CDATA[ Miadsız Ürün ]]></miattr>
@@ -77129,7 +77085,7 @@
 <varyantdeger1><![CDATA[ Miadsız Ürün ]]></varyantdeger1>
 <varyantstok><![CDATA[ 6 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699245890068 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 228.16 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 228.15 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f1d7cd98-cbff-49fc-b079-6bb1fee6d516.jpg ]]></varyantresim>
 </product>
 <product>
@@ -77443,7 +77399,7 @@
 <product>
 <sku><![CDATA[ 8683060010251-2 ]]></sku>
 <name><![CDATA[ Pharmaton Vitality 30 Tablet Avantajlı 2'li Paket ]]></name>
-<quantity><![CDATA[ 188 ]]></quantity>
+<quantity><![CDATA[ 187 ]]></quantity>
 <price><![CDATA[ 789.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0728 ]]></miat>
@@ -77457,7 +77413,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/0eed5161-359e-48e9-b595-aa2e2298027f.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Temmuz 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 188 ]]></varyantstok>
+<varyantstok><![CDATA[ 187 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8683060010251-2 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 789.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/0eed5161-359e-48e9-b595-aa2e2298027f.jpg ]]></varyantresim>
@@ -77488,7 +77444,7 @@
 <sku><![CDATA[ 8699273579218 ]]></sku>
 <name><![CDATA[ Plentyfert 30 Saşe ]]></name>
 <quantity><![CDATA[ 10 ]]></quantity>
-<price><![CDATA[ 1444.94 ]]></price>
+<price><![CDATA[ 1444.93 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0329 ]]></miat>
 <miattr><![CDATA[ Mart 2029 ]]></miattr>
@@ -77503,7 +77459,7 @@
 <varyantdeger1><![CDATA[ Mart 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 10 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699273579218 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1444.94 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1444.93 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/9c2010ce-79a6-486f-a7f0-47ddb69da935.jpg ]]></varyantresim>
 </product>
 <product>
@@ -78016,7 +77972,7 @@
 <sku><![CDATA[ 8699592802035 ]]></sku>
 <name><![CDATA[ Roll Med Tıbbi Nonwoven Kağıt Flaster 5cm x 5m ]]></name>
 <quantity><![CDATA[ 1 ]]></quantity>
-<price><![CDATA[ 94.21 ]]></price>
+<price><![CDATA[ 94.2 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0131 ]]></miat>
 <miattr><![CDATA[ Ocak 2031 ]]></miattr>
@@ -78031,7 +77987,7 @@
 <varyantdeger1><![CDATA[ Ocak 2031 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 1 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8699592802035 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 94.21 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 94.2 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/4a150405-5ee2-4769-a132-3a4d01773518.jpg ]]></varyantresim>
 </product>
 <product>
@@ -78522,7 +78478,7 @@
 <sku><![CDATA[ 8690530057449 ]]></sku>
 <name><![CDATA[ Selpak Organik Bambu ve Pamuk Özlü Islak Mendil 50 Adet ]]></name>
 <quantity><![CDATA[ 4 ]]></quantity>
-<price><![CDATA[ 58.91 ]]></price>
+<price><![CDATA[ 58.9 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0129 ]]></miat>
 <miattr><![CDATA[ Ocak 2029 ]]></miattr>
@@ -78537,7 +78493,7 @@
 <varyantdeger1><![CDATA[ Ocak 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 4 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690530057449 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 58.91 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 58.9 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/products/75b5d555-b2e6-4111-a8da-7add0df014f7.jpg ]]></varyantresim>
 </product>
 <product>
@@ -79006,7 +78962,7 @@
 <sku><![CDATA[ 033984004641 ]]></sku>
 <name><![CDATA[ Solgar Bromelain 150 mg 60 Kapsül ]]></name>
 <quantity><![CDATA[ 6 ]]></quantity>
-<price><![CDATA[ 730.56 ]]></price>
+<price><![CDATA[ 730.5 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1127 ]]></miat>
 <miattr><![CDATA[ Kasım 2027 ]]></miattr>
@@ -79021,7 +78977,7 @@
 <varyantdeger1><![CDATA[ Kasım 2027 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 6 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 033984004641 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 730.56 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 730.5 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/f339137f-44d9-4e9d-bf68-e9a6b288e44a.jpg ]]></varyantresim>
 </product>
 <product>
@@ -79182,7 +79138,7 @@
 <sku><![CDATA[ 033984020276 ]]></sku>
 <name><![CDATA[ Solgar Efa 1300 mg Omega 3-6-9 60 Softgel ]]></name>
 <quantity><![CDATA[ 8 ]]></quantity>
-<price><![CDATA[ 1089.4 ]]></price>
+<price><![CDATA[ 1089.34 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0528 ]]></miat>
 <miattr><![CDATA[ Mayıs 2028 ]]></miattr>
@@ -79197,7 +79153,7 @@
 <varyantdeger1><![CDATA[ Mayıs 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 8 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 033984020276 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1089.4 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1089.34 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/1333ee96-f721-465e-a250-933724fb96d6.jpg ]]></varyantresim>
 </product>
 <product>
@@ -79226,7 +79182,7 @@
 <sku><![CDATA[ 0339840105126 ]]></sku>
 <name><![CDATA[ Solgar Ester-C Plus 1000 mg 60 Tablet ]]></name>
 <quantity><![CDATA[ 13 ]]></quantity>
-<price><![CDATA[ 791.18 ]]></price>
+<price><![CDATA[ 791.12 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0328 ]]></miat>
 <miattr><![CDATA[ Mart 2028 ]]></miattr>
@@ -79241,7 +79197,7 @@
 <varyantdeger1><![CDATA[ Mart 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 13 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 0339840105126 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 791.18 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 791.12 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/ed31fac5-673a-4ca1-b2e9-f7309ea910bf.jpg ]]></varyantresim>
 </product>
 <product>
@@ -79402,7 +79358,7 @@
 <sku><![CDATA[ 033984014176 ]]></sku>
 <name><![CDATA[ Solgar Hyaluronic Acid Collagen Complex 30 Tablet ]]></name>
 <quantity><![CDATA[ 7 ]]></quantity>
-<price><![CDATA[ 1247.08 ]]></price>
+<price><![CDATA[ 1247.02 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0928 ]]></miat>
 <miattr><![CDATA[ Eylül 2028 ]]></miattr>
@@ -79417,7 +79373,7 @@
 <varyantdeger1><![CDATA[ Eylül 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 7 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 033984014176 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1247.08 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1247.02 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/07a970e9-e1e3-4c73-baee-8c68ecc85e6d.jpg ]]></varyantresim>
 </product>
 <product>
@@ -80941,7 +80897,7 @@
 <product>
 <sku><![CDATA[ 3331300097238 ]]></sku>
 <name><![CDATA[ Sterimar Baby Burun Spreyi Deniz Suyu 50 ml ]]></name>
-<quantity><![CDATA[ 30 ]]></quantity>
+<quantity><![CDATA[ 28 ]]></quantity>
 <price><![CDATA[ 254.89 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0927 ]]></miat>
@@ -80955,7 +80911,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/11b70ab9-4494-421f-800c-49e8501bab25.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Eylül 2027 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 30 ]]></varyantstok>
+<varyantstok><![CDATA[ 28 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3331300097238 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 254.89 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/11b70ab9-4494-421f-800c-49e8501bab25.jpg ]]></varyantresim>
@@ -80963,7 +80919,7 @@
 <product>
 <sku><![CDATA[ 3331300097245 ]]></sku>
 <name><![CDATA[ Sterimar Burun Spreyi Blocked Nose Hipertonik 100 ml ]]></name>
-<quantity><![CDATA[ 18 ]]></quantity>
+<quantity><![CDATA[ 16 ]]></quantity>
 <price><![CDATA[ 343.89 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 1128 ]]></miat>
@@ -80977,7 +80933,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/95557fd6-629e-4aa6-a915-64ae51e5daa0.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Kasım 2028 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 18 ]]></varyantstok>
+<varyantstok><![CDATA[ 16 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 3331300097245 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 343.89 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/95557fd6-629e-4aa6-a915-64ae51e5daa0.jpg ]]></varyantresim>
@@ -81162,7 +81118,7 @@
 <sku><![CDATA[ 8681571357599 ]]></sku>
 <name><![CDATA[ Suda Collagen Multiform Portakallı Magnesium 30 Saşe 15 gr ]]></name>
 <quantity><![CDATA[ 20 ]]></quantity>
-<price><![CDATA[ 1279.64 ]]></price>
+<price><![CDATA[ 1279.58 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0229 ]]></miat>
 <miattr><![CDATA[ Şubat 2029 ]]></miattr>
@@ -81177,7 +81133,7 @@
 <varyantdeger1><![CDATA[ Şubat 2029 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 20 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8681571357599 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 1279.64 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 1279.58 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/4ee4f407-3000-4955-8519-b5e2f482653e.jpg ]]></varyantresim>
 </product>
 <product>
@@ -82658,7 +82614,7 @@
 <sku><![CDATA[ 8690530025523 ]]></sku>
 <name><![CDATA[ Uni Baby Sıvı Çamaşır Sabunu 1500 ml ]]></name>
 <quantity><![CDATA[ 6 ]]></quantity>
-<price><![CDATA[ 309.07 ]]></price>
+<price><![CDATA[ 309.06 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0428 ]]></miat>
 <miattr><![CDATA[ Nisan 2028 ]]></miattr>
@@ -82673,7 +82629,7 @@
 <varyantdeger1><![CDATA[ Nisan 2028 ]]></varyantdeger1>
 <varyantstok><![CDATA[ 6 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690530025523 ]]></varyantbarkod>
-<varyantfiyat><![CDATA[ 309.07 ]]></varyantfiyat>
+<varyantfiyat><![CDATA[ 309.06 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/06872654-022a-4722-a59f-95efa34882eb.jpg ]]></varyantresim>
 </product>
 <product>
@@ -83581,7 +83537,7 @@
 <product>
 <sku><![CDATA[ 8690712019807 ]]></sku>
 <name><![CDATA[ Zade Vital Sistifix 20 Kapsül ]]></name>
-<quantity><![CDATA[ 49 ]]></quantity>
+<quantity><![CDATA[ 48 ]]></quantity>
 <price><![CDATA[ 308.99 ]]></price>
 <kdv><![CDATA[ 1 ]]></kdv>
 <miat><![CDATA[ 0529 ]]></miat>
@@ -83595,7 +83551,7 @@
 <resim1><![CDATA[ https://image.ecza1.com/ecza1/productnew/21b6d174-c895-4e6f-863b-a66a3659f931.jpg ]]></resim1>
 <varyantbaslik1><![CDATA[ Miat ]]></varyantbaslik1>
 <varyantdeger1><![CDATA[ Mayıs 2029 ]]></varyantdeger1>
-<varyantstok><![CDATA[ 49 ]]></varyantstok>
+<varyantstok><![CDATA[ 48 ]]></varyantstok>
 <varyantbarkod><![CDATA[ 8690712019807 ]]></varyantbarkod>
 <varyantfiyat><![CDATA[ 308.99 ]]></varyantfiyat>
 <varyantresim><![CDATA[ https://image.ecza1.com/ecza1/productnew/21b6d174-c895-4e6f-863b-a66a3659f931.jpg ]]></varyantresim>
